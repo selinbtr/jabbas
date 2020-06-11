@@ -9,9 +9,10 @@ function preMapper(){
     //transform user zip code to coordinates in this format userLocation = [lat,long]
     var userLocation = aaaaaaa
     const APIKEY = 123456
-    //query the api with fixed parameters and return a json list object with 15 nearest trais 
+    //query the api with fixed parameters and rtuern a json list object with 15 nearest trais 
     // might have to put this together first? 
-    var userTrails = json(`https://www.hikingproject.com/data/get-trails?lat=${userLocation[0]}`+`&lon=${userLocation[1]}`+`&maxDistance=25&maxResults=15&key=${APIKEY}`, markMaker)
+    var trailQueryURL = `https://www.hikingproject.com/data/get-trails?lat=${userLocation[0]}`+`&lon=${userLocation[1]}`+`&maxDistance=25&maxResults=15&key=${APIKEY}`
+    d3.json(trailQueryURL, markMaker)
 }
 
 
