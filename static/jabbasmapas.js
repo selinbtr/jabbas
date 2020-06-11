@@ -20,35 +20,29 @@ function preMapper(){
 function markMarker(response){
     // Pull the "stations" property off of response.data
     var stations = response.data.stations;
-  
-    // Initialize an array to hold bike markers
-    var bikeMarkers = [];
-  
+    // Initialize an array to hold trail markers
+    var trailMarkers = [];
     // Loop through the stations array
     for (var index = 0; index < stations.length; index++) {
       var station = stations[index];
-  
       // For each station, create a marker and bind a popup with the station's name
-      var bikeMarker = L.marker([station.lat, station.lon])
+      var trailMarker = L.marker([station.lat, station.lon])
         .bindPopup("<h3>" + station.name + "<h3><h3>Capacity: " + station.capacity + "</h3>");
-  
-      // Add the marker to the bikeMarkers array
-      bikeMarkers.push(bikeMarker);
+      // Add the marker to the trailMarkers array
+      trailMarkers.push(trailMarker);
     }
-  
-    // Create a layer group made from the bike markers array, pass it into the createMap function
-    trailMapper(L.layerGroup(bikeMarkers));
+    // Create a layer group made from the trail markers array, pass it into the createMap function
+    trailMapper(L.layerGroup(trailMarkers));
 }
 
 //NOT COMPLETE
 function trailMapper(nearbyTrails) {
-
     // Create the tile layer that will be the background of our map
     var lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
       attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
       maxZoom: 18,
       id: "light-v10",
-      accessToken: API_KEY
+      accessToken: API_KEY_OPENMAP
     });
 
     var baseMaps = {
