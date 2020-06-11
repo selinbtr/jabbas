@@ -42,7 +42,7 @@ function trailMapper(nearbyTrails) {
       attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
       maxZoom: 18,
       id: "light-v10",
-      accessToken: API_KEY_OPENMAP
+      accessToken: "pk.eyJ1IjoianVsaWFsZW9ub2ZmIiwiYSI6ImNrYXR6NnRwbTBmcWMyeW9jemdnaTJ2ajgifQ.HSHs0WzCPhklGQIJX2-J3A"
     });
 
     var baseMaps = {
