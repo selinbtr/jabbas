@@ -1,1 +1,1 @@
-# jabbas-api
+# jabbas

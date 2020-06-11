@@ -8,46 +8,41 @@ function preMapper(){
     var userZipCode = $('#idname').val();
     //transform user zip code to coordinates in this format userLocation = [lat,long]
     var userLocation = aaaaaaa
-    const APIKEY = 123456
-    //query the api with fixed parameters and return a json list object with 15 nearest trais 
+    const APIKEY = "200794352-5993ea8c5073db58e8b8515192f76469"
+    //query the api with fixed parameters and rtuern a json list object with 15 nearest trais 
     // might have to put this together first? 
-    var userTrails = json(`https://www.hikingproject.com/data/get-trails?lat=${userLocation[0]}`+`&lon=${userLocation[1]}`+`&maxDistance=25&maxResults=15&key=${APIKEY}`, markMaker)
+    var trailQueryURL = `https://www.hikingproject.com/data/get-trails?lat=${userLocation[0]}`+`&lon=${userLocation[1]}`+`&maxDistance=25&maxResults=15&key=${APIKEY}`
+    d3.json(trailQueryURL, markMaker)
 }
 
 
 //NOT COMPLETE
 function markMarker(response){
-    // Pull the "stations" property off of response.data
-    var stations = response.data.stations;
-  
-    // Initialize an array to hold bike markers
-    var bikeMarkers = [];
-  
-    // Loop through the stations array
-    for (var index = 0; index < stations.length; index++) {
-      var station = stations[index];
-  
+    // Pull the "trails" property off of response.data
+    var trails = response.data.trails;
+    // Initialize an array to hold trail markers
+    var trailMarkers = [];
+    // Loop through the trails array
+    for (var index = 0; index < trails.length; index++) {
+      var station = trails[index];
       // For each station, create a marker and bind a popup with the station's name
-      var bikeMarker = L.marker([station.lat, station.lon])
+      var trailMarker = L.marker([station.lat, station.lon])
         .bindPopup("<h3>" + station.name + "<h3><h3>Capacity: " + station.capacity + "</h3>");
-  
-      // Add the marker to the bikeMarkers array
-      bikeMarkers.push(bikeMarker);
+      // Add the marker to the trailMarkers array
+      trailMarkers.push(trailMarker);
     }
-  
-    // Create a layer group made from the bike markers array, pass it into the createMap function
-    trailMapper(L.layerGroup(bikeMarkers));
+    // Create a layer group made from the trail markers array, pass it into the createMap function
+    trailMapper(L.layerGroup(trailMarkers));
 }
 
 //NOT COMPLETE
 function trailMapper(nearbyTrails) {
-
     // Create the tile layer that will be the background of our map
     var lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
       attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
       maxZoom: 18,
       id: "light-v10",
-      accessToken: API_KEY
+      accessToken: "pk.eyJ1IjoianVsaWFsZW9ub2ZmIiwiYSI6ImNrYXR6NnRwbTBmcWMyeW9jemdnaTJ2ajgifQ.HSHs0WzCPhklGQIJX2-J3A"
     });
 
     var baseMaps = {
