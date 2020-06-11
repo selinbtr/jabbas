@@ -12,7 +12,7 @@ function preMapper(){
     //query the api with fixed parameters and rtuern a json list object with 15 nearest trais 
     // might have to put this together first? 
     var trailQueryURL = `https://www.hikingproject.com/data/get-trails?lat=${userLocation[0]}`+`&lon=${userLocation[1]}`+`&maxDistance=25&maxResults=15&key=${APIKEY}`
-    json(trailQueryURL, markMaker)
+    d3.json(trailQueryURL, markMaker)
 }
 
 
