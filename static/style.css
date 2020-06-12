@@ -1,17 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro');
-@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
-
-
 body {
-    font-family:'Source Code Pro', monospace;
-    font-size: larger;
-    font-weight: 600;
-}
-h1 {
-    font-family: 'Piedra', cursive;
+    font-family: calibri;
 }
 
-.col-4, .col-1, .col-2, .col-3{
-    margin-top: auto; 
-    margin-bottom: auto;
+.jumbotron {
+    color: white;
+    font-weight: bold;
+    background-color: rgb(15, 15, 104);
+    border: 10px black;
+    border-style: solid;
+    width: 100%
+}
+
+h1 {
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+h3 {
+    text-align: center;
+}
+
+#hiking {
+    background-image: url("https://wallpaperaccess.com/full/1638233.jpg");
+    background-size: cover;
 }
