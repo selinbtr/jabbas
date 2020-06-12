@@ -29,3 +29,39 @@ h3 {
     background-image: url(" https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2BF5GCrJ73ZB5dyeDm3Pz4rlnDH5WyCQCNerbjiZJtoDEpZP0&usqp=CAU");
     background-size: cover;
 }
+
+.panel {
+    text-align: center;
+    border: none;
+}
+
+.panel-title {
+    background-color: rgb(255, 178, 34);
+    font-size: 30px;
+    border: 3px solid black;
+    padding: 5px
+}
+
+.panel-body {
+    background-color: rgb(235, 235, 235);
+    border: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: none;
+}
+
+#filter-title {
+    font-size: 20px;
+    background-color: rgb(137, 192, 255);
+}
+
+#movie-charts {
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+#table {
+    text-align: center;
+}
