@@ -31,14 +31,14 @@ fetch('/zipcodes').then(data=>data.json()).then(d=>{
     function createMap(coordinates) { 
         
         var hikeMap = L.map("map", {
-            center: [37.09, -95.71],
-            zoom: 5,
+            center: coordinates,
+            zoom: 9,
         });
 
         var lightMap = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
             attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
             maxZoom: 18,
-            id: 'mapbox/light-v10',
+            id: 'mapbox/outdoors-v11',
             tileSize: 512,
             zoomOffset: -1,
             accessToken: MAP_API_KEY
@@ -62,7 +62,8 @@ fetch('/zipcodes').then(data=>data.json()).then(d=>{
             for (var i = 0; i < marker.length; i++) {
                 var trail = marker[i];
                 L.marker([trail.latitude, trail.longitude])
-                    .bindPopup("<h3>" + trail.name + "</h3><p>" + `${trail.summary}` + "</p><hr>" + 
+                    .bindPopup("<h3>" + trail.name + "</h3><p>" + trail.summary + "</p><img src=" + 
+                    trail.imgSqSmall + " alt='not shwing' height=150/><hr>" + 
                     "<p>" + `Condition: ${trail.conditionStatus}` + "</p></n>" + "<p>" + `Difficulty: ${trail.difficulty}` +
                     "</p></n>" + "<p>" + `Rating: ${trail.stars} stars` + "</p>")
                     .addTo(hikeMap)

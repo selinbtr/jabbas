@@ -68,8 +68,8 @@ function buildChart(selection) {
             var imdb_rating = movie.rating
             ratings_list.push(imdb_rating)
         })
-        var titles_list = titles_list.slice(0,10)
-        var ratings_list = ratings_list.slice(0,10)
+        var titles_list = titles_list.slice(0,25)
+        var ratings_list = ratings_list.slice(0,25)
 
         var barTrace={
             y: ratings_list,
@@ -78,7 +78,7 @@ function buildChart(selection) {
         };
         
         var barlayout = {
-            title: `Top 10 ${selection} Movies`
+            title: `Top ${selection} Movies`
         };
 
         Plotly.newPlot('bar', [barTrace], barlayout)
