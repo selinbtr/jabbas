@@ -1,24 +1,28 @@
+// fetch("/movie_data").then(data=>data.json()).then(d=>{
+
+// })
+
 d3.json("http://127.0.0.1:5000/movie_data").then((data) => {
     console.log(data)
     var selector=d3.select('#selDataset');
 
     // for (var i=0; i<data.length; i++)
-    var ratings_list = []
+    var genre_list = []
     data.forEach((movie)=> {
-        var content_rating = movie.content_rating;
-        ratings_list.push(content_rating)
+        var genre = movie.genres;
+        genre_list.push(genre)
     })
        
      
-    var unique_ratings = Array.from(new Set(ratings_list))
-    console.log(unique_ratings)
-    unique_ratings.forEach((rating)=> {
+    var unique_genres = Array.from(new Set(genre_list))
+    console.log(unique_genres)
+    unique_genres.forEach((genre)=> {
         selector.append('option')
-        .property('value', rating)
-        .text(rating)
+        .property('value', genre)
+        .text(genre)
     })
 
-buildChart(unique_ratings[0]);
+buildChart(unique_genres[0]);
 
 });
 
@@ -26,7 +30,7 @@ buildChart(unique_ratings[0]);
 
 function buildChart(selection) {
     d3.json("http://127.0.0.1:5000/movie_data").then((data)=> {
-        var filterSubject = data.filter(data => data.content_rating==selection)
+        var filterSubject = data.filter(data => data.genres==selection)
         console.log(filterSubject)
        
         var country_list = []
