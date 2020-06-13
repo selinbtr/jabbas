@@ -34,15 +34,28 @@
         </div>
     </div>
 
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <div class="well">
+                    <h5><strong>Select Content Rating:</strong></h5>
+                    <select id="selDataset" onchange="optionChanged(this.value)"></select>
+                </div>
+            </div>
+            <div class="col-md-4"></div>
+        </div>
+    </div>
+
     <div class="container" id="movie-charts">
         <div class="row">
             <div class="col-md-6">
-                <div class="pie">
+                <div class="pie" id="pie">
                     PIE
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="bar">
+                <div class="bar" id="bar">
                     BAR
                 </div>
             </div>
@@ -58,7 +71,7 @@
                     <div class="panel-title">
                         <strong>Your Chosen Movie</strong>
                     </div>
-                    <div class="panel-body" id="movie-data">
+                    <div class="panel-body" id="sample-metadata">
                     </div>
                 </div>
             </div>
@@ -136,4 +149,10 @@
         </div>
     </div>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="../static/updater.js"></script>
+    <script src="../static/dashboard.js"></script>
+
 </body>
+</html>
