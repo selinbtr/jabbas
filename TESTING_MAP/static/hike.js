@@ -1,11 +1,8 @@
 fetch('/zipcodes').then(data=>data.json()).then(d=>{
     console.log(d);
-
-    var button = d3.select("#button");
-    var form = d3.select("#form");
-
-    button.on("click", getCoordinates);
-    form.on("submit", getCoordinates); 
+    
+    var button = d3.select("#button").on("click", getCoordinates);
+    var form = d3.select("#form").on("submit", getCoordinates);
 
     function getCoordinates() {
 
@@ -14,7 +11,7 @@ fetch('/zipcodes').then(data=>data.json()).then(d=>{
         var hikeInput = d3.select("#hike-form-input")
         var hikeValue = hikeInput.property("value");
 
-        //d3.select("#hike-form-input").node().value = "";
+        d3.select("#hike-form-input").node().value = "";
 
         var coordinates = [];
 
@@ -30,9 +27,11 @@ fetch('/zipcodes').then(data=>data.json()).then(d=>{
 
     function createMap(coordinates) { 
         
+        document.getElementById('map-try').innerHTML="<div id='map'></div>";
+
         var hikeMap = L.map("map", {
             center: coordinates,
-            zoom: 9,
+            zoom: 8,
         });
 
         var lightMap = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
@@ -70,8 +69,9 @@ fetch('/zipcodes').then(data=>data.json()).then(d=>{
                     
             }
         } 
-    }
 
+    }
+    
 });
 
 
