@@ -41,18 +41,6 @@ function buildChart(selection) {
         var labels = Object.keys(country_dict)
         var values = Object.values(country_dict)
         console.log(values)
-//         var unique_country = Array.from(new Set(country_list))
-//         for (var i = 0; i<unique_country.length; i++){
-//             country_dict.push({
-//                 key: unique_country[i], 
-//                 value: 1
-//         })
-       
-//         }
-//         console.log(country_dict)
-//         var values = Object.values(country_dict)
-//         var labels = Object.keys(country_dict)
-//         console.log(country_list)
      
 
         var trace = {
