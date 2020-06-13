@@ -34,9 +34,9 @@ function buildChart(selection) {
         console.log(filterSubject)
        
         var country_list = []
-        var country_count = filterSubject.forEach((movie)=>{
-                            var country = movie.country
-                            country_list.push(country)
+        filterSubject.forEach((movie)=>{
+            var country = movie.country
+            country_list.push(country)
         
         });
 
@@ -45,7 +45,6 @@ function buildChart(selection) {
         var labels = Object.keys(country_dict)
         var values = Object.values(country_dict)
         console.log(values)
-     
 
         var trace = {
             labels: labels, 
@@ -55,16 +54,43 @@ function buildChart(selection) {
             textposition: "inside"
         };
         var layout = {
-            title: "Select a Movie by Content Rating",
+            title: `${selection} Movies broken out by Country of Origin`,
             showlegend: false
         };
         var data = [trace];
         Plotly.newPlot("pie", data, layout);
+
+        var titles_list = []
+        var ratings_list = []
+        filterSubject.forEach((movie)=> {
+            var movie_title = movie.movie
+            titles_list.push(movie_title)
+            var imdb_rating = movie.rating
+            ratings_list.push(imdb_rating)
+        })
+        var titles_list = titles_list.slice(0,10)
+        var ratings_list = ratings_list.slice(0,10)
+
+        var barTrace={
+            y: ratings_list,
+            x: titles_list,
+            type: 'bar'
+        };
+        
+        var barlayout = {
+            title: `Top 10 ${selection} Movies`
+        };
+
+        Plotly.newPlot('bar', [barTrace], barlayout)
+        
+        
+        console.log(titles_list)
+        console.log(ratings_list)
     });
+    
 }
 
 function optionChanged(selectedRating) {
     console.log(selectedRating);
     buildChart(selectedRating);
-    // demographicData(selectedSample);
 };
