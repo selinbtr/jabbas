@@ -5,7 +5,7 @@ import numpy as np
 from sqlalchemy.ext.automap import automap_base
 # Base = declarative_base()
 from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, func
+from sqlalchemy import create_engine, func, inspect
 from sqlalchemy import Column, Integer, String, Float
 
 from flask import Flask, jsonify, request
@@ -14,76 +14,87 @@ from flask import Flask, jsonify, request
 #################################################
 # Database Setup
 #################################################
-SQLITE = "sqlite:///" + os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'titanic.sqlite')
+SQLITE = "sqlite:///" + os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'movie_db.sqlite')
 print(SQLITE)
 print(__file__)
 
 engine = create_engine(SQLITE)
-# Base.metadata.create_all(engine)
+
 Base = automap_base()
 Base.prepare(engine, reflect=True)
-keys = Base.classes.keys()
-print(keys)
-#session = Session(bind=engine)
 
-#create the class
-# class Movies(Base):
-#     __tablename__ = 'movies'
-#     index = Column(String)
-#     color = Column(String)
-#     director_name = Column(String)
-#     num_critic_for_reviews = Column(Integer)
-#     duration = Column(Integer)
-#     director_facebook_likes = Column(Integer)
-#     actor_3_facebook_likes = Column(Integer)
-#     actor_2_name = Column(String)
-#     actor_1_facebook_likes = Column(Integer)
-#     gross = Column(Integer)
-#     genres = Column(String)
-#     actor_1_name = Column(String)
-#     movie_title = Column(String, primary_key=True)
-#     num_voted_users = Column(Integer)
-#     cast_total_facebook_likes = Column(Integer)
-#     actor_3_name = Column(String)
-#     facenumber_in_poster = Column(Integer)
-#     plot_keywords = Column(String)
-#     movie_imdb_link = Column(String)
-#     num_user_for_reviews = Column(Integer)
-#     language = Column(String)
-#     country = Column(String)
-#     content_rating = Column(String)
-#     budget = Column(Integer)
-#     title_year = Column(Integer)
-#     actor_2_facebook_likes = Column(Integer)
-#     imdb_score = Column(Float)
-#     aspect_ratio = Column(Float)
-#     movie_facebook_likes = Column(Integer)
+inspector=inspect(engine)
+table_names=inspector.get_table_names()
+print(table_names)
+column_names=inspector.get_columns(table_names[0])
+for each_column in column_names:
+    print(each_column['name'], each_column['type'])
 
-# movies = session.query(Movies)
-# for movie in movies: 
-#     print(movie.movie_title)
 
 #################################################
 # Flask Setup
 #################################################
-# app = Flask(__name__)
+app = Flask(__name__)
 
-# @app.route("/")
-# def names():
-#     # Create our session (link) from Python to the DB
-#     session = Session(engine)
+@app.route("/")
+def welcome():
+    """List all available api routes."""
+    return (
+        f"Available Routes:<br/>"
+        f"/movie_data<br/>"
+        f"/get_piechart_data<br/>"
+        f"/get_barchart_data<br/>"
+        f"/dashboard<br/>"
+    )
 
-#     """Return a list of all passenger names"""
-#     # Query all passengers
-#     results = session.query(Movies.movie_title).all()
+@app.route("/movie_data")
+def movie_data():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
 
-#     session.close()
+    """Return a list of movie data """
+    # Query all movies
+    results=engine.execute('SELECT movie_title, director_name, genres, actor_1_name, plot_keywords, language, country, title_year, imdb_score, content_rating, * FROM sqldata').fetchall()
+    print(results)
 
-#     # Convert list of tuples into normal list
-#     # all_names = list(np.ravel(results))
+    session.close()
 
-#     return jsonify(results)
+    # # Create a dictionary from the row data and append to a list of movies
+    # all_movies = []
+    # for movie_title, director_name, duration, genres, actors, plot_keywords, language, country, title_year, imdb_score  in results:
+    #     movies_dict = {}
+    #     movies_dict["movie"] = movie_title
+    #     movies_dict["director"] = director_name
+    #     movies_dict["genres"] = genres
+    #     movies_dict["keywords"] = plot_keywords
+    #     movies_dict["language"] = language
+    #     movies_dict["country"] = country
+    #     movies_dict["year"] = title_year
+    #     movies_dict["rating"] = imdb_score
+    #     movies_dict["duration"] = duration
+    #     all_movies.append(movies_dict)
+    return jsonify(results)
 
+
+
+
+
+@app.route("/pie_chart")
+def names():
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+
+    # Query all content_rating
+    # results = session.query(sqldata.content_rating).all()
+    results=engine.execute('SELECT content_rating, COUNT(*) FROM sqldata GROUP BY content_rating').fetchall()
+    print(results)
+    result_list=[(result[0], result[1]) for result in results]
+    print(result_list)
+    session.close()
+
+
+    return jsonify(result_list)
 
 
 
@@ -143,5 +154,5 @@ print(keys)
 #     return jsonify(all_passengers)
 
 
-# if __name__ == '__main__':
-#     app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
