@@ -62,7 +62,7 @@ fetch('/zipcodes').then(data=>data.json()).then(d=>{
                 var trail = marker[i];
                 L.marker([trail.latitude, trail.longitude])
                     .bindPopup("<h3>" + trail.name + "</h3><p>" + trail.summary + "</p><img src=" + 
-                    trail.imgSqSmall + " alt='not shwing' height=150/><hr>" + 
+                    trail.imgSqSmall + " alt='broken' height=150/><hr>" + 
                     "<p>" + `Condition: ${trail.conditionStatus}` + "</p></n>" + "<p>" + `Difficulty: ${trail.difficulty}` +
                     "</p></n>" + "<p>" + `Rating: ${trail.stars} stars` + "</p>")
                     .addTo(hikeMap)
