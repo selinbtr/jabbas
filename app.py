@@ -92,58 +92,27 @@ def movie_data():
         all_movies.append(movies_dict)
     return jsonify(all_movies)
 
-# @app.route('/dashboard')
-# def dashboard():
-#     return render_template('index.html')
-
-# def calculate_percentage(val, total):
-#     """Calculates the percentage of a value over a total"""
-#     percent = np.divide(val, total)
-    
-#     return percent
 
 # @app.route('/piechart_data')
 # def get_piechart_data():
 #     session = Session(engine)
 #     """Return a list of content_rating counts """
-#     results = session.query(Movies.content_rating,func.count(Movies.content_rating)).\
-#                             group_by(Movies.content_rating)
+#     results = session.query(Movies.country,func.count(Movies.country)).\
+#                             group_by(Movies.country)
 #     session.close()
 #     print(results)
 # #     # Create a dictionary from the row data and append to a list of movies
 #     pie_chart = []
-#     for content_rating, count in results:
+#     for country, count in results:
 #         ratings_dict = {}
-#         ratings_dict['content_rating'] = content_rating
+#         ratings_dict['country'] = country
 #         ratings_dict['count'] = count
 #         pie_chart.append(ratings_dict)
 
 #     return jsonify(pie_chart)
 
-@app.route('/piechart_data')
-def get_piechart_data():
-    session = Session(engine)
-    """Return a list of content_rating counts """
-    results = session.query(Movies.country,func.count(Movies.country)).\
-                            group_by(Movies.country)
-    session.close()
-    print(results)
-#     # Create a dictionary from the row data and append to a list of movies
-    pie_chart = []
-    for country, count in results:
-        ratings_dict = {}
-        ratings_dict['country'] = country
-        ratings_dict['count'] = count
-        pie_chart.append(ratings_dict)
-
-    return jsonify(pie_chart)
 
 
-
-# @app.route('/get_barchart_data')
-# def get_barchart_data():
-
-#     return jsonify(barChartData)
 if __name__ == '__main__':
     app.run(debug=True)
 # if __name__ =='__main__':

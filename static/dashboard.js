@@ -62,30 +62,62 @@ function buildChart(selection) {
 
         var titles_list = []
         var ratings_list = []
+        var colors = []
         filterSubject.forEach((movie)=> {
             var movie_title = movie.movie
             titles_list.push(movie_title)
             var imdb_rating = movie.rating
             ratings_list.push(imdb_rating)
+            colors.push(`rgb(${255 * Math.random()},${255 * Math.random()},${255 * Math.random()})`)
         })
         var titles_list = titles_list.slice(0,25)
         var ratings_list = ratings_list.slice(0,25)
-
-        var barTrace={
-            y: ratings_list,
-            x: titles_list,
-            type: 'bar'
-        };
-        
-        var barlayout = {
-            title: `Top ${selection} Movies`
-        };
-
-        Plotly.newPlot('bar', [barTrace], barlayout)
-        
-        
+        var colors = colors.slice(0,25)
         console.log(titles_list)
-        console.log(ratings_list)
+      
+
+        cnvs = document.createElement('canvas')
+        cnvs.setAttribute('id','canvas_space')
+        ctx = cnvs.getContext('2d')
+
+        var barChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: titles_list,
+                datasets: [{
+                    label: 'Movie Titles',
+                    data: ratings_list,
+                    backgroundColor: colors, 
+                }]
+                },
+                options: {
+                    legend: {
+                        display: false
+                    },
+                    title: {
+                        display: true,
+                        text: `Top ${selection} Movies`,
+                        fontstyle: 'bold',
+                        position: 'top'
+                    },
+                    scales: {
+                        xAxes: [{
+                            gridLines: {
+                                offsetGridLines: true
+                            },
+                            ticks: {
+                                minRotation:90
+                            }
+                        }]
+                    },
+                    maintainAspectRatio: false,
+                    responsive: true,
+                }
+        })
+
+        document.getElementById('bar').appendChild(cnvs);
+
+       
     });
     
 }
