@@ -10,7 +10,19 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 from sqlalchemy import Column, Integer, String, Float
 
-from flask import Flask, jsonify
+from flask import (
+    Flask,
+    render_template,
+    jsonify,
+    request,
+    redirect,
+    send_from_directory)
+
+from flask_cors import CORS 
+
+app = Flask(__name__)
+CORS(app)
+
 
 
 SQLITE = "sqlite:///" + os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'zipcode_db.sqlite')
@@ -28,13 +40,22 @@ class Zipcode(Base):
 
 app = Flask(__name__)
 
-@app.route("/")
+
+
+@app.route('/')
 def welcome():
     return (
-        f"/zipcodes<br/>"
+        f"<h2>Welcome to the Directory</h2>"
+        f"Here are the available routes:<br/>"
+        f"<a href = '/zipcodes' target='_blank'>/zipcodes</a><br/>"
+        f"<a href = '/hike' target='_blank'>/hike</a><br/>"
     )
 
-@app.route("/zipcodes")
+@app.route('/hike')
+def dashboard():
+    return render_template('/index.html')
+
+@app.route('/zipcodes')
 def zipcode():
     session = Session(engine)
 
@@ -45,9 +66,9 @@ def zipcode():
     all_zipcodes = []
     for zip, latitude, longitude  in results:
         zipcode_dict = {}
-        zipcode_dict["zip"] = zip
-        zipcode_dict["lat"] = latitude
-        zipcode_dict["lon"] = longitude
+        zipcode_dict['zip'] = zip
+        zipcode_dict['lat'] = latitude
+        zipcode_dict['lon'] = longitude
         all_zipcodes.append(zipcode_dict)
         
     return jsonify(all_zipcodes)
@@ -55,29 +76,13 @@ def zipcode():
 
 
 
-
-@app.route("/hike") 
-def hike():
-
-    #session = Session(engine)
-
-    #results = session.query(Zipcode.zip, Zipcode.latitude, Zipcode.longitude).all()
-
-    #session.close()
-
-    #zipcode = [result[0] for result in results]
-    #lat = [result[1] for result in results]
-    #lon = [result[2] for result in results]
-
-    #hike_data = [{
-       # "zip": zipcode,
-        #"lat": lat,
-       # "lon": lon
-    #}]
-
-    #return jsonify(hike_data)
-
-
+#@app.route('/favicon.ico')
+#def favicon():
+    #return send_from_directory(os.path.join(app.root_path, 'static'),
+                               #'favicon.ico', mimetype='image/vnd.microsoft.icon')
 
 if __name__ == '__main__':
     app.run(debug=True, threaded = True, host='localhost', port = 5444)
+
+#if __name__ =='__main__':
+    #app.run(threaded=True, host='0.0.0.0', port=os.environ['PORT'])
