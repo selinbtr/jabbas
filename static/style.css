@@ -65,3 +65,21 @@ h3 {
 #table {
     text-align: center;
 }
+
+.well {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 3%;
+    border: .5pt solid black;
+    height: 100%;
+}
+
+#form {
+    text-align: center;
+}
+
+#enter-zip {
+    padding-bottom: 3%;
+    font-size: 20px;
+}
