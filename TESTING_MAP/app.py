@@ -24,7 +24,6 @@ app = Flask(__name__)
 CORS(app)
 
 
-
 SQLITE = "sqlite:///" + os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'zipcode_db.sqlite')
 print(SQLITE)
 
@@ -39,7 +38,6 @@ class Zipcode(Base):
     longitude = Column(Float)
 
 app = Flask(__name__)
-
 
 
 @app.route('/')
@@ -72,9 +70,6 @@ def zipcode():
         all_zipcodes.append(zipcode_dict)
         
     return jsonify(all_zipcodes)
-
-
-
 
 #@app.route('/favicon.ico')
 #def favicon():
