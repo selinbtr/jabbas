@@ -19,6 +19,7 @@
 
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
+    <!--<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">--> 
 
 </head>
 
@@ -48,21 +49,21 @@
                 <form id = "form">
                     <div class = "form-group">
                         <label for = "hike-form">Enter Your Zip Code</label>
-                        <input class = "form-control" id = "hike-form-input" name= "hike-form" type= "text">
+                        <input class = "form-control" id ="hike-form-input" name="hike-form" type="text">
                     </div>
-                    <button id = "button" type = "button" class = "btn btn-default">Enter</button>
+                    <button id="button" type ="button" class ="btn btn-default">Enter</button>
                 </form>
             </div>
         </div>
     </div>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12 col-md-12">
-                <p><strong>We Found You Some Trails!</strong></p>
-            </div>
-        </div>
-    </div> 
+    <!--<div class="container">-->
+        <!--<div class="row">-->
+            <!--<div class="col-xs-12 col-md-12">-->
+                <!--<p><strong>We Found You Some Trails!</strong></p>-->
+            <!--</div>-->
+        <!--</div>-->
+    <!--</div>-->
     
     
     <div id="map-holder">
@@ -86,6 +87,8 @@
 
     <!-- Our JavaScript -->
     <script type="text/javascript" src="static/hike.js"></script>
+    <!--<script type="text/javascript" src="{{ url_for('static', filename='hike.js') }}"></script>--> 
 
 </body>
 
+</html>
