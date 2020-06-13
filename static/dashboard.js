@@ -55,7 +55,7 @@ function buildChart(selection) {
             textposition: "inside"
         };
         var layout = {
-            title: "Select a Movie by Content Rating",
+            // title: "Select a Movie by Content Rating",
             showlegend: false
         };
         var data = [trace];
