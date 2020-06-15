@@ -11,6 +11,11 @@ body {
     width: 100%
 }
 
+#header {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/154/986/original/grunge-danger-caution-background-vector.jpg");
+    background-size: contain;
+}
+
 h1 {
     font-size: 20px;
     font-family: fantasy;
@@ -82,4 +87,17 @@ h3 {
 #enter-zip {
     padding-bottom: 3%;
     font-size: 20px;
+}
+
+
+.navbar {
+    margin: 0%;
+    background-color: rgb(240, 240, 240);
+    border-bottom: 2pt solid rgb(212, 212, 205);
+    padding: 0%;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    color: black;
 }
