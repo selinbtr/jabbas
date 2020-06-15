@@ -17,15 +17,15 @@
 <body>
     <nav class="navbar navbar-expand-lg">
         <a class="navbar-brand" href="index.html"><strong>QuarantineSurvivalKit</strong></a>
-        <ul class="nav navbar-nav">
+        <ul class="nav navbar-nav" id="links">
             <li class="active"><a href="index.html">Home</a></li>
             <li><a href="movie.html">Movies</a></li>
             <li><a href="hike.html">Hiking</a></li>
         </ul>
     </nav>
 
-    <div class="container">
-        <div class="jumbotron text-center" id="movie">
+    <div class="jumbotron text-center" id="movie">
+        <div class="container">
             <h1>Let's Watch a Movie</h1>
         </div>
     </div>
@@ -33,16 +33,16 @@
     <br>
 
     <div class="container">
-        <div class="row">
+        <div class="row" id="memo">
             <div class="col-xs-12 col-md-12">
                 <div class="article">
-                    <h3>Congratulations! You are one step closer to not being bored. 
-                        Please interact with our dashboard below to choose your desired movie.
+                    <h3 id="hike-memo"><strong>Congratulations! You are one step closer to not being bored. 
+                        Please interact with our dashboard below to choose your desired movie.</strong>
                     </h3>
-                    <hr>
                 </div>
             </div>
         </div>
+        <hr>
     </div>
 
     <br>
@@ -163,6 +163,8 @@
             </div>
         </div>
     </div>
+
+    <script 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
