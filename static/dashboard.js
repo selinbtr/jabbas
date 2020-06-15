@@ -51,11 +51,20 @@ function buildChart(selection) {
             values: values,
             type: "pie",
             text: labels, 
-            textposition: "inside"
+            textposition: "inside",
         };
         var layout = {
-            title: `${selection} Movies broken out by Country of Origin`,
+            //title: `${selection} Movies broken out by Country of Origin`,
+            title:{
+                text:`${selection} Movies broken out by Country of Origin`,
+                font: {
+                    family: 'Calibri',
+                    size: 20
+                },
+                position: 'top'
+            },
             showlegend: false
+
         };
         var data = [trace];
         Plotly.newPlot("pie", data, layout);
@@ -81,13 +90,13 @@ function buildChart(selection) {
         ctx = cnvs.getContext('2d')
 
         var barChart = new Chart(ctx, {
-            type: 'bar',
+            type: 'horizontalBar',
             data: {
                 labels: titles_list,
                 datasets: [{
                     label: 'Movie Titles',
                     data: ratings_list,
-                    backgroundColor: colors, 
+                    backgroundColor: '#2980B9' 
                 }]
                 },
                 options: {
@@ -96,31 +105,44 @@ function buildChart(selection) {
                     },
                     title: {
                         display: true,
-                        text: `Top ${selection} Movies`,
-                        fontstyle: 'bold',
-                        position: 'top'
+                        text:`Top ${selection} Movies`,
+                        position: 'top',
+                        font: {
+                            family: 'Calibri',
+                            size: 20
+                        }
+                        //text: `Top ${selection} Movies`,
+
                     },
                     scales: {
                         xAxes: [{
                             gridLines: {
-                                offsetGridLines: true
-                            },
-                            ticks: {
-                                minRotation:90
+                                //offsetGridLines: true
+                                display: false
+                            }
+                            // ,
+                            // ticks: {
+                            //     minRotation:90
+                            // }
+                        }],
+                        yAxes: [{
+                            gridLines: {
+                                display: false
                             }
                         }]
                     },
-                    maintainAspectRatio: false,
-                    responsive: true,
+                    aspectRatio: 1.3,
+                    // maintainAspectRatio: true
+                    responsive: true
                 }
-        })
-
+        });
+        document.getElementById('bar').innerHTML="";
         document.getElementById('bar').appendChild(cnvs);
-
-       
     });
     
 }
+
+
 
 function optionChanged(selectedRating) {
     console.log(selectedRating);

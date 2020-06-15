@@ -1,4 +1,4 @@
-function dataEndpoints() {
+    function dataEndpoints() {
     fetch('/endpoints').then(data=>data.json()).then(d=>{
     d.endpoints.forEach(n=>{
         o = document.createElement("option")

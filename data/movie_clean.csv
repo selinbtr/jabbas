@@ -1,12 +1,12 @@
 movie_title,director_name,duration,actors,plot_keywords,language,country,title_year,imdb_score,Genre1,Genre2,Genre3,Genre4,Genre5,Genre6,Genre7,Genre8,content_rating
-Towering Inferno             ,John Blanchard,65,"Martin Short, Andrea Martin, Joe Flaherty",,English,Canada,,9.5,Comedy,,,,,,,,
+Towering Inferno ,John Blanchard,65,"Martin Short, Andrea Martin, Joe Flaherty",,English,Canada,,9.5,Comedy,,,,,,,,
 The Shawshank Redemption ,Frank Darabont,142,"Morgan Freeman, Jeffrey DeMunn, Bob Gunton",escape from prison|first person narration|prison|prison cell search|wrongful imprisonment,English,USA,1994,9.3,Crime,Drama,,,,,,,R
 The Godfather ,Francis Ford Coppola,175,"Al Pacino, Marlon Brando, Robert Duvall",crime family|mafia|organized crime|patriarch|rise to power,English,USA,1972,9.2,Crime,Drama,,,,,,,R
-Dekalog             ,,55,"Krystyna Janda, Olaf Lubaszenko, Olgierd Lukaszewicz",meaning of life|moral challenge|morality|search for meaning|ten commandments,Polish,Poland,,9.1,Drama,,,,,,,,TV-MA
+Dekalog ,,55,"Krystyna Janda, Olaf Lubaszenko, Olgierd Lukaszewicz",meaning of life|moral challenge|morality|search for meaning|ten commandments,Polish,Poland,,9.1,Drama,,,,,,,,TV-MA
 Kickboxer: Vengeance ,John Stockwell,90,"Matthew Ziff, T.J. Storm, Sam Medina",,,USA,2016,9.1,Action,,,,,,,,
 The Dark Knight ,Christopher Nolan,152,"Christian Bale, Heath Ledger, Morgan Freeman",based on comic book|dc comics|psychopath|star died before release|urban setting,English,USA,2008,9,Action,Crime,Drama,Thriller,,,,,PG-13
 The Godfather: Part II ,Francis Ford Coppola,220,"Robert De Niro, Al Pacino, Robert Duvall",1950s|corrupt politician|lake tahoe nevada|melancholy|revenge,English,USA,1974,9,Crime,Drama,,,,,,,R
-Fargo             ,,53,"Kirsten Dunst, Adam Goldberg, Oliver Platt",anthology|death|insurance salesman|minnesota|police officer,English,USA,,9,Crime,Drama,Thriller,,,,,,TV-MA
+Fargo ,,53,"Kirsten Dunst, Adam Goldberg, Oliver Platt",anthology|death|insurance salesman|minnesota|police officer,English,USA,,9,Crime,Drama,Thriller,,,,,,TV-MA
 The Lord of the Rings: The Return of the King ,Peter Jackson,192,"Orlando Bloom, Billy Boyd, Bernard Hill",battle|epic|king|orc|ring,English,USA,2003,8.9,Action,Adventure,Drama,Fantasy,,,,,PG-13
 Schindler's List ,Steven Spielberg,185,"Liam Neeson, Embeth Davidtz, Caroline Goodall",german|german soldier|jew|jewish|nazi,English,USA,1993,8.9,Biography,Drama,History,,,,,,R
 Pulp Fiction ,Quentin Tarantino,178,"Bruce Willis, Eric Stoltz, Phil LaMarr",black comedy|cunnilingus|neo noir|nonlinear timeline|postmodern,English,USA,1994,8.9,Crime,Drama,,,,,,,R
@@ -14,18 +14,18 @@ Pulp Fiction ,Quentin Tarantino,178,"Bruce Willis, Eric Stoltz, Phil LaMarr",bl
 12 Angry Men ,Sidney Lumet,96,"Jack Warden, Lee J. Cobb, John Fiedler",courtroom|dialogue driven|dialogue driven storyline|jury|murder,English,USA,1957,8.9,Crime,Drama,,,,,,,Not Rated
 Inception ,Christopher Nolan,148,"Leonardo DiCaprio, Tom Hardy, Joseph Gordon-Levitt",ambiguous ending|corporate espionage|dream|subconscious|thief,English,USA,2010,8.8,Action,Adventure,Sci-Fi,Thriller,,,,,PG-13
 The Lord of the Rings: The Fellowship of the Ring ,Peter Jackson,171,"Christopher Lee, Orlando Bloom, Billy Boyd",elf|hobbit|middle earth|quest|ring,English,New Zealand,2001,8.8,Action,Adventure,Drama,Fantasy,,,,,PG-13
-Daredevil             ,,54,"Elden Henson, Royce Johnson, Charlie Cox",corruption|lawyer|partnership|superhero|vigilante,English,USA,,8.8,Action,Adventure,Crime,Drama,Sci-Fi,Thriller,,,TV-MA
+Daredevil ,,54,"Elden Henson, Royce Johnson, Charlie Cox",corruption|lawyer|partnership|superhero|vigilante,English,USA,,8.8,Action,Adventure,Crime,Drama,Sci-Fi,Thriller,,,TV-MA
 Fight Club ,David Fincher,151,"Brad Pitt, Meat Loaf, Eugenie Bondurant",anti establishment|dark humor|fighting|multiple personality disorder|surprise ending,English,USA,1999,8.8,Drama,,,,,,,,R
 Forrest Gump ,Robert Zemeckis,142,"Tom Hanks, Siobhan Fallon Hogan, Sam Anderson",amputee|love|vietnam|vietnam war|war hero,English,USA,1994,8.8,Comedy,Drama,,,,,,,PG-13
-It's Always Sunny in Philadelphia             ,,22,"Rob McElhenney, Kaitlin Olson, Glenn Howerton",alcohol|bad taste humour|crude humor|loser|self obsession,English,USA,,8.8,Comedy,,,,,,,,TV-MA
+It's Always Sunny in Philadelphia ,,22,"Rob McElhenney, Kaitlin Olson, Glenn Howerton",alcohol|bad taste humour|crude humor|loser|self obsession,English,USA,,8.8,Comedy,,,,,,,,TV-MA
 Star Wars: Episode V - The Empire Strikes Back ,Irvin Kershner,127,"Harrison Ford, Kenny Baker, Anthony Daniels",duel|famous twist|rebel|rescue|snowy landscape,English,USA,1980,8.8,Action,Adventure,Fantasy,Sci-Fi,,,,,PG
 The Lord of the Rings: The Two Towers ,Peter Jackson,172,"Christopher Lee, Orlando Bloom, Billy Boyd",epic|evil wizard|middle earth|ring|wizard,English,USA,2002,8.7,Action,Adventure,Drama,Fantasy,,,,,PG-13
 The Matrix ,Lana Wachowski,136,"Keanu Reeves, Marcus Chong, Gloria Foster",artificial reality|computer|matrix|questioning reality|simulated reality,English,USA,1999,8.7,Action,Sci-Fi,,,,,,,R
-Friday Night Lights             ,,44,"Zach Gilford, Aimee Teegarden, Scott Porter",football|football coach|high school|small town|texas,English,USA,,8.7,Drama,Sport,,,,,,,TV-14
-The Honeymooners             ,,30,"Jackie Gleason, Art Carney, Joyce Randolph",1950s|bus driver|money scheme|poverty|sewer,English,USA,,8.7,Comedy,Family,,,,,,,
+Friday Night Lights ,,44,"Zach Gilford, Aimee Teegarden, Scott Porter",football|football coach|high school|small town|texas,English,USA,,8.7,Drama,Sport,,,,,,,TV-14
+The Honeymooners ,,30,"Jackie Gleason, Art Carney, Joyce Randolph",1950s|bus driver|money scheme|poverty|sewer,English,USA,,8.7,Comedy,Family,,,,,,,
 Goodfellas ,Martin Scorsese,146,"Robert De Niro, Mike Starr, Paul Sorvino",betrayal|gangster|mafia|organized crime|robbery,English,USA,1990,8.7,Biography,Crime,Drama,,,,,,R
 Star Wars: Episode IV - A New Hope ,George Lucas,125,"Harrison Ford, Peter Cushing, Kenny Baker",death star|empire|galactic war|princess|rebellion,English,USA,1977,8.7,Action,Adventure,Fantasy,Sci-Fi,,,,,PG
-Gomorrah             ,,55,"Maria Pia Calzone, Fortunato Cerlino, Marco D'Amore",,Italian,Italy,,8.7,Crime,Drama,Thriller,,,,,,TV-MA
+Gomorrah ,,55,"Maria Pia Calzone, Fortunato Cerlino, Marco D'Amore",,Italian,Italy,,8.7,Crime,Drama,Thriller,,,,,,TV-MA
 One Flew Over the Cuckoo's Nest ,Milos Forman,133,"Scatman Crothers, Michael Berryman, Louise Fletcher",1960s|escape|mental institution|nurse|sexuality,English,USA,1975,8.7,Drama,,,,,,,,R
 City of God ,Fernando Meirelles,135,"Alice Braga, Seu Jorge, Alexandre Rodrigues",coming of age|male frontal nudity|male nudity|photographer|slum,Portuguese,Brazil,2002,8.7,Crime,Drama,,,,,,,R
 A Beginner's Guide to Snuff ,Mitchell Altieri,87,"Kimberley Crossman, Luke Edwards, Bree Williamson",,English,USA,2016,8.7,Comedy,Horror,Thriller,,,,,,
@@ -33,13 +33,13 @@ Queen of the Mountains ,Sadyk Sher-Niyaz,135,"Elina Abai Kyzy, Aziz Muradillaye
 Seven Samurai ,Akira Kurosawa,202,"Takashi Shimura, Minoru Chiaki, Kamatari Fujiwara",16th century|battle|japan|practice|samurai,Japanese,Japan,1954,8.7,Action,Adventure,Drama,,,,,,Unrated
 Butterfly Girl ,Cary Bell,78,"Abigail Evans, Stacie Evans, Emily Gorell",,English,USA,2014,8.7,Documentary,,,,,,,,
 Interstellar ,Christopher Nolan,169,"Matthew McConaughey, Anne Hathaway, Mackenzie Foy",black hole|father daughter relationship|saving the world|space travel|wormhole,English,USA,2014,8.6,Adventure,Drama,Sci-Fi,,,,,,PG-13
-Hannibal             ,,44,"Caroline Dhavernas, Scott Thompson, Hettienne Park",blood|cannibalism|fbi|manipulation|psychiatrist,English,USA,,8.6,Crime,Drama,Horror,Mystery,Thriller,,,,TV-14
+Hannibal ,,44,"Caroline Dhavernas, Scott Thompson, Hettienne Park",blood|cannibalism|fbi|manipulation|psychiatrist,English,USA,,8.6,Crime,Drama,Horror,Mystery,Thriller,,,,TV-14
 Saving Private Ryan ,Steven Spielberg,169,"Tom Hanks, Vin Diesel, Matt Damon",army|invasion|killed in action|normandy|soldier,English,USA,1998,8.6,Action,Drama,War,,,,,,R
-Luther             ,,60,"Ruth Wilson, Indira Varma, Warren Brown",murder|police|psychopath,English,UK,,8.6,Crime,Drama,Mystery,Thriller,,,,,TV-MA
+Luther ,,60,"Ruth Wilson, Indira Varma, Warren Brown",murder|police|psychopath,English,UK,,8.6,Crime,Drama,Mystery,Thriller,,,,,TV-MA
 Se7en ,David Fincher,127,"Morgan Freeman, Brad Pitt, Reg E. Cathey",detective|police partner|serial killer|serial murder|seven deadly sins,English,USA,1995,8.6,Crime,Drama,Mystery,Thriller,,,,,R
 The Silence of the Lambs ,Jonathan Demme,138,"Anthony Hopkins, Scott Glenn, Anthony Heald",case file|fbi agent|psycho thriller|psychopath|serial killer,English,USA,1991,8.6,Crime,Drama,Horror,Thriller,,,,,R
 Spirited Away ,Hayao Miyazaki,125,"Bunta Sugawara, Ryûnosuke Kamiki, Miyu Irino",anime|bathhouse|pig|spirit|work,Japanese,Japan,2001,8.6,Adventure,Animation,Family,Fantasy,,,,,PG
-Spartacus: War of the Damned             ,,55,"Peter Mensah, Kelvin Taylor, Viva Bianca",female frontal nudity|female full frontal nudity|gladiator|group sex|slave girl,English,USA,,8.6,Action,Adventure,Biography,Drama,History,,,,TV-MA
+Spartacus: War of the Damned ,,55,"Peter Mensah, Kelvin Taylor, Viva Bianca",female frontal nudity|female full frontal nudity|gladiator|group sex|slave girl,English,USA,,8.6,Action,Adventure,Biography,Drama,History,,,,TV-MA
 American History X ,Tony Kaye,101,"Ethan Suplee, Beverly D'Angelo, Stacy Keach",curb stomping|neo nazi|prison|son dislikes mother's boyfriend|white supremacist,English,USA,1998,8.6,Crime,Drama,,,,,,,R
 The Usual Suspects ,Bryan Singer,106,"Kevin Spacey, Chazz Palminteri, Kevin Pollak",criminal|dirty cop|flashback|limping|suspect,English,USA,1995,8.6,Crime,Drama,Mystery,Thriller,,,,,R
 Once Upon a Time in the West ,Sergio Leone,145,"Claudia Cardinale, Woody Strode, Jack Elam",gang|gun|harmonica|killing|woman in bathtub,English,Italy,1968,8.6,Western,,,,,,,,PG-13
@@ -54,11 +54,11 @@ Django Unchained ,Quentin Tarantino,165,"Leonardo DiCaprio, Christoph Waltz, At
 The Departed ,Martin Scorsese,151,"Leonardo DiCaprio, Matt Damon, Ray Winstone",boston|mole|police|undercover|undercover cop,English,USA,2006,8.5,Crime,Drama,Thriller,,,,,,R
 The Lion King ,Roger Allers,73,"Matthew Broderick, Nathan Lane, Niketa Calame",king|prince|scar|uncle|unnecessary guilt,English,USA,1994,8.5,Adventure,Animation,Drama,Family,Musical,,,,G
 The Green Mile ,Frank Darabont,189,"Tom Hanks, Jeffrey DeMunn, Michael Jeter",1930s|death row inmate|healing|prison guard|southern u.s.,English,USA,1999,8.5,Crime,Drama,Fantasy,Mystery,,,,,R
-Outlander             ,,64,"Tobias Menzies, Graham McTavish, Stephen Walters",based on novel|clan|scotland|scottish highlands|year 1743,English,USA,,8.5,Drama,Romance,Sci-Fi,,,,,,TV-MA
+Outlander ,,64,"Tobias Menzies, Graham McTavish, Stephen Walters",based on novel|clan|scotland|scottish highlands|year 1743,English,USA,,8.5,Drama,Romance,Sci-Fi,,,,,,TV-MA
 The Prestige ,Christopher Nolan,130,"Christian Bale, Hugh Jackman, Scarlett Johansson",illusion|magician|obsession|rivalry|secret,English,USA,2006,8.5,Drama,Mystery,Sci-Fi,Thriller,,,,,PG-13
 The Pianist ,Roman Polanski,150,"Emilia Fox, Frank Finlay, Ed Stoppard",ghetto|holocaust|jewish|piano|warsaw ghetto,English,France,2002,8.5,Biography,Drama,War,,,,,,R
 Apocalypse Now ,Francis Ford Coppola,289,"Harrison Ford, Marlon Brando, Robert Duvall",army|green beret|insanity|jungle|vietnam,English,USA,1979,8.5,Drama,War,,,,,,,R
-Entourage             ,,28,"Debi Mazar, Kevin Connolly, Kevin Dillon",actor|fame|friendship between men|hollywood california|sitcom,English,USA,,8.5,Comedy,Drama,,,,,,,TV-MA
+Entourage ,,28,"Debi Mazar, Kevin Connolly, Kevin Dillon",actor|fame|friendship between men|hollywood california|sitcom,English,USA,,8.5,Comedy,Drama,,,,,,,TV-MA
 Raiders of the Lost Ark ,Steven Spielberg,115,"Harrison Ford, Karen Allen, William Hootkins",archeological dig|archeologist|ark of the covenant|egypt|nazi,English,USA,1981,8.5,Action,Adventure,,,,,,,PG
 Psycho ,Alfred Hitchcock,108,"Janet Leigh, Vera Miles, John Gavin",money|motel|rain|shower|theft,English,USA,1960,8.5,Horror,Mystery,Thriller,,,,,,R
 Back to the Future ,Robert Zemeckis,116,"Lea Thompson, Thomas F. Wilson, J.J. Cohen",clock tower|delorean|future|time travel|time travel comedy,English,USA,1985,8.5,Adventure,Comedy,Sci-Fi,,,,,,PG
@@ -69,11 +69,11 @@ Samsara ,Ron Fricke,102,"Collin Alfredo St. Dic, Balinese Tari Legong Dancers, 
 Whiplash ,Damien Chazelle,107,"J.K. Simmons, Melissa Benoist, Chris Mulkey",conservatory|drummer|emotional abuse|music school|obsession,English,USA,2014,8.5,Drama,Music,,,,,,,R
 The Lives of Others ,Florian Henckel von Donnersmarck,137,"Sebastian Koch, Ulrich Mühe, Martina Gedeck",east germany|police|secret police|stasi|writer,German,Germany,2006,8.5,Drama,Thriller,,,,,,,R
 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,Stanley Kubrick,95,"George C. Scott, Slim Pickens, Keenan Wynn",bomber|doomsday|general|u.s. president|war room,English,USA,1964,8.5,Comedy,,,,,,,,PG
-Happy Valley             ,,58,"Shirley Henderson, James Norton, Sarah Lancashire",caravan|police|police sergeant|tied to a chair|yorkshire,English,UK,,8.5,Crime,Drama,,,,,,,TV-MA
+Happy Valley ,,58,"Shirley Henderson, James Norton, Sarah Lancashire",caravan|police|police sergeant|tied to a chair|yorkshire,English,UK,,8.5,Crime,Drama,,,,,,,TV-MA
 Children of Heaven ,Majid Majidi,89,"Bahare Seddiqi, Amir Farrokh Hashemian, Mohammad Amir Naji",class|gardening|race|school|shoe,Persian,Iran,1997,8.5,Drama,Family,,,,,,,PG
 WALL·E ,Andrew Stanton,98,"John Ratzenberger, Fred Willard, Jeff Garlin",earth|obesity|plant|robot|soil,English,USA,2008,8.4,Adventure,Animation,Family,Sci-Fi,,,,,G
 Braveheart ,Mel Gibson,178,"Mhairi Calvey, Patrick McGoohan, James Robinson",14th century|legend|revolt|scotland|tyranny,English,USA,1995,8.4,Biography,Drama,History,War,,,,,R
-Stargate SG-1             ,,44,"Christopher Judge, Don S. Davis, Gary Jones",2000s|21st century|alternate history|message from outer space|military,English,USA,,8.4,Action,Adventure,Drama,Sci-Fi,,,,,TV-14
+Stargate SG-1 ,,44,"Christopher Judge, Don S. Davis, Gary Jones",2000s|21st century|alternate history|message from outer space|military,English,USA,,8.4,Action,Adventure,Drama,Sci-Fi,,,,,TV-14
 Amélie ,Jean-Pierre Jeunet,122,"Mathieu Kassovitz, Jamel Debbouze, Isabelle Nanty",cheerfulness|female protagonist|garden gnome|magical realism|waitress,French,France,2001,8.4,Comedy,Romance,,,,,,,R
 Baahubali: The Beginning ,S.S. Rajamouli,159,"Tamannaah Bhatia, Anushka Shetty, Prabhas",ancient india|dual role|good versus evil|hindu|kingdom,Telugu,India,2015,8.4,Action,Adventure,Drama,Fantasy,War,,,,
 Lion of the Desert ,Moustapha Akkad,156,"Oliver Reed, Rod Steiger, John Gielgud",arab|general|libya|muslim|mussolini,English,Libya,1980,8.4,Biography,Drama,History,War,,,,,PG
@@ -86,13 +86,13 @@ American Beauty ,Sam Mendes,122,"Kevin Spacey, Peter Gallagher, Ara Celi",domes
 Lawrence of Arabia ,David Lean,227,"Claude Rains, José Ferrer, Jack Hawkins",arab|british military|desert|ottoman empire|t.e. lawrence,English,UK,1962,8.4,Adventure,Biography,Drama,History,War,,,,PG
 U2 3D ,Catherine Owens,85,"Bono, The Edge, Larry Mullen Jr.",3d in title|digit in title|rock band|rocker|u2,English,USA,2007,8.4,Documentary,Music,,,,,,,G
 Das Boot ,Wolfgang Petersen,293,"Jürgen Prochnow, Martin Semmelrogge, Herbert Grönemeyer",duty|submarine|submarine movie|tension|u boat,German,West Germany,1981,8.4,Adventure,Drama,Thriller,War,,,,,R
-Veronica Mars             ,,44,"Francis Capra, Jason Dohring, Enrico Colantoni",best friend|high school|private detective|sheriff|student,English,USA,,8.4,Crime,Drama,Mystery,,,,,,TV-14
-The Inbetweeners             ,,25,"Simon Bird, Belinda Stewart-Wilson, James Buckley",black comedy|bully|friend|house|practical joke,English,UK,,8.4,Comedy,Romance,,,,,,,TV-14
+Veronica Mars ,,44,"Francis Capra, Jason Dohring, Enrico Colantoni",best friend|high school|private detective|sheriff|student,English,USA,,8.4,Crime,Drama,Mystery,,,,,,TV-14
+The Inbetweeners ,,25,"Simon Bird, Belinda Stewart-Wilson, James Buckley",black comedy|bully|friend|house|practical joke,English,UK,,8.4,Comedy,Romance,,,,,,,TV-14
 Rang De Basanti ,Rakeysh Omprakash Mehra,157,"Anupam Kher, Steven Mackintosh, Madhavan",freedom|friend|india|student|urination,Hindi,India,2006,8.4,Comedy,Drama,History,Romance,,,,,Not Rated
-Psych             ,,44,"Corbin Bernsen, Dulé Hill, Timothy Omundson",best friend|friend|police|police department|psychic,English,USA,,8.4,Comedy,Crime,Mystery,,,,,,TV-PG
+Psych ,,44,"Corbin Bernsen, Dulé Hill, Timothy Omundson",best friend|friend|police|police department|psychic,English,USA,,8.4,Comedy,Crime,Mystery,,,,,,TV-PG
 Requiem for a Dream ,Darren Aronofsky,102,"Ellen Burstyn, Mark Margolis, Louise Lasser",addiction|diet pill|drug addiction|fast motion scene|heroin,English,USA,2000,8.4,Drama,,,,,,,,R
-Anne of Green Gables             ,,199,"Zack Ward, Jonathan Crombie, Megan Follows",girl|heroine|kindred spirit|orphan|rural setting,English,Canada,,8.4,Drama,Family,,,,,,,TV-G
-M*A*S*H             ,,25,"David Ogden Stiers, Jamie Farr, Mike Farrell",colonel|doctor|korean war|major|nurse,English,USA,,8.4,Comedy,Drama,War,,,,,,TV-PG
+Anne of Green Gables ,,199,"Zack Ward, Jonathan Crombie, Megan Follows",girl|heroine|kindred spirit|orphan|rural setting,English,Canada,,8.4,Drama,Family,,,,,,,TV-G
+M*A*S*H ,,25,"David Ogden Stiers, Jamie Farr, Mike Farrell",colonel|doctor|korean war|major|nurse,English,USA,,8.4,Comedy,Drama,War,,,,,,TV-PG
 "Batman: The Dark Knight Returns, Part 2 ",Jay Oliva,148,"Michael Emerson, Mark Valley, Grey Griffin",batman|joker|mutant|tattoo on breast|the joker,English,USA,2013,8.4,Action,Animation,Crime,Sci-Fi,Thriller,,,,PG-13
 Oldboy ,Chan-wook Park,120,"Min-sik Choi, Ji-tae Yu, Hye-jeong Kang",brother sister relationship|hypnosis|imprisonment|love|revenge,Korean,South Korea,2003,8.4,Drama,Mystery,Thriller,,,,,,R
 To Kill a Mockingbird ,Robert Mulligan,129,"Robert Duvall, Brock Peters, William Windom",1930s|alabama|lawyer|six year old|trial,English,USA,1962,8.4,Crime,Drama,,,,,,,Not Rated
@@ -104,14 +104,14 @@ Toy Story 3 ,Lee Unkrich,103,"Tom Hanks, John Ratzenberger, Don Rickles",colleg
 Up ,Pete Docter,96,"John Ratzenberger, Delroy Lindo, Jess Harnell",balloon|house|promise|retirement|skeleton,English,USA,2009,8.3,Adventure,Animation,Comedy,Family,,,,,PG
 Inside Out ,Pete Docter,95,"Amy Poehler, Mindy Kaling, Phyllis Smith",anger|joy|memory|running away|sadness,English,USA,2015,8.3,Adventure,Animation,Comedy,Drama,Family,Fantasy,,,PG
 Batman Begins ,Christopher Nolan,128,"Christian Bale, Liam Neeson, Morgan Freeman",armored car|gangster|gotham|mixed martial arts|social decay,English,USA,2005,8.3,Action,Adventure,,,,,,,PG-13
-Life             ,,45,"Adam Arkin, Brent Sexton, Damian Lewis",cop|murder|partner|police|protective male,English,USA,,8.3,Crime,Drama,Mystery,,,,,,
+Life ,,45,"Adam Arkin, Brent Sexton, Damian Lewis",cop|murder|partner|police|protective male,English,USA,,8.3,Crime,Drama,Mystery,,,,,,
 Inglourious Basterds ,Quentin Tarantino,153,"Michael Fassbender, Brad Pitt, Christoph Waltz",france|german|nazis|revenge|scalping,English,USA,2009,8.3,Adventure,Drama,War,,,,,,R
 Indiana Jones and the Last Crusade ,Steven Spielberg,127,"Harrison Ford, Julian Glover, Alison Doody",castle|diary|holy grail|map|nazi,English,USA,1989,8.3,Action,Adventure,Fantasy,,,,,,PG-13
-The Returned             ,,52,"Pierre Perrier, Clotilde Hesme, Céline Sallette",france|living dead|serial killer|small town|supernatural,French,France,,8.3,Drama,Fantasy,Horror,Mystery,,,,,TV-MA
+The Returned ,,52,"Pierre Perrier, Clotilde Hesme, Céline Sallette",france|living dead|serial killer|small town|supernatural,French,France,,8.3,Drama,Fantasy,Horror,Mystery,,,,,TV-MA
 L.A. Confidential ,Curtis Hanson,138,"Kevin Spacey, Matt McCoy, Paul Guilfoyle",1950s|call girl|corruption|murder|police detective,English,USA,1997,8.3,Crime,Drama,Mystery,Thriller,,,,,R
 Toy Story ,John Lasseter,74,"Tom Hanks, John Ratzenberger, Jim Varney",claw crane|cowboy|jealousy|rivalry|toy,English,USA,1995,8.3,Adventure,Animation,Comedy,Family,Fantasy,,,,G
 Scarface ,Brian De Palma,142,"Al Pacino, F. Murray Abraham, Mary Elizabeth Mastrantonio",assassination attempt|capitalism|cocaine|cuban american|cuban refugee,English,USA,1983,8.3,Crime,Drama,,,,,,,R
-Shaun the Sheep             ,,7,"Justin Fletcher, John Sparkes, Kate Harbour",farmer|mischief|no dialog|sheep|sheepdog,English,UK,,8.3,Animation,Comedy,Family,,,,,,TV-G
+Shaun the Sheep ,,7,"Justin Fletcher, John Sparkes, Kate Harbour",farmer|mischief|no dialog|sheep|sheepdog,English,UK,,8.3,Animation,Comedy,Family,,,,,,TV-G
 Eternal Sunshine of the Spotless Mind ,Michel Gondry,108,"Kate Winslet, Kirsten Dunst, Tom Wilkinson",borderline personality disorder|loneliness|memory|playing against type|retrograde narrative,English,USA,2004,8.3,Drama,Fantasy,Romance,Sci-Fi,,,,,R
 Amadeus ,Milos Forman,180,"Jeffrey Jones, F. Murray Abraham, Tom Hulce",1800s|classical composer|composer|first person narration|opera,English,USA,1984,8.3,Biography,Drama,History,Music,,,,,R
 Raging Bull ,Martin Scorsese,121,"Robert De Niro, Cathy Moriarty, Frank Vincent",boxing|domestic violence|hot temper|jealousy|rage,English,USA,1980,8.3,Biography,Drama,Sport,,,,,,R
@@ -122,7 +122,7 @@ Room ,Lenny Abrahamson,118,"Joan Allen, Jacob Tremblay, Cas Anvar",based on nov
 Snatch ,Guy Ritchie,104,"Jason Statham, Brad Pitt, Jason Flemyng",boxer|boxing|diamond|fight|gypsy,English,UK,2000,8.3,Comedy,Crime,,,,,,,R
 2001: A Space Odyssey ,Stanley Kubrick,161,"Keir Dullea, Gary Lockwood, Glenn Beck",ancient astronaut|famous line|message from outer space|monolith|star child,English,UK,1968,8.3,Adventure,Mystery,Sci-Fi,,,,,,G
 Good Will Hunting ,Gus Van Sant,126,"Robin Williams, Matt Damon, Minnie Driver",friend|genius|janitor|loss of wife|professor,English,USA,1997,8.3,Drama,,,,,,,,R
-Preacher             ,,60,"Dominic Cooper, Joseph Gilgun, Ruth Negga",heaven and hell|preacher|supernatural|vampire|vertigo comics,English,,,8.3,Adventure,Drama,Fantasy,Mystery,,,,,TV-MA
+Preacher ,,60,"Dominic Cooper, Joseph Gilgun, Ruth Negga",heaven and hell|preacher|supernatural|vampire|vertigo comics,English,,,8.3,Adventure,Drama,Fantasy,Mystery,,,,,TV-MA
 Lake of Fire ,Tony Kaye,152,"Noam Chomsky, Pat Buchanan, Bill Baird",abortion|southern accent|title based on the bible|trial|usa,English,USA,2006,8.3,Documentary,,,,,,,,Unrated
 The Sting ,George Roy Hill,129,"Eileen Brennan, Robert Shaw, Ray Walston",con|con man|courier|long con|murder,English,USA,1973,8.3,Comedy,Crime,Drama,,,,,,PG
 The Great Escape ,John Sturges,172,"James Coburn, Donald Pleasence, Gordon Jackson",digging|escape|escape attempt|prisoner|tunnel,English,USA,1963,8.3,Adventure,Drama,History,Thriller,War,,,,Approved
@@ -148,7 +148,7 @@ A Beautiful Mind ,Ron Howard,135,"Adam Goldberg, Austin Pendleton, Judd Hirsch"
 Casino ,Martin Scorsese,178,"Robert De Niro, Don Rickles, Kevin Pollak",car bomb|card cheat|cash|casino|gambling syndicate,English,USA,1995,8.2,Biography,Crime,Drama,,,,,,R
 V for Vendetta ,James McTeigue,132,"Natalie Portman, Eddie Marsan, Rupert Graves",dystopia|freedom|government|revolution|terrorist,English,USA,2005,8.2,Action,Drama,Thriller,,,,,,R
 The Thing ,John Carpenter,109,"Wilford Brimley, Richard Masur, David Clennon",alien creature|alien life form|antarctica|isolation|paranoia,English,USA,1982,8.2,Horror,Mystery,Sci-Fi,,,,,,R
-Trapped             ,,511,"Ólafur Darri Ólafsson, Ingvar Eggert Sigurðsson, Björn Hlynur Haraldsson",coastal town|iceland|police|snowstorm|winter storm,Icelandic,Iceland,,8.2,Crime,Drama,Thriller,,,,,,
+Trapped ,,511,"Ólafur Darri Ólafsson, Ingvar Eggert Sigurðsson, Björn Hlynur Haraldsson",coastal town|iceland|police|snowstorm|winter storm,Icelandic,Iceland,,8.2,Crime,Drama,Thriller,,,,,,
 Die Hard ,John McTiernan,131,"Alan Rickman, Bruce Willis, Reginald VelJohnson",christmas|christmas eve|christmas party|held at gunpoint|hostage,English,USA,1988,8.2,Action,Thriller,,,,,,,R
 Blade Runner ,Ridley Scott,117,"Harrison Ford, Sean Young, M. Emmet Walsh",artificial intelligence|human android relationship|megacorporation|police detective|tech noir,English,USA,1982,8.2,Sci-Fi,Thriller,,,,,,,R
 Gran Torino ,Clint Eastwood,116,"Clint Eastwood, Dreama Walker, Ahney Her",gang|gang rape|hmong|teenager|widower,English,USA,2008,8.2,Drama,,,,,,,,R
@@ -158,10 +158,10 @@ Into the Wild ,Sean Penn,148,"Kristen Stewart, William Hurt, Hal Holbrook",alas
 Pan's Labyrinth ,Guillermo del Toro,112,"Ivana Baquero, Maribel Verdú, Sergi López",fairy|fairy tale|faun|princess|spain,Spanish,Spain,2006,8.2,Drama,Fantasy,War,,,,,,R
 The Deer Hunter ,Michael Cimino,183,"Robert De Niro, Meryl Streep, John Savage",escape|friend|party|pittsburgh steelers|vietnam,English,UK,1978,8.2,Drama,War,,,,,,,R
 The Big Lebowski ,Joel Coen,117,"Philip Seymour Hoffman, Jeff Bridges, Steve Buscemi",death|drug|nihilism|rug|white russian,English,USA,1998,8.2,Comedy,Crime,,,,,,,R
-Buffy the Vampire Slayer             ,,44,"Sarah Michelle Gellar, Alyson Hannigan, Emma Caulfield",action heroine|coming of age|destiny|double life|vampire,English,USA,,8.2,Action,Drama,Fantasy,Romance,,,,,TV-14
+Buffy the Vampire Slayer ,,44,"Sarah Michelle Gellar, Alyson Hannigan, Emma Caulfield",action heroine|coming of age|destiny|double life|vampire,English,USA,,8.2,Action,Drama,Fantasy,Romance,,,,,TV-14
 Incendies ,Denis Villeneuve,139,"Lubna Azabal, Mélissa Désormeaux-Poulin, Ahmad Massad",brother sister relationship|family relationships|middle east|mother son relationship|twin brother and sister,French,Canada,2010,8.2,Drama,Mystery,War,,,,,,R
-War & Peace             ,,,"Jim Broadbent, Tuppence Middleton, Lily James",male frontal nudity|male nudity|tv mini series,English,UK,,8.2,Drama,History,Romance,War,,,,,TV-14
-Emma             ,,240,"Romola Garai, Blake Ritson, Rupert Evans",friendship|love triangle|matchmaker|naivety|opposites attract,English,UK,,8.2,Comedy,Drama,Romance,,,,,,
+War & Peace ,,,"Jim Broadbent, Tuppence Middleton, Lily James",male frontal nudity|male nudity|tv mini series,English,UK,,8.2,Drama,History,Romance,War,,,,,TV-14
+Emma ,,240,"Romola Garai, Blake Ritson, Rupert Evans",friendship|love triangle|matchmaker|naivety|opposites attract,English,UK,,8.2,Comedy,Drama,Romance,,,,,,
 The Elephant Man ,David Lynch,124,"Anthony Hopkins, Anne Bancroft, Dexter Fletcher",curiosity|exploitation|freak|hospital|physical deformity,English,USA,1980,8.2,Biography,Drama,,,,,,,PG
 Gone with the Wind ,Victor Fleming,226,"Hattie McDaniel, George Reeves, Thomas Mitchell",battle of the sexes|gallantry|honesty|indifference|scandal,English,USA,1939,8.2,Drama,History,Romance,War,,,,,G
 The Secret in Their Eyes ,Juan José Campanella,129,"Ricardo Darín, Soledad Villamil, Guillermo Francella",investigation|justice|murder|suspect|tension,Spanish,Argentina,2009,8.2,Drama,Mystery,Thriller,,,,,,R
@@ -175,7 +175,7 @@ Rebecca ,Alfred Hitchcock,130,"Laurence Olivier, Joan Fontaine, George Sanders"
 The Act of Killing ,Joshua Oppenheimer,96,"Anwar Congo, Herman Koto, Syamsul Arifin",death squad|mass killing|musical number|reference to guantanamo bay|surrealism,Indonesian,UK,2012,8.2,Biography,Crime,Documentary,History,,,,,Not Rated
 On the Waterfront ,Elia Kazan,108,"Marlon Brando, Karl Malden, Rod Steiger",death|dock|longshoreman|murder|union,English,USA,1954,8.2,Crime,Drama,Romance,,,,,,Not Rated
 Rise of the Entrepreneur: The Search for a Better Way ,Joe Kenemore,52,"Bob Proctor, Jack Canfield, Eric Worre",business|entrepreneur|network marketing,English,USA,2014,8.2,Documentary,,,,,,,,G
-Home Movies             ,,22,"Brendon Small, Ron Lynch, Melissa Bardin Galsky",coach|friend|school|series|tv series,English,USA,,8.2,Animation,Comedy,Drama,,,,,,TV-PG
+Home Movies ,,22,"Brendon Small, Ron Lynch, Melissa Bardin Galsky",coach|friend|school|series|tv series,English,USA,,8.2,Animation,Comedy,Drama,,,,,,TV-PG
 Cries & Whispers ,Ingmar Bergman,91,"Liv Ullmann, Ingrid Thulin, Erland Josephson",dying|love|mansion|selfishness|turn of the century,Swedish,Sweden,1972,8.2,Drama,,,,,,,,R
 It Happened One Night ,Frank Capra,65,"Claudette Colbert, Alan Hale, Walter Connolly",bus|detective|love|money|reporter,English,USA,1934,8.2,Comedy,Romance,,,,,,,Unrated
 The Brain That Sings ,Amal Al-Agroobi,62,,autism|middle east|music therapy|united arab emirates,Arabic,United Arab Emirates,2013,8.2,Documentary,Family,,,,,,,
@@ -189,7 +189,7 @@ Pirates of the Caribbean: The Curse of the Black Pearl ,Gore Verbinski,143,"Joh
 "Monsters, Inc. ",Pete Docter,92,"Steve Buscemi, John Ratzenberger, James Coburn",friend|little girl|monster|rival|scream,English,USA,2001,8.1,Adventure,Animation,Comedy,Family,Fantasy,,,,G
 The Martian ,Ridley Scott,151,"Matt Damon, Donald Glover, Benedict Wong",astronaut|international cooperation|left for dead|nasa|space habitat,English,USA,2015,8.1,Adventure,Drama,Sci-Fi,,,,,,PG-13
 Shutter Island ,Martin Scorsese,138,"Leonardo DiCaprio, Joseph Sikora, Nellie Sciutto",female prisoner|plot twist|self delusion|surprise ending|year 1954,English,USA,2010,8.1,Mystery,Thriller,,,,,,,R
-The Missing             ,,60,"Jason Flemyng, James Nesbitt, Frances O'Connor",france|journalist|limp|police detective|reporter,English,UK,,8.1,Crime,Drama,Mystery,,,,,,
+The Missing ,,60,"Jason Flemyng, James Nesbitt, Frances O'Connor",france|journalist|limp|police detective|reporter,English,UK,,8.1,Crime,Drama,Mystery,,,,,,
 Jurassic Park ,Steven Spielberg,127,"Wayne Knight, Ariana Richards, Bob Peck",dinosaur|jurassic park|survival|theme park|tyrannosaurus rex,English,USA,1993,8.1,Adventure,Sci-Fi,Thriller,,,,,,PG-13
 Gone Girl ,David Fincher,149,"Patrick Fugit, Sela Ward, Emily Ratajkowski",based on novel|disappearance|missing person|missing wife|murder suspect,English,USA,2014,8.1,Crime,Drama,Mystery,Thriller,,,,,R
 The Truman Show ,Peter Weir,103,"Natascha McElhone, Noah Emmerich, Peter Krause",controlled environment|fictional reality show|hidden camera|innocence lost|simulated reality,English,USA,1998,8.1,Comedy,Drama,Sci-Fi,,,,,,PG
@@ -210,12 +210,12 @@ Gandhi ,Richard Attenborough,240,"Candice Bergen, Amrish Puri, John Gielgud",br
 Spotlight ,Tom McCarthy,128,"Billy Crudup, Jamey Sheridan, Brian d'Arcy James",cover up|investigation|journalist|newspaper|sexual abuse,English,USA,2015,8.1,Biography,Crime,Drama,History,,,,,R
 Hotel Rwanda ,Terry George,121,"Don Cheadle, Sophie Okonedo, Hakeem Kae-Kazim",atrocity|central africa|ethnic warfare|united nations peace keeping force|united nations soldier,English,UK,2004,8.1,Drama,History,War,,,,,,PG-13
 Hachi: A Dog's Tale ,Lasse Hallström,93,"Cary-Hiroyuki Tagawa, Sarah Roemer, Joan Allen",dog|human animal relationship|japanese|loyalty|waiting,English,USA,2009,8.1,Drama,Family,,,,,,,G
-Lilyhammer             ,,45,"Steven Van Zandt, Trond Fausa, Tommy Karlsen",mafia|mob|norway|steve|van,English,Norway,,8.1,Comedy,Crime,Drama,,,,,,TV-MA
+Lilyhammer ,,45,"Steven Van Zandt, Trond Fausa, Tommy Karlsen",mafia|mob|norway|steve|van,English,Norway,,8.1,Comedy,Crime,Drama,,,,,,TV-MA
 The Imitation Game ,Morten Tyldum,114,"Benedict Cumberbatch, Rory Kinnear, Allen Leech",crossword puzzle|cryptography|enigma code|gay lead character|world war two,English,UK,2014,8.1,Biography,Drama,Thriller,War,,,,,PG-13
 The Princess Bride ,Rob Reiner,98,"Robin Wright, Carol Kane, André the Giant",fairy tale|giant|pirate|princess|true love,English,USA,1987,8.1,Adventure,Family,Fantasy,Romance,,,,,PG
 Groundhog Day ,Harold Ramis,101,"Bill Murray, Chris Elliott, Willie Garson",cult film|existentialism|groundhog day|time loop|trapped in a time loop,English,USA,1993,8.1,Comedy,Fantasy,Romance,,,,,,PG
 The Sea Inside ,Alejandro Amenábar,125,"Belén Rueda, Lola Dueñas, Tamar Novas",dignity|euthanasia|freedom|lawyer|sailor,Spanish,Spain,2004,8.1,Biography,Drama,Romance,,,,,,PG-13
-Del 1 - Män som hatar kvinnor             ,Niels Arden Oplev,88,"Michael Nyqvist, David Dencik, Lena Endre",,Swedish,Sweden,,8.1,Action,Crime,Mystery,Thriller,,,,,
+Del 1 - Män som hatar kvinnor ,Niels Arden Oplev,88,"Michael Nyqvist, David Dencik, Lena Endre",,Swedish,Sweden,,8.1,Action,Crime,Mystery,Thriller,,,,,
 Tae Guk Gi: The Brotherhood of War ,Je-kyu Kang,148,"Min-sik Choi, Bin Won, Dong-gun Jang",1950s|archeologist|korea|korean war|soldier,Korean,South Korea,2004,8.1,Action,Drama,War,,,,,,R
 Barry Lyndon ,Stanley Kubrick,184,"Ryan O'Neal, Steven Berkoff, Hardy Krüger",18th century|england|rise and fall|rural setting|wealth,English,UK,1975,8.1,Adventure,Drama,History,War,,,,,PG
 Stand by Me ,Rob Reiner,89,"Marshall Bell, Frances Lee McCain, Casey Siemaszko",friendship|summertime|treehouse|walking on train tracks|woods,English,USA,1986,8.1,Adventure,Drama,,,,,,,R
@@ -225,7 +225,7 @@ The Terminator ,James Cameron,107,"Michael Biehn, Brian Thompson, Paul Winfield
 Platoon ,Oliver Stone,120,"Johnny Depp, Tom Berenger, Kevin Dillon",1960s|famous score|hero|vietnam|vietnam war,English,UK,1986,8.1,Drama,War,,,,,,,R
 Butch Cassidy and the Sundance Kid ,George Roy Hill,110,"Katharine Ross, Ted Cassidy, Kenneth Mars",bolivia|gang|outlaw|posse|train,English,USA,1969,8.1,Biography,Crime,Drama,Western,,,,,M
 Donnie Darko ,Richard Kelly,133,"Jake Gyllenhaal, Mary McDonnell, James Duval",1980s|death|insanity|parallel universe|time travel,English,USA,2001,8.1,Drama,Sci-Fi,Thriller,,,,,,R
-Animal Kingdom             ,,60,"Dorian Missick, Daniella Alonso, Ellen Barkin",based on film|brother brother relationship|crime family|remake|southern california,English,USA,,8.1,Crime,Drama,,,,,,,
+Animal Kingdom ,,60,"Dorian Missick, Daniella Alonso, Ellen Barkin",based on film|brother brother relationship|crime family|remake|southern california,English,USA,,8.1,Crime,Drama,,,,,,,
 Annie Hall ,Woody Allen,93,"Woody Allen, Carol Kane, Shelley Duvall",breaking the fourth wall|comedian|jewish|neurosis|singer,English,USA,1977,8.1,Comedy,Romance,,,,,,,PG
 Network ,Sidney Lumet,121,"Robert Duvall, Faye Dunaway, William Holden",media|monologue|television|television network|television news,English,USA,1976,8.1,Drama,Romance,,,,,,,R
 A Christmas Story ,Bob Clark,94,"Zack Ward, Darren McGavin, Scott Schwartz",bb gun|boy|bully|christmas|tongue stuck on a pole,English,USA,1983,8.1,Comedy,Family,,,,,,,PG
@@ -236,7 +236,7 @@ Before Sunrise ,Richard Linklater,105,"Hanno Pöschl, Hans Weingartner, Dominik
 The Best Years of Our Lives ,William Wyler,172,"Myrna Loy, Teresa Wright, Dana Andrews",love|pity|readjusting to civilian life|veteran|world war two veteran,English,USA,1946,8.1,Drama,Romance,War,,,,,,Not Rated
 Amores Perros ,Alejandro G. Iñárritu,115,"Adriana Barraza, Jorge Salinas, Goya Toledo",animal in title|dog fight|mexico city|multiple perspectives|nonlinear timeline,Spanish,Mexico,2000,8.1,Drama,Thriller,,,,,,,R
 Touching the Void ,Kevin Macdonald,106,"Nicholas Aaron, Brendan Mackey, Joe Simpson",bone|climbing|crevasse|partner|rope,English,UK,2003,8.1,Adventure,Documentary,Drama,Sport,,,,,R
-Strangers with Candy             ,,22,"Stephen Colbert, Amy Sedaris, Maria Thayer",alternative comedy|female protagonist|high school|social satire|three word title,English,USA,,8.1,Comedy,,,,,,,,TV-14
+Strangers with Candy ,,22,"Stephen Colbert, Amy Sedaris, Maria Thayer",alternative comedy|female protagonist|high school|social satire|three word title,English,USA,,8.1,Comedy,,,,,,,,TV-14
 In the Shadow of the Moon ,David Sington,100,"John F. Kennedy, Buzz Aldrin, Neil Armstrong",1960s|astronaut|moon|nasa|spacecraft accident,English,UK,2007,8.1,Documentary,History,,,,,,,PG
 The Square ,Jehane Noujaim,108,"Khalid Abdalla, Ahmed Hassan, Aida Elkashef",,Arabic,Egypt,2013,8.1,Documentary,Drama,History,News,,,,,Not Rated
 The Celebration ,Thomas Vinterberg,105,"Ulrich Thomsen, Paprika Steen, Trine Dyrholm",dogme 95|family secret|haunted by the past|secret|speech,Danish,Denmark,1998,8.1,Drama,,,,,,,,R
@@ -336,13 +336,13 @@ The Bourne Identity ,Doug Liman,119,"Matt Damon, Josh Hamilton, Nicky Naudé",a
 Almost Famous ,Cameron Crowe,152,"Philip Seymour Hoffman, Zooey Deschanel, Michael Angarano",band|magazine|rolling stone magazine|smoking marijuana|tour,English,USA,2000,7.9,Adventure,Comedy,Drama,Music,,,,,R
 Captain Phillips ,Paul Greengrass,134,"Tom Hanks, Chris Mulkey, Michael Chernus",hijacking|hostage|leader|ship|somalia,English,USA,2013,7.9,Biography,Drama,Thriller,,,,,,PG-13
 Shrek ,Andrew Adamson,90,"Kathleen Freeman, Chris Miller, Bobby Block",donkey|fairy tale|ogre|princess|swamp,English,USA,2001,7.9,Adventure,Animation,Comedy,Family,Fantasy,,,,PG
-Unforgotten             ,,45,"Bernard Hill, Gemma Jones, Nicola Walker",,English,UK,,7.9,Crime,Drama,,,,,,,
+Unforgotten ,,45,"Bernard Hill, Gemma Jones, Nicola Walker",,English,UK,,7.9,Crime,Drama,,,,,,,
 Hero ,Yimou Zhang,80,"Jet Li, Tony Chiu Wai Leung, Maggie Cheung",china|flying|king|palace|sword,Mandarin,China,2002,7.9,Action,Adventure,History,,,,,,PG-13
 The Notebook ,Nick Cassavetes,123,"Ryan Gosling, Kevin Connolly, Gena Rowlands",class differences|letter|nursing home|second chance|summer love,English,USA,2004,7.9,Drama,Romance,,,,,,,PG-13
 Glory ,Edward Zwick,122,"Denzel Washington, Morgan Freeman, Matthew Broderick",army|black soldier|military uniform|prejudice|u.s. civil war,English,USA,1989,7.9,Drama,History,War,,,,,,R
 Walk the Line ,James Mangold,153,"Sandra Ellis Lafferty, Dallas Roberts, Tyler Hilton",1960s|accident|concert|guitar|prison,English,USA,2005,7.9,Biography,Drama,Music,Romance,,,,,PG-13
 Straight Outta Compton ,F. Gary Gray,167,"Aldis Hodge, Neil Brown Jr., R. Marcos Taylor",concert|gangsta rap|hip hop|nwa|rap music,English,USA,2015,7.9,Biography,Crime,Drama,History,Music,,,,R
-Limitless             ,,42,"Colin Salmon, Mary Elizabeth Mastrantonio, Jake McDorman",brain capacity|fbi|fictional drug|intelligence|taking a pill,English,USA,,7.9,Crime,Drama,Sci-Fi,Thriller,,,,,TV-14
+Limitless ,,42,"Colin Salmon, Mary Elizabeth Mastrantonio, Jake McDorman",brain capacity|fbi|fictional drug|intelligence|taking a pill,English,USA,,7.9,Crime,Drama,Sci-Fi,Thriller,,,,,TV-14
 The Blues Brothers ,John Landis,148,"John Belushi, Aretha Franklin, Ray Charles",band|catholic|money|parolee|prison,English,USA,1980,7.9,Action,Comedy,Crime,Music,,,,,R
 The Right Stuff ,Philip Kaufman,193,"Dennis Quaid, Scott Glenn, Sam Shepard",astronaut|sound barrier|space program|u.s. air force|u.s. space program,English,USA,1983,7.9,Adventure,Drama,History,,,,,,PG
 Taken ,Pierre Morel,93,"Liam Neeson, Holly Valance, Xander Berkeley",agent|cia|france|rescue|teenage abduction,English,France,2008,7.9,Action,Thriller,,,,,,,PG-13
@@ -356,16 +356,16 @@ Hot Fuzz ,Edgar Wright,121,"Bill Bailey, Joe Cornish, Billie Whitelaw",accident
 "Crouching Tiger, Hidden Dragon ",Ang Lee,120,"Chen Chang, Pei-Pei Cheng, Sihung Lung",bare midriff|china|magical realism|martial arts|sword,Mandarin,Taiwan,2000,7.9,Action,Drama,Romance,,,,,,PG-13
 The Remains of the Day ,James Ivory,134,"Anthony Hopkins, Peter Vaughan, Ben Chaplin",butler|housekeeper|manor|servant|service,English,UK,1993,7.9,Drama,Romance,,,,,,,PG
 Boogie Nights ,Paul Thomas Anderson,155,"Don Cheadle, Nicole Ari Parker, Nina Hartley",1970s|adult entertainment industry|nightclub|porn industry|san fernando valley california,English,USA,1997,7.9,Drama,,,,,,,,R
-The Company             ,,286,"Anna Silk, Tom Hollander, Alessandro Nivola",cia|mole|revolution|spy|ussr,English,USA,,7.9,Drama,History,Thriller,,,,,,
+The Company ,,286,"Anna Silk, Tom Hollander, Alessandro Nivola",cia|mole|revolution|spy|ussr,English,USA,,7.9,Drama,History,Thriller,,,,,,
 Letters from Iwo Jima ,Clint Eastwood,141,"Yuki Matsuzaki, Kazunari Ninomiya, Shidô Nakamura",blood splatter|general|island|japan|world war two,Japanese,USA,2006,7.9,Drama,History,War,,,,,,R
 Ernest & Celestine ,Stéphane Aubier,80,"Mackenzie Foy, Megan Mullally, Lambert Wilson",bear|dentist|friendship|mouse|prejudice,French,France,2012,7.9,Animation,Comedy,Crime,Drama,Family,,,,PG
 The Fighter ,David O. Russell,116,"Christian Bale, Jack McGee, Melissa McMeekin",boxer|boxing|boxing match|crack cocaine|lowell massachusetts,English,USA,2010,7.9,Biography,Drama,Sport,,,,,,R
 E.T. the Extra-Terrestrial ,Steven Spielberg,120,"Henry Thomas, Dee Wallace, Peter Coyote",bicyclist|boy|doll|star wars reference|voice impersonation,English,USA,1982,7.9,Family,Sci-Fi,,,,,,,PG
-Lovesick             ,,24,"Antonia Thomas, Johnny Flynn, Hannah Britland",blond boy|chlamydia|list|male rear nudity|young couple,English,UK,,7.9,Comedy,,,,,,,,
-Bones             ,,40,"Michaela Conlin, T.J. Thyne, Tamara Taylor",anthropologist|fbi|fbi agent|forensics|investigation,English,USA,,7.9,Comedy,Crime,Drama,Mystery,Romance,,,,TV-14
+Lovesick ,,24,"Antonia Thomas, Johnny Flynn, Hannah Britland",blond boy|chlamydia|list|male rear nudity|young couple,English,UK,,7.9,Comedy,,,,,,,,
+Bones ,,40,"Michaela Conlin, T.J. Thyne, Tamara Taylor",anthropologist|fbi|fbi agent|forensics|investigation,English,USA,,7.9,Comedy,Crime,Drama,Mystery,Romance,,,,TV-14
 Crash ,Paul Haggis,115,"Don Cheadle, Loretta Devine, Jennifer Esposito",race relations|racism|racist|social problem|stereotype,English,Germany,2004,7.9,Crime,Drama,Thriller,,,,,,R
 Amour ,Michael Haneke,127,"Isabelle Huppert, Emmanuelle Riva, Jean-Louis Trintignant",aging|daughter|old couple|old love|stroke,French,France,2012,7.9,Drama,Romance,,,,,,,PG-13
-Star Wars: The Clone Wars             ,,23,"Dee Bradley Baker, James Arnold Taylor, Tom Kane",begins with narration|female warrior|inbetwequel|jedi knight|war against machines,English,USA,,7.9,Action,Adventure,Animation,Drama,Fantasy,Sci-Fi,,,TV-PG
+Star Wars: The Clone Wars ,,23,"Dee Bradley Baker, James Arnold Taylor, Tom Kane",begins with narration|female warrior|inbetwequel|jedi knight|war against machines,English,USA,,7.9,Action,Adventure,Animation,Drama,Fantasy,Sci-Fi,,,TV-PG
 Nightcrawler ,Dan Gilroy,117,"Jake Gyllenhaal, Michael Papajohn, James Huang",employer employee relationship|ethics|journalism|sociopath|tv news,English,USA,2014,7.9,Crime,Drama,Thriller,,,,,,R
 Little Miss Sunshine ,Jonathan Dayton,101,"Steve Carell, Steven Christopher Parker, Jill Talley",gay|graduate student|sister sister relationship|sprite|uncle nephew relationship,English,USA,2006,7.9,Comedy,Drama,,,,,,,R
 Veer-Zaara ,Yash Chopra,192,"Shah Rukh Khan, Preity Zinta, Anupam Kher",fair|pakistan|prison|rescue|stranded,Hindi,India,2004,7.9,Drama,Musical,Romance,,,,,,
@@ -380,10 +380,10 @@ A Man for All Seasons ,Fred Zinnemann,120,"Robert Shaw, Susannah York, Paul Sco
 Midnight Cowboy ,John Schlesinger,113,"Brenda Vaccaro, Barnard Hughes, John McGiver",gay|homosexual|homosexuality|hustler|male rear nudity,English,USA,1969,7.9,Drama,,,,,,,,X
 Elmer Gantry ,Richard Brooks,146,"Shirley Jones, Jean Simmons, Edward Andrews",1920s|evangelist|preacher|revival|traveling salesman,English,USA,1960,7.9,Drama,,,,,,,,Approved
 Before Midnight ,Richard Linklater,109,"Seamus Davey-Fitzpatrick, Ariane Labed, Athina Rachel Tsangari",friend|greece|greek|hotel room|twin,English,USA,2013,7.9,Drama,Romance,,,,,,,R
-BrainDead             ,,44,"Danny Pino, Megan Hilty, Zach Grenier",brains|exploding head|politician|swarm behavior|washington d.c.,English,USA,,7.9,Comedy,Drama,Horror,Sci-Fi,Thriller,,,,
+BrainDead ,,44,"Danny Pino, Megan Hilty, Zach Grenier",brains|exploding head|politician|swarm behavior|washington d.c.,English,USA,,7.9,Comedy,Drama,Horror,Sci-Fi,Thriller,,,,
 Riding Giants ,Stacy Peralta,105,"Gerry Lopez, Gabrielle Reece, Laird John Hamilton",beach|surfing|surfing contest|two word title|wave,English,USA,2004,7.9,Documentary,History,Sport,,,,,,PG-13
 Hud ,Martin Ritt,112,"Patricia Neal, Melvyn Douglas, Whit Bissell",alcoholism|forename as title|rancher|rodeo cowboy|texas,English,USA,1963,7.9,Drama,,,,,,,,Approved
-Eureka             ,,60,"Joe Morton, Colin Ferguson, Salli Richardson-Whitfield",alternate reality|pacific northwest|small town|small town life|small town sheriff,English,USA,,7.9,Comedy,Drama,Sci-Fi,,,,,,TV-14
+Eureka ,,60,"Joe Morton, Colin Ferguson, Salli Richardson-Whitfield",alternate reality|pacific northwest|small town|small town life|small town sheriff,English,USA,,7.9,Comedy,Drama,Sci-Fi,,,,,,TV-14
 The Conversation ,Francis Ford Coppola,113,"Harrison Ford, Teri Garr, Cindy Williams",corruption|neo noir|recording|saxophone|surveillance,English,USA,1974,7.9,Drama,Mystery,Thriller,,,,,,PG
 Nine Queens ,Fabián Bielinsky,114,"Ricardo Darín, Gastón Pauls, Leticia Brédice",con artist|hotel|partner|scam|stamp,Spanish,Argentina,2000,7.9,Crime,Drama,Thriller,,,,,,R
 The Second Mother ,Anna Muylaert,112,"Alex Huszar, Regina Casé, Luis Miranda",brazil|exam|housekeeper|northeast region of brazil|portuguese language,Portuguese,Brazil,2015,7.9,Comedy,Drama,,,,,,,R
@@ -411,7 +411,7 @@ The Little Prince ,Mark Osborne,108,"Jeff Bridges, James Franco, Mackenzie Foy"
 The Lego Movie ,Phil Lord,100,"Morgan Freeman, Will Ferrell, Alison Brie",based on toy|dual personality|evil businessman|good cop bad cop|lego,English,Australia,2014,7.8,Action,Adventure,Animation,Comedy,Family,Fantasy,,,PG
 Changeling ,Clint Eastwood,141,"Angelina Jolie Pitt, Michael Kelly, Colm Feore",execution by hanging|los angeles police department|miscarriage of justice|missing child|wrongful conviction,English,USA,2008,7.8,Crime,Drama,Mystery,Thriller,,,,,R
 The Game ,David Fincher,129,"Deborah Kara Unger, Armin Mueller-Stahl, Charles Martinet",birthday|falling through a glass roof|game|hitchcockian|suicide,English,USA,1997,7.8,Drama,Mystery,Thriller,,,,,,R
-A Touch of Frost             ,,105,"David Jason, Bruce Alexander, John Lyons",cult tv|death|detective inspector|four word title|internal affairs,English,UK,,7.8,Crime,Drama,Mystery,,,,,,
+A Touch of Frost ,,105,"David Jason, Bruce Alexander, John Lyons",cult tv|death|detective inspector|four word title|internal affairs,English,UK,,7.8,Crime,Drama,Mystery,,,,,,
 3:10 to Yuma ,James Mangold,122,"Christian Bale, Logan Lerman, Gretchen Mol",outlaw|rancher|small western town|stagecoach|train,English,USA,2007,7.8,Adventure,Crime,Drama,Western,,,,,R
 Earth ,Deepa Mehta,110,"Nandita Das, Gulshan Grover, Eric Peterson",friend|hindu|india|muslim|sikh,Hindi,India,1998,7.8,Drama,Romance,War,,,,,,Unrated
 The Fugitive ,Andrew Davis,130,"Harrison Ford, Daniel Roebuck, Sela Ward",hospital|on the run|one armed man|surgeon|u.s. marshal,English,USA,1993,7.8,Action,Adventure,Crime,Drama,Mystery,Thriller,,,PG-13
@@ -420,7 +420,7 @@ The Conjuring 2 ,James Wan,134,"Javier Botet, Frances O'Connor, Robin Atkin Dow
 The Last of the Mohicans ,Michael Mann,117,"Wes Studi, Terry Kinney, Eric Schweig",18th century|based on novel|colonel|french and indian war|revenge,English,USA,1992,7.8,Action,Adventure,Drama,Romance,War,,,,R
 Apocalypto ,Mel Gibson,139,"Rudy Youngblood, Dalia Hernández, Jonathan Brewer",jaguar|mayan|solar eclipse|tribe|village,Maya,USA,2006,7.8,Action,Adventure,Drama,Thriller,,,,,R
 Fantastic Mr. Fox ,Wes Anderson,87,"Bill Murray, Meryl Streep, Helen McCrory",cider|farm|farmer|fox|tale,English,USA,2009,7.8,Adventure,Animation,Comedy,Crime,Family,,,,PG
-3rd Rock from the Sun             ,,60,"Joseph Gordon-Levitt, Wayne Knight, Kristen Johnston",alien|digit in title|human form|number 3 in title|talking on a rooftop,English,USA,,7.8,Comedy,Family,Sci-Fi,,,,,,TV-PG
+3rd Rock from the Sun ,,60,"Joseph Gordon-Levitt, Wayne Knight, Kristen Johnston",alien|digit in title|human form|number 3 in title|talking on a rooftop,English,USA,,7.8,Comedy,Family,Sci-Fi,,,,,,TV-PG
 Gattaca ,Andrew Niccol,106,"Blair Underwood, Xander Berkeley, Mason Gamble",accident|future|genetics|mission|police,English,USA,1997,7.8,Drama,Sci-Fi,Thriller,,,,,,PG-13
 The Hangover ,Todd Phillips,108,"Bradley Cooper, Rob Riggle, Mike Epps",drunkenness|female nudity|hangover|hedonism|morning after,English,USA,2009,7.8,Comedy,,,,,,,,R
 Donnie Brasco ,Mike Newell,147,"Johnny Depp, Al Pacino, Anne Heche",fbi|mafia|money|racial slur|singer,English,USA,1997,7.8,Biography,Crime,Drama,,,,,,R
@@ -469,10 +469,10 @@ Character ,Mike van Diem,122,"Jan Decleir, Fedja van Huêt, Hans Kesting",baili
 Lost in Translation ,Sofia Coppola,101,"Scarlett Johansson, Bill Murray, Catherine Lambert",fish out of water|japanese|loneliness|older man younger woman relationship|unlikely friendship,English,USA,2003,7.8,Drama,,,,,,,,R
 Hell's Angels ,Howard Hughes,96,"Jean Harlow, Marian Marsh, James Hall",bomb|bombing mission|munitions|oxford|royal flying corps,English,USA,1930,7.8,Drama,War,,,,,,,Passed
 Airplane! ,Jim Abrahams,88,"Peter Graves, Lloyd Bridges, Barbara Billingsley",air traffic controller|airplane|airport|pilot|spoof,English,USA,1980,7.8,Comedy,,,,,,,,PG
-Empire             ,,42,"Ta'Rhonda Jones, Gabourey Sidibe, Malik Yoba",music business|new york city|record executive|record label|singer,English,USA,,7.8,Drama,Music,,,,,,,TV-14
+Empire ,,42,"Ta'Rhonda Jones, Gabourey Sidibe, Malik Yoba",music business|new york city|record executive|record label|singer,English,USA,,7.8,Drama,Music,,,,,,,TV-14
 Evil Dead II ,Sam Raimi,37,"Ted Raimi, Dan Hicks, Kassie Wesley DePaiva",cabin|cabin in the woods|demon|evil dead|woods,English,USA,1987,7.8,Comedy,Fantasy,Horror,Thriller,,,,,X
 Goldfinger ,Guy Hamilton,110,"Honor Blackman, Gert Fröbe, Lois Maxwell",bikini|covered in melted gold|fort knox|gold|pilot,English,UK,1964,7.8,Action,Adventure,Thriller,,,,,,Approved
-Robot Chicken             ,,11,"Matthew Senreich, Seth Green, Breckin Meyer",celebrity|robot|satire|sketch comedy|stop motion animation,English,USA,,7.8,Animation,Comedy,,,,,,,TV-MA
+Robot Chicken ,,11,"Matthew Senreich, Seth Green, Breckin Meyer",celebrity|robot|satire|sketch comedy|stop motion animation,English,USA,,7.8,Animation,Comedy,,,,,,,TV-MA
 Red River ,Howard Hawks,126,"Montgomery Clift, Walter Brennan, Harry Carey Jr.",cattle|cattle drive|cowboy|kansas|texas,English,USA,1948,7.8,Action,Adventure,Romance,Western,,,,,Approved
 Water ,Deepa Mehta,117,"John Abraham, Lisa Ray, Seema Biswas",ashram|india|love|tradition|widow,Hindi,Canada,2005,7.8,Drama,Romance,,,,,,,PG-13
 Willy Wonka & the Chocolate Factory ,Mel Stuart,89,"Peter Ostrum, Jack Albertson, Julie Dawn Cole",candy|chocolate|factory|miniaturization|sudden change in size,English,USA,1971,7.8,Family,Fantasy,Musical,,,,,,G
@@ -535,7 +535,7 @@ Close Encounters of the Third Kind ,Steven Spielberg,135,"Bob Balaban, Teri Gar
 21 Grams ,Alejandro G. Iñárritu,124,"Naomi Watts, Eddie Marsan, Danny Huston",accident|faith|love|mathematician|nonlinear timeline,English,USA,2003,7.7,Drama,,,,,,,,R
 Adaptation. ,Spike Jonze,81,"Nicolas Cage, Meryl Streep, Roger Willie",book|orchid|screenwriter|thief|twin,English,USA,2002,7.7,Comedy,Drama,,,,,,,R
 Fear and Loathing in Las Vegas ,Terry Gilliam,118,"Johnny Depp, Michael Jeter, Ellen Barkin",american dream|convertible|drugs|journalist|lawyer,English,USA,1998,7.7,Adventure,Comedy,Drama,,,,,,R
-Carlos             ,,334,"Edgar Ramírez, Nora von Waldstätten, Katharina Schüttler",opec|pubic hair|revolutionary|terrorism|true crime,English,France,,7.7,Biography,Crime,Drama,Thriller,,,,,Not Rated
+Carlos ,,334,"Edgar Ramírez, Nora von Waldstätten, Katharina Schüttler",opec|pubic hair|revolutionary|terrorism|true crime,English,France,,7.7,Biography,Crime,Drama,Thriller,,,,,Not Rated
 Sense and Sensibility ,Ang Lee,136,"Alan Rickman, Kate Winslet, Tom Wilkinson",1810s|female protagonist|horseback riding|inheritance|three word title,English,USA,1995,7.7,Drama,Romance,,,,,,,PG
 Philadelphia ,Jonathan Demme,125,"Denzel Washington, Tom Hanks, Jason Robards",aids|city name in title|gay|homophobia|lawyer,English,USA,1993,7.7,Drama,,,,,,,,PG-13
 End of Watch ,David Ayer,109,"Jake Gyllenhaal, Anna Kendrick, America Ferrera",lapd|police|police officer|south central los angeles|street gang,English,USA,2012,7.7,Crime,Drama,Thriller,,,,,,R
@@ -558,10 +558,10 @@ The Wailing ,Hong-jin Na,156,"Jung-min Hwang, Jun Kunimura, Woo-hee Chun",polic
 The Muppet Movie ,James Frawley,95,"Madeline Kahn, Jim Henson, Dom DeLuise",friend|frog leg|on the road|restaurant|the muppets,English,UK,1979,7.7,Adventure,Comedy,Family,Musical,,,,,G
 50/50 ,Jonathan Levine,100,"Joseph Gordon-Levitt, Anna Kendrick, Bryce Dallas Howard",best friend|cancer|survival rate|therapist|vomiting,English,USA,2011,7.7,Comedy,Drama,Romance,,,,,,R
 The Secret of Kells ,Tomm Moore,75,"Sean Lennon, Mick Lally, Evan McGuire",barbarian|fairy|forest|monastery|unfinished book,English,France,2009,7.7,Adventure,Animation,Family,Fantasy,,,,,Not Rated
-Wuthering Heights             ,,142,"Tom Hardy, Jack O'Connell, Kevin McNally",abuse|love|moor the landscape|revenge|tv mini series,English,UK,,7.7,Drama,Romance,,,,,,,
+Wuthering Heights ,,142,"Tom Hardy, Jack O'Connell, Kevin McNally",abuse|love|moor the landscape|revenge|tv mini series,English,UK,,7.7,Drama,Romance,,,,,,,
 The Rocket: The Legend of Rocket Richard ,Charles Binamé,124,"Stephen McHattie, Roy Dupuis, Julie LeBreton",fan|french canadian|hockey|hockey player|machinist,French,Canada,2005,7.7,Biography,Drama,Sport,,,,,,PG
 500 Days of Summer ,Marc Webb,95,"Joseph Gordon-Levitt, Chloë Grace Moretz, Zooey Deschanel",friend|greeting card|office|summer|true love,English,USA,2009,7.7,Comedy,Drama,Romance,,,,,,PG-13
-Nikita             ,,60,"Melinda Clarke, Xander Berkeley, Aaron Stanford",assassin|death|female protagonist|rogue|training,English,USA,,7.7,Action,Crime,Drama,Thriller,,,,,
+Nikita ,,60,"Melinda Clarke, Xander Berkeley, Aaron Stanford",assassin|death|female protagonist|rogue|training,English,USA,,7.7,Action,Crime,Drama,Thriller,,,,,
 Dazed and Confused ,Richard Linklater,102,"Milla Jovovich, Adam Goldberg, Cole Hauser",football|hazing|high school|last day of school|pledge,English,USA,1993,7.7,Comedy,,,,,,,,R
 Nowhere in Africa ,Caroline Link,141,"Merab Ninidze, Juliane Köhler, Matthias Habich",breasts|farm|jew|kenya|tween girl,English,Germany,2001,7.7,Biography,Drama,,,,,,,R
 Control ,Anton Corbijn,122,"Sam Riley, Samantha Morton, Alexandra Maria Lara",band|employment agency|singer|stage fright|suicide,English,UK,2007,7.7,Biography,Drama,Music,,,,,,R
@@ -575,7 +575,7 @@ The Barbarian Invasions ,Denys Arcand,112,"Marie-Josée Croze, Stéphane Rousse
 The Sweet Hereafter ,Atom Egoyan,112,"Bruce Greenwood, Sarah Polley, Simon Baker",anger|bus|child|lawyer|school,English,Canada,1997,7.7,Drama,,,,,,,,R
 The Machinist ,Brad Anderson,94,"Christian Bale, Jennifer Jason Leigh, Reg E. Cathey",alienation|conscience|insomnia|paranoia|urban gothic,English,Spain,2004,7.7,Drama,Thriller,,,,,,,R
 25th Hour ,Spike Lee,108,"Philip Seymour Hoffman, Rosario Dawson, Aaron Stanford",bar|dream|drug dealing|nightclub|widower,English,USA,2002,7.7,Drama,,,,,,,,R
-Secrets and Lies             ,,43,"Dan Fogler, Indiana Evans, KaDee Strickland",,English,USA,,7.7,Crime,Drama,,,,,,,
+Secrets and Lies ,,43,"Dan Fogler, Indiana Evans, KaDee Strickland",,English,USA,,7.7,Crime,Drama,,,,,,,
 Lady Vengeance ,Chan-wook Park,112,"Min-sik Choi, Yeong-ae Lee, Hye-jeong Kang",cake|christian|lesbian sex|oral sex|pregnant schoolgirl,Korean,South Korea,2005,7.7,Crime,Drama,,,,,,,R
 "Buen Día, Ramón ",Jorge Ramírez Suárez,120,"Hector Kotsifakis, Adriana Barraza, Arcelia Ramírez",,German,Mexico,2013,7.7,Drama,,,,,,,,PG-13
 Mondays in the Sun ,Fernando León de Aranoa,113,"Luis Tosar, Enrique Villén, Aida Folch",australia|bar|shipyard|siamese twins|tuna,Spanish,Spain,2002,7.7,Comedy,Drama,,,,,,,R
@@ -583,7 +583,7 @@ Religulous ,Larry Charles,101,"Bill Maher, Tal Bachman, Steve Burg",catholic|ch
 This Is England ,Shane Meadows,101,"Stephen Graham, Joseph Gilgun, Jack O'Connell",england|racism|racist|skinhead|violence,English,UK,2006,7.7,Crime,Drama,,,,,,,Unrated
 The Lady from Shanghai ,Orson Welles,92,"Rita Hayworth, Everett Sloane, Ted de Corsia",law partner|murder|partner|seaman|yacht,English,USA,1947,7.7,Crime,Drama,Film-Noir,Mystery,Thriller,,,,Not Rated
 Snow White and the Seven Dwarfs ,William Cottrell,83,"Adriana Caselotti, Billy Gilbert, Lucille La Verne",dwarf|love|princess|queen|snow white,English,USA,1937,7.7,Animation,Family,Fantasy,Musical,,,,,Approved
-Space: Above and Beyond             ,,60,"James Morrison, Tucker Smallwood, Kristen Cloke",alien|born in vitro|in vitro fertilization|marine|outer space,English,USA,,7.7,Drama,Sci-Fi,,,,,,,
+Space: Above and Beyond ,,60,"James Morrison, Tucker Smallwood, Kristen Cloke",alien|born in vitro|in vitro fertilization|marine|outer space,English,USA,,7.7,Drama,Sci-Fi,,,,,,,
 Saw ,James Wan,103,"Michael Emerson, Monica Potter, Shawnee Smith",chained|flashback|killer|serial killer|surprise ending,English,USA,2004,7.7,Horror,Mystery,Thriller,,,,,,R
 You Can Count on Me ,Kenneth Lonergan,111,"Matthew Broderick, Rory Culkin, Gaby Hoffmann",bank|car accident|cheating husband|new york|single mother,English,USA,2000,7.7,Drama,,,,,,,,R
 Dead Man's Shoes ,Shane Meadows,90,"Paddy Considine, Gary Stretch, George Newton",anger|army veteran|independent film|revenge|sex scene,English,UK,2004,7.7,Crime,Drama,Thriller,,,,,,
@@ -597,7 +597,7 @@ Crazy Stone ,Hao Ning,98,"Bo Huang, Zheng Xu, Zhonghua Chen",bankruptcy|crystal
 Bloody Sunday ,Paul Greengrass,107,"James Nesbitt, Nicholas Farrell, Tim Pigott-Smith",civil rights|irish|march|northern ireland|protest march,English,UK,2002,7.7,Drama,History,War,,,,,,R
 42nd Street ,Lloyd Bacon,89,"Ginger Rogers, Dick Powell, George Brent",chorus girl|chorus line|director|gala premiere|song,English,USA,1933,7.7,Comedy,Musical,Romance,,,,,,Unrated
 Dogtown and Z-Boys ,Stacy Peralta,91,"Tony Alva, Jay Adams, Jeff Ament",california|drought|playground|skateboarding|surfer,English,USA,2001,7.7,Documentary,Sport,,,,,,,PG-13
-Heroes             ,,60,"Sendhil Ramamurthy, Masi Oka, Greg Grunberg",father daughter relationship|serial killer|superhero|supernatural power|vision of the future,English,USA,,7.7,Drama,Fantasy,Sci-Fi,Thriller,,,,,TV-14
+Heroes ,,60,"Sendhil Ramamurthy, Masi Oka, Greg Grunberg",father daughter relationship|serial killer|superhero|supernatural power|vision of the future,English,USA,,7.7,Drama,Fantasy,Sci-Fi,Thriller,,,,,TV-14
 Pierrot le Fou ,Jean-Luc Godard,110,"Jean-Paul Belmondo, Anna Karina, Graziella Galvani",beach|money|on the run|party|smuggling,French,France,1965,7.7,Crime,Drama,Romance,,,,,,Not Rated
 The Trials of Darryl Hunt ,Ricki Stern,106,"Darryl Hunt, Evelyn Jefferson, John Reeves",false accusation|murder|north carolina|trial|wrongful conviction,English,USA,2006,7.7,Crime,Documentary,,,,,,,PG-13
 Weekend ,Andrew Haigh,97,"Tom Cullen, Chris New, Vauxhall Jermaine",coming out|fellatio|male in bathtub|male nudity|nudity,English,UK,2011,7.7,Drama,Romance,,,,,,,Not Rated
@@ -609,14 +609,14 @@ Frozen ,Chris Buck,102,"Josh Gad, Maurice LaMarche, Livvy Stubenrauch",magic|si
 Kung Fu Panda ,Mark Osborne,92,"Angelina Jolie Pitt, Wayne Knight, Dan Fogler",kung fu|kung fu master|master|panda|snow leopard,English,USA,2008,7.6,Action,Adventure,Animation,Comedy,Family,,,,PG
 The Hunger Games: Catching Fire ,Francis Lawrence,146,"Jennifer Lawrence, Josh Hutcherson, Sandra Ellis Lafferty",president|snow|television|tour|uprising,English,USA,2013,7.6,Adventure,Sci-Fi,Thriller,,,,,,PG-13
 Star Wars: Episode III - Revenge of the Sith ,George Lucas,140,"Natalie Portman, Christopher Lee, Hayden Christensen",elongated cry of no|friends become enemies|kicked in the butt|robotic midwife|vision,English,USA,2005,7.6,Action,Adventure,Fantasy,Sci-Fi,,,,,PG-13
-The A-Team             ,,60,"George Peppard, Dirk Benedict, Dwight Schultz",1980s|cult tv|famous opening theme|good versus evil|hero for hire,English,USA,,7.6,Action,Adventure,Crime,,,,,,TV-PG
+The A-Team ,,60,"George Peppard, Dirk Benedict, Dwight Schultz",1980s|cult tv|famous opening theme|good versus evil|hero for hire,English,USA,,7.6,Action,Adventure,Crime,,,,,,TV-PG
 The Flowers of War ,Yimou Zhang,146,"Christian Bale, Ni Ni, Shigeo Kobayashi",abusive stepfather|attempted rape|food shortage|sexual abuse|starving child,Mandarin,China,2011,7.6,Drama,History,Romance,War,,,,,R
 Rise of the Planet of the Apes ,Rupert Wyatt,105,"James Franco, David Oyelowo, Tyler Labine",alzheimer's disease|ape|chimpanzee|fire|when animals attack,English,USA,2011,7.6,Action,Drama,Sci-Fi,Thriller,,,,,PG-13
 Die Hard with a Vengeance ,John McTiernan,128,"Bruce Willis, Aldis Hodge, Kevin Chamberlin",bomb|detective|new york city|police|terrorist,English,USA,1995,7.6,Action,Adventure,Thriller,,,,,,R
 Sherlock Holmes ,Guy Ritchie,128,"Robert Downey Jr., Eddie Marsan, Robert Maillet",black magic|bridge construction|professor moriarty|scotland yard inspector|sherlock holmes,English,USA,2009,7.6,Action,Adventure,Crime,Mystery,Thriller,,,,PG-13
 Enemy at the Gates ,Jean-Jacques Annaud,131,"Bob Hoskins, Gabriel Thomson, Clemens Schick",battle|german|russian|sniper|stalingrad,English,USA,2001,7.6,Drama,History,War,,,,,,R
 Fury ,David Ayer,134,"Brad Pitt, Logan Lerman, Jim Parrack",battle|battlefield|brutality|combat|tank,English,USA,2014,7.6,Action,Drama,War,,,,,,R
-Bewitched             ,,25,"Elizabeth Montgomery, Agnes Moorehead, Dick York",connecticut|magic|marriage|witch|witchcraft,English,USA,,7.6,Comedy,Family,Fantasy,,,,,,TV-G
+Bewitched ,,25,"Elizabeth Montgomery, Agnes Moorehead, Dick York",connecticut|magic|marriage|witch|witchcraft,English,USA,,7.6,Comedy,Family,Fantasy,,,,,,TV-G
 Munich ,Steven Spielberg,163,"Ayelet Zurer, Moritz Bleibtreu, Mathieu Amalric",arab|black september|israel|jew|munich olympics,English,France,2005,7.6,Drama,History,Thriller,,,,,,R
 The Abyss ,James Cameron,171,"Michael Biehn, Todd Graff, Mary Elizabeth Mastrantonio",alien|estranged couple|ocean|submarine|underwater,English,USA,1989,7.6,Adventure,Drama,Sci-Fi,Thriller,,,,,PG-13
 Ice Age ,Chris Wedge,103,"Goran Visnjic, Stephen Root, Denis Leary",baby|ice|ice age|sleeping|sloth,English,USA,2002,7.6,Adventure,Animation,Comedy,Family,,,,,PG
@@ -648,7 +648,7 @@ Sicario ,Denis Villeneuve,121,"Edgar Arreola, Bernardo Saracino, Daniel Kaluuya
 Secondhand Lions ,Tim McCanlies,111,"Haley Joel Osment, Robert Duvall, Emmanuelle Vaugier",africa|eyeglasses|money|texas|veteran,English,USA,2003,7.6,Comedy,Drama,Family,,,,,,PG
 Stranger Than Fiction ,Marc Forster,113,"Will Ferrell, Christian Stolte, Danny Rhodes",author|fate|novelist|professor|writer,English,USA,2006,7.6,Comedy,Drama,Fantasy,Romance,,,,,PG-13
 Midnight Run ,Martin Brest,126,"Robert De Niro, Yaphet Kotto, Philip Baker Hall",accountant|bounty hunter|fbi|mafia|mob,English,USA,1988,7.6,Action,Comedy,Crime,Thriller,,,,,R
-12 Monkeys             ,,42,"Amanda Schull, Kirk Acevedo, Tom Noonan",epidemic|mission|paradox|plague|virus,English,USA,,7.6,Adventure,Drama,Mystery,Sci-Fi,Thriller,,,,TV-14
+12 Monkeys ,,42,"Amanda Schull, Kirk Acevedo, Tom Noonan",epidemic|mission|paradox|plague|virus,English,USA,,7.6,Adventure,Drama,Mystery,Sci-Fi,Thriller,,,,TV-14
 Indiana Jones and the Temple of Doom ,Steven Spielberg,118,"Harrison Ford, Amrish Puri, Kate Capshaw",children|studio logo segues into film|temple|village|white dinner jacket,English,USA,1984,7.6,Action,Adventure,,,,,,,PG
 The Royal Tenenbaums ,Wes Anderson,110,"Bill Murray, Anjelica Huston, Seymour Cassel",brother brother relationship|family relationships|father daughter relationship|genius|thrown through a window,English,USA,2001,7.6,Comedy,Drama,,,,,,,R
 The Omen ,Richard Donner,107,"Lee Remick, Patrick Troughton, Billie Whitelaw",ambassador|death|hospital|priest|stillborn child,English,UK,1976,7.6,Fantasy,Horror,Mystery,,,,,,R
@@ -703,7 +703,7 @@ Waiting for Guffman ,Christopher Guest,84,"Catherine O'Hara, Fred Willard, Larr
 The Nun's Story ,Fred Zinnemann,149,"Colleen Dewhurst, Peter Finch, Beatrice Straight",belgium|congo|convent|nun|nurse,English,USA,1959,7.6,Drama,,,,,,,,Not Rated
 March of the Penguins ,Luc Jacquet,80,"Morgan Freeman, Sofie Gråbøl, Romane Bohringer",chick|emperor penguin|journey|ocean|penguin,French,France,2005,7.6,Documentary,,,,,,,,G
 Animal House ,John Landis,109,"John Belushi, Karen Allen, Tim Matheson",academic probation|camera shot of feet|fraternity|school expulsion|smashing a guitar,English,USA,1978,7.6,Comedy,,,,,,,,R
-The Grand             ,,60,"Susan Hampshire, Amanda Mealing, Tim Healy",concierge|front desk|hotel|maid|prostitute,English,UK,,7.6,Drama,,,,,,,,
+The Grand ,,60,"Susan Hampshire, Amanda Mealing, Tim Healy",concierge|front desk|hotel|maid|prostitute,English,UK,,7.6,Drama,,,,,,,,
 "Fat, Sick & Nearly Dead ",Joe Cross,97,"Joe Cross, Joel Fuhrman, Amy Badberg",fat|food|health|juice|obese,English,Australia,2010,7.6,Documentary,,,,,,,,
 Garden State ,Zach Braff,102,"Armando Riesco, Michael Weston, Jill Flint",actor|doctor|drugs|home|pain,English,USA,2004,7.6,Comedy,Drama,Romance,,,,,,R
 Saving Face ,Alice Wu,96,"Joan Chen, Ato Essandoh, Jessica Hecht",chinese|chinese american|lesbian love|mother daughter relationship|surgeon,English,USA,2004,7.6,Comedy,Drama,Romance,,,,,,R
@@ -731,7 +731,7 @@ The Hobbit: The Battle of the Five Armies ,Peter Jackson,164,"Aidan Turner, Ada
 Star Trek Beyond ,Justin Lin,122,"Sofia Boutella, Melissa Roxburgh, Lydia Wilson",hatred|sequel|space opera|star trek|third part,English,USA,2016,7.5,Action,Adventure,Sci-Fi,Thriller,,,,,PG-13
 Hugo ,Martin Scorsese,126,"Chloë Grace Moretz, Christopher Lee, Ray Winstone",automaton|mechanical|railway station|steampunk|train,English,USA,2011,7.5,Adventure,Drama,Family,Mystery,,,,,PG
 Harry Potter and the Order of the Phoenix ,David Yates,138,"Robert Pattinson, Daniel Radcliffe, Fiona Shaw",battle|magic|school|teacher|wizard,English,UK,2007,7.5,Adventure,Family,Fantasy,Mystery,,,,,PG-13
-Miami Vice             ,,60,"Don Johnson, Philip Michael Thomas, John Diehl",cult tv|detective|drugs|police|undercover,English,USA,,7.5,Action,Crime,Drama,Mystery,Thriller,,,,TV-14
+Miami Vice ,,60,"Don Johnson, Philip Michael Thomas, John Diehl",cult tv|detective|drugs|police|undercover,English,USA,,7.5,Action,Crime,Drama,Mystery,Thriller,,,,TV-14
 Harry Potter and the Deathly Hallows: Part II ,Matt Birch,,"Rupert Grint, Dave Legeno, Ralph Ineson",,English,UK,2011,7.5,Action,Fantasy,,,,,,,
 Harry Potter and the Sorcerer's Stone ,Chris Columbus,159,"Daniel Radcliffe, Fiona Shaw, Verne Troyer",based on novel|birthday|evil wizard|quidditch|wizard,English,UK,2001,7.5,Adventure,Family,Fantasy,,,,,,PG
 X-Men 2 ,Bryan Singer,134,"Hugh Jackman, Bruce Davison, Aaron Stanford",mutant|prison|professor|school|x men,English,Canada,2003,7.5,Action,Adventure,Fantasy,Sci-Fi,Thriller,,,,PG-13
@@ -743,15 +743,15 @@ Gangs of New York ,Martin Scorsese,216,"Leonardo DiCaprio, Liam Neeson, Jim Bro
 Mulan ,Tony Bancroft,88,"Ming-Na Wen, Harvey Fierstein, June Foray",based on poem|based on true story|china|one word title|the huns,English,USA,1998,7.5,Adventure,Animation,Family,Fantasy,Musical,War,,,G
 Scott Pilgrim vs. the World ,Edgar Wright,112,"Anna Kendrick, Kieran Culkin, Ellen Wong",band|dating|high school|hipster|rock band,English,USA,2010,7.5,Action,Comedy,Fantasy,Romance,,,,,PG-13
 Despicable Me 2 ,Pierre Coffin,98,"Steve Carell, Miranda Cosgrove, Steve Coogan",dating|minion|overprotective father|undercover spy|woman agent,English,USA,2013,7.5,Animation,Comedy,Family,Sci-Fi,,,,,PG
-Constantine             ,,43,"Harold Perrineau, Matt Ryan, Charles Halford",based on comic|based on comic book|dc arrowverse|dc comics|supernatural,English,USA,,7.5,Drama,Fantasy,Horror,Thriller,,,,,TV-14
-Sleepy Hollow             ,,45,"Nicole Beharie, Katia Winter, Lyndie Greenwood",apocalypse|death|husband wife relationship|mother son relationship|murder,English,USA,,7.5,Adventure,Drama,Fantasy,Mystery,Thriller,,,,TV-14
+Constantine ,,43,"Harold Perrineau, Matt Ryan, Charles Halford",based on comic|based on comic book|dc arrowverse|dc comics|supernatural,English,USA,,7.5,Drama,Fantasy,Horror,Thriller,,,,,TV-14
+Sleepy Hollow ,,45,"Nicole Beharie, Katia Winter, Lyndie Greenwood",apocalypse|death|husband wife relationship|mother son relationship|murder,English,USA,,7.5,Adventure,Drama,Fantasy,Mystery,Thriller,,,,TV-14
 Perfume: The Story of a Murderer ,Tom Tykwer,147,"Michael Smiley, David Calder, Simon Chandler",18th century|perfume|scent|sense of smell|smell,English,Germany,2006,7.5,Crime,Drama,Fantasy,,,,,,R
 The Devil's Advocate ,Taylor Hackford,136,"Keanu Reeves, Al Pacino, Charlize Theron",deal with the devil|lawyer|money|reality|supernatural power,English,USA,1997,7.5,Drama,Mystery,Thriller,,,,,,R
-Twisted             ,,60,"Grey Damon, Brittany Curran, Aaron Hill",,English,USA,,7.5,Drama,Mystery,Thriller,,,,,,
+Twisted ,,60,"Grey Damon, Brittany Curran, Aaron Hill",,English,USA,,7.5,Drama,Mystery,Thriller,,,,,,
 The Life of David Gale ,Alan Parker,130,"Kevin Spacey, Kate Winslet, Matt Craven",activist|death|death row|murder|texas,English,USA,2003,7.5,Crime,Drama,Thriller,,,,,,R
 Sleepers ,Barry Levinson,147,"Robert De Niro, Brad Pitt, Minnie Driver",boy|guard|kicked in the crotch|prank|sexual abuse,English,USA,1996,7.5,Crime,Drama,Thriller,,,,,,R
 Pinocchio ,Norman Ferguson,88,"Mel Blanc, Dickie Jones, Cliff Edwards",boy|conscience|fairy|jiminy cricket|pinocchio,English,USA,1940,7.5,Animation,Family,Fantasy,Musical,,,,,Approved
-McHale's Navy             ,,30,"Tim Conway, Gavin MacLeod, Bob Hastings",american soldier|naval uniform|navy|patrol boat|uniform,English,USA,,7.5,Comedy,War,,,,,,,TV-G
+McHale's Navy ,,30,"Tim Conway, Gavin MacLeod, Bob Hastings",american soldier|naval uniform|navy|patrol boat|uniform,English,USA,,7.5,Comedy,War,,,,,,,TV-G
 Bram Stoker's Dracula ,Francis Ford Coppola,155,"Keanu Reeves, Anthony Hopkins, Gary Oldman",dracula|horror movie remake|maze|monster sex|vampire,English,USA,1992,7.5,Fantasy,Horror,Romance,,,,,,R
 42 ,Brian Helgeland,128,"Harrison Ford, Christopher Meloni, Nicole Beharie",baseball|baseball player|brooklyn dodgers|major league baseball|racism,English,USA,2013,7.5,Biography,Drama,Sport,,,,,,PG-13
 A Nightmare on Elm Street ,Wes Craven,101,"Johnny Depp, Lin Shaye, Amanda Wyss",freddy krueger|lucid dream|serial killer|slasher|sleep deprivation,English,USA,1984,7.5,Horror,,,,,,,,X
@@ -763,7 +763,7 @@ A History of Violence ,David Cronenberg,96,"Viggo Mortensen, Kyle Schmid, Willi
 Legends of the Fall ,Edward Zwick,133,"Anthony Hopkins, Brad Pitt, Julia Ormond",epic|heart|killing an animal|passion|usa,English,USA,1994,7.5,Drama,Romance,War,Western,,,,,R
 The Curse of the Were-Rabbit ,Steve Box,85,"Mark Gatiss, Geraldine McEwan, Peter Sallis",competition|giant vegetable|pest control|stop motion animation|vegetable,English,UK,2005,7.5,Animation,Comedy,Family,Mystery,Sci-Fi,,,,G
 Southpaw ,Antoine Fuqua,124,"Jake Gyllenhaal, 50 Cent, Oona Laurence",boxer|boxing training|death of wife|male in shower|rage,English,USA,2015,7.5,Drama,Sport,,,,,,,R
-The Family             ,,60,"Zach Gilford, Joan Allen, Liam James",family drama|lie|missing child|political campaign|secret,English,USA,,7.5,Drama,Mystery,,,,,,,TV-PG
+The Family ,,60,"Zach Gilford, Joan Allen, Liam James",family drama|lie|missing child|political campaign|secret,English,USA,,7.5,Drama,Mystery,,,,,,,TV-PG
 The Assassination of Jesse James by the Coward Robert Ford ,Andrew Dominik,160,"Brad Pitt, Jeremy Renner, Sam Shepard",long title|outlaw|robbery|train|train robbery,English,USA,2007,7.5,Biography,Crime,Drama,History,Western,,,,R
 Sausage Party ,Greg Tiernan,89,"James Franco, Salma Hayek, Anders Holm",bread|coarse language|f word|sausage|tricked into lesbian sex,English,USA,2016,7.5,Adventure,Animation,Comedy,Fantasy,,,,,R
 Cry Freedom ,Richard Attenborough,147,"Denzel Washington, Kevin McNally, Penelope Wilton",activist|editor|journalist|newspaper|south africa,English,UK,1987,7.5,Biography,Drama,History,,,,,,PG
@@ -783,11 +783,11 @@ Babel ,Alejandro G. Iñárritu,143,"Brad Pitt, Harriet Walter, Dermot Crowley",
 Doubt ,John Patrick Shanley,104,"Philip Seymour Hoffman, Meryl Streep, Carrie Preston",boy|catholic|nun|priest|student,English,USA,2008,7.5,Drama,Mystery,,,,,,,PG-13
 Reign Over Me ,Mike Binder,124,"Adam Sandler, Don Cheadle, John de Lancie",college|depression|grief|mental breakdown|post september 11 2001,English,USA,2007,7.5,Drama,,,,,,,,R
 Bullets Over Broadway ,Woody Allen,98,"Jim Broadbent, Chazz Palminteri, Dianne Wiest",actress|bodyguard|new york city|play|playwright,English,USA,1994,7.5,Comedy,Crime,,,,,,,R
-Perception             ,,42,"LeVar Burton, Eric McCormack, Scott Wolf",,English,USA,,7.5,Crime,Drama,Mystery,Thriller,,,,,TV-14
+Perception ,,42,"LeVar Burton, Eric McCormack, Scott Wolf",,English,USA,,7.5,Crime,Drama,Mystery,Thriller,,,,,TV-14
 "Synecdoche, New York ",Charlie Kaufman,124,"Philip Seymour Hoffman, Jennifer Jason Leigh, Samantha Morton",actress|director|play|theatre director|warehouse,English,USA,2008,7.5,Comedy,Drama,Romance,,,,,,R
 Equilibrium ,Kurt Wimmer,107,"Christian Bale, Emily Watson, Sean Pertwee",cleric|dystopia|fascist|law|neo noir,English,USA,2002,7.5,Action,Drama,Sci-Fi,Thriller,,,,,R
 The Painted Veil ,John Curran,125,"Toby Jones, Sally Hawkins, Alan David",china|cholera|epidemic|love|marriage,Mandarin,China,2006,7.5,Drama,Romance,,,,,,,PG-13
-The O.C.             ,,44,"Peter Gallagher, Melinda Clarke, Tate Donovan",california|lawyer|love|orange county california|wealth,English,USA,,7.5,Comedy,Drama,Romance,,,,,,TV-PG
+The O.C. ,,44,"Peter Gallagher, Melinda Clarke, Tate Donovan",california|lawyer|love|orange county california|wealth,English,USA,,7.5,Comedy,Drama,Romance,,,,,,TV-PG
 Life as a House ,Irwin Winkler,125,"Ian Somerhalder, Hayden Christensen, Kristin Scott Thomas",cancer|construction|house|house construction|neighbor,English,USA,2001,7.5,Drama,,,,,,,,R
 The Ice Storm ,Ang Lee,112,"Joan Allen, Kate Burton, Henry Czerny",ice|ice storm|storm|thanksgiving|virgin,English,USA,1997,7.5,Drama,,,,,,,,R
 Sideways ,Alexander Payne,126,"Virginia Madsen, Patrick Gallagher, M.C. Gainey",actor|california|teacher|wine|writer,English,USA,2004,7.5,Adventure,Comedy,Drama,Romance,,,,,R
@@ -795,7 +795,7 @@ A Simple Plan ,Sam Raimi,121,"Gary Cole, Bridget Fonda, Chelcie Ross",bag of mo
 Home Alone ,Chris Columbus,103,"Macaulay Culkin, Devin Ratray, Catherine O'Hara",airport|child protagonist|child swearing|christmas|home alone,English,USA,1990,7.5,Comedy,Family,,,,,,,PG
 Coal Miner's Daughter ,Michael Apted,124,"Sissy Spacek, Beverly D'Angelo, Levon Helm",country music|kissing while having sex|poverty|singer|title based on song,English,USA,1980,7.5,Biography,Drama,Music,Musical,,,,,PG
 Beetlejuice ,Tim Burton,92,"Catherine O'Hara, Jeffrey Jones, Glenn Shadix",attic|ghost|surrealism|teenage girl|yuppie,English,USA,1988,7.5,Comedy,Fantasy,,,,,,,PG
-The Dead Zone             ,,60,"David Ogden Stiers, Nicole de Boer, Chris Bruno",psychic|psychic power|psychometry|spin off|supernatural power,English,Canada,,7.5,Drama,Fantasy,Mystery,Sci-Fi,,,,,TV-14
+The Dead Zone ,,60,"David Ogden Stiers, Nicole de Boer, Chris Bruno",psychic|psychic power|psychometry|spin off|supernatural power,English,Canada,,7.5,Drama,Fantasy,Mystery,Sci-Fi,,,,,TV-14
 Three Burials ,Tommy Lee Jones,107,"Levon Helm, Dwight Yoakam, Guillermo Arriaga",cemetery|friend|journey|mexico|promise,English,France,2005,7.5,Adventure,Crime,Drama,Mystery,Western,,,,R
 Sarah's Key ,Gilles Paquet-Brenner,111,"Kristin Scott Thomas, Aidan Quinn, Arben Bajraktaraj",apartment|escape|jewish family|journalist|key,French,France,2010,7.5,Drama,War,,,,,,,PG-13
 Jackie Brown ,Quentin Tarantino,154,"Robert De Niro, Sid Haig, Robert Forster",arms dealer|atf|bail|money|multiple perspectives,English,USA,1997,7.5,Crime,Thriller,,,,,,,R
@@ -822,7 +822,7 @@ Fahrenheit 9/11 ,Michael Moore,122,"Osama bin Laden, Stevie Wonder, Ricky Marti
 Best in Show ,Christopher Guest,90,"John Michael Higgins, Catherine O'Hara, Michael McKean",dog show|gay|gay character|gay couple|gay interest,English,USA,2000,7.5,Comedy,,,,,,,,PG-13
 Still Alice ,Richard Glatzer,101,"Kristen Stewart, Hunter Parrish, Seth Gilliam",alzheimer's disease|bechdel test passed|linguistics professor|new york city|reference to angels in america the play,English,USA,2014,7.5,Drama,,,,,,,,PG-13
 Standard Operating Procedure ,Errol Morris,118,"Jeffrey Frost, Megan Ambuhl Graner, Ken Davis",abu ghraib|abuse|prison|slow motion|torture,English,USA,2008,7.5,Crime,Documentary,War,,,,,,R
-Saving Grace             ,,60,"Holly Hunter, Dylan Minnette, Bokeem Woodbine",catholic|death row|inmate|oklahoma city|sexual promiscuity,English,USA,,7.5,Drama,Fantasy,,,,,,,TV-MA
+Saving Grace ,,60,"Holly Hunter, Dylan Minnette, Bokeem Woodbine",catholic|death row|inmate|oklahoma city|sexual promiscuity,English,USA,,7.5,Drama,Fantasy,,,,,,,TV-MA
 Rudderless ,William H. Macy,105,"Billy Crudup, Felicity Huffman, David Adam Flannery",demo tape|directed by cast member|grieving father|guitar|guitar player,English,USA,2014,7.5,Comedy,Drama,Music,,,,,,R
 Salvador ,Oliver Stone,122,"Jim Belushi, John Savage, Juan Fernández",1980s|el salvador|political thriller|reagan administration|war journalism,English,UK,1986,7.5,Drama,History,Thriller,War,,,,,R
 The Orphanage ,J.A. Bayona,105,"Geraldine Chaplin, Belén Rueda, Fernando Cayo",dead children|ghost|missing child|orphan|orphanage,Spanish,Spain,2007,7.5,Drama,Mystery,Thriller,,,,,,R
@@ -858,7 +858,7 @@ Roger & Me ,Michael Moore,91,"Michael Moore, Pat Boone, Bob Eubanks",factory|fl
 Pi ,Darren Aronofsky,84,"Mark Margolis, Clint Mansell, Stanley B. Herman",mathematician|nature|numbers|pattern|using a metal detector on a beach,English,USA,1998,7.5,Drama,Mystery,Thriller,,,,,,R
 George Washington ,David Gordon Green,90,"Paul Schneider, Eddie Rouse, Damian Jewan Lee",cover up|north carolina|redemption|small town|teenager,English,USA,2000,7.5,Drama,,,,,,,,Unrated
 The Circle ,Jafar Panahi,90,"Fereshteh Sadre Orafaiy, Nargess Mamizadeh, Mojgan Faramarzi",abortion|bus|hospital|prison|prostitution,Persian,Iran,2000,7.5,Drama,,,,,,,,Not Rated
-The Following             ,,43,"Natalie Zea, Valorie Curry, Sam Underwood",cult|fbi|hideout|prison escape|serial killer,English,USA,,7.5,Crime,Drama,Mystery,Thriller,,,,,TV-14
+The Following ,,43,"Natalie Zea, Valorie Curry, Sam Underwood",cult|fbi|hideout|prison escape|serial killer,English,USA,,7.5,Crime,Drama,Mystery,Thriller,,,,,TV-14
 Mission: Impossible - Rogue Nation ,Christopher McQuarrie,131,"Tom Cruise, Jeremy Renner, Sean Harris",capture|computer hacker|mission|rogue agent|spy,English,China,2015,7.4,Action,Adventure,Thriller,,,,,,PG-13
 Mission: Impossible - Ghost Protocol ,Brad Bird,133,"Tom Cruise, Jeremy Renner, Michael Nyqvist",dubai|kremlin|race against time|russian|terrorist,English,USA,2011,7.4,Action,Adventure,Thriller,,,,,,PG-13
 Master and Commander: The Far Side of the World ,Peter Weir,138,"James D'Arcy, Lee Ingleby, David Threlfall",1800s|napoleonic wars|pursuit|royal navy|ship,English,USA,2003,7.4,Action,Adventure,Drama,History,War,,,,PG-13
@@ -869,7 +869,7 @@ Contact ,Robert Zemeckis,150,"Matthew McConaughey, Tom Skerritt, Larry King",me
 X-Men ,Bryan Singer,104,"Hugh Jackman, Tyler Mane, Bruce Davison",first part|mutant|professor|superhero|superhero team,English,USA,2000,7.4,Action,Adventure,Sci-Fi,,,,,,PG-13
 The Rock ,Michael Bay,136,"Nicolas Cage, Michael Biehn, Bokeem Woodbine",alcatraz|fbi|general|hostage|rocket,English,USA,1996,7.4,Action,Adventure,Thriller,,,,,,R
 The Simpsons Movie ,David Silverman,87,"Albert Brooks, Yeardley Smith, Marcia Wallace",alaska|dome|lake|pig|the simpsons,English,USA,2007,7.4,Adventure,Animation,Comedy,,,,,,PG-13
-Last Man Standing             ,,30,"Hector Elizondo, Kaitlyn Dever, Nancy Travis",family relationships|husband wife relationship|live studio audience|sitcom|three word title,English,USA,,7.4,Comedy,,,,,,,,TV-PG
+Last Man Standing ,,30,"Hector Elizondo, Kaitlyn Dever, Nancy Travis",family relationships|husband wife relationship|live studio audience|sitcom|three word title,English,USA,,7.4,Comedy,,,,,,,,TV-PG
 Lincoln ,Steven Spielberg,150,"Joseph Gordon-Levitt, Hal Holbrook, Bruce McGill",cultural conflict|politics|president|slavery|u.s. president,English,USA,2012,7.4,Biography,Drama,History,War,,,,,PG-13
 Invictus ,Clint Eastwood,134,"Matt Damon, Morgan Freeman, Leleti Khumalo",apartheid|nation|nelson mandela|president|rugby,English,USA,2009,7.4,Biography,Drama,History,Sport,,,,,PG-13
 The Phantom of the Opera ,Joel Schumacher,143,"Gerard Butler, Minnie Driver, Miranda Richardson",based on stage musical based on novel|disfigurement|mask|opera|singer,English,UK,2004,7.4,Drama,Musical,Romance,Thriller,,,,,PG-13
@@ -885,7 +885,7 @@ The Bucket List ,Rob Reiner,97,"Morgan Freeman, Noel Gugliemi, Sean Hayes",bill
 Across the Universe ,Julie Taymor,133,"Jim Sturgess, T.V. Carpio, Robert Clohessy",anti war|liverpool|love|protest|song,English,USA,2007,7.4,Drama,Fantasy,Musical,Romance,,,,,PG-13
 A Time to Kill ,Joel Schumacher,149,"Kevin Spacey, Matthew McConaughey, Oliver Platt",african american|court|law|mississippi|trial,English,USA,1996,7.4,Crime,Drama,Thriller,,,,,,R
 Back to the Future Part III ,Robert Zemeckis,118,"Lea Thompson, Jeffrey Weissman, Thomas F. Wilson",band|dog|letter|time machine|tombstone,English,USA,1990,7.4,Adventure,Comedy,Sci-Fi,Western,,,,,PG
-Arthur             ,,30,"Bruce Dinsmore, Melissa Altro, Daniel Brochu",based on children's book|best friend|character name in title|friend|one word title,English,Canada,,7.4,Animation,Comedy,Family,,,,,,TV-Y
+Arthur ,,30,"Bruce Dinsmore, Melissa Altro, Daniel Brochu",based on children's book|best friend|character name in title|friend|one word title,English,Canada,,7.4,Animation,Comedy,Family,,,,,,TV-Y
 Mean Streets ,Martin Scorsese,112,"Robert De Niro, David Carradine, David Proval",bar|catholic guilt|epilepsy|italian american|money,English,USA,1973,7.4,Crime,Drama,Romance,Thriller,,,,,R
 Red Cliff ,John Woo,150,"Takeshi Kaneshiro, Tony Chiu Wai Leung, Wei Zhao",alliance|battle|china|chinese|strategy,Mandarin,China,2008,7.4,Action,Adventure,Drama,History,War,,,,R
 The English Patient ,Anthony Minghella,162,"Colin Firth, Kristin Scott Thomas, Jürgen Prochnow",church|english|flashback|nurse|patient,English,USA,1996,7.4,Drama,Romance,War,,,,,,R
@@ -922,7 +922,7 @@ The Love Letter ,Dan Curtis,99,"Jennifer Jason Leigh, Campbell Scott, Estelle P
 Manderlay ,Lars von Trier,139,"Bryce Dallas Howard, Jeremy Davies, Jean-Marc Barr",cotton|female frontal nudity|flogging|gangster|slavery,English,Denmark,2005,7.4,Drama,,,,,,,,Not Rated
 Far from Heaven ,Todd Haynes,107,"Dennis Quaid, Celia Weston, Michael Gaston",african american|catastrophe|family relationships|farewell scene|therapy,English,USA,2002,7.4,Drama,Romance,,,,,,,PG-13
 Quills ,Philip Kaufman,124,"Kate Winslet, Stephen Marcus, Amelia Warner",asylum|lust|male pubic hair|penis|pubic hair,English,UK,2000,7.4,Biography,Drama,,,,,,,R
-The Border             ,,41,"Jacek Koman, Marian Dziedziel, Jaroslaw Boberek",,Polish,Poland,,7.4,Action,Crime,Drama,Thriller,,,,,
+The Border ,,41,"Jacek Koman, Marian Dziedziel, Jaroslaw Boberek",,Polish,Poland,,7.4,Action,Crime,Drama,Thriller,,,,,
 Quest for Fire ,Jean-Jacques Annaud,100,"Rae Dawn Chong, Everett McGill, Gary Schwartz",fire|prehistoric times|primitive|tribe|trio,None,Canada,1981,7.4,Adventure,Drama,History,,,,,,R
 Lars and the Real Girl ,Craig Gillespie,106,"Ryan Gosling, Kelli Garner, Paul Schneider",in love with an inanimate object|internet|introvert|psychologist|sex doll,English,USA,2007,7.4,Comedy,Drama,Romance,,,,,,PG-13
 Witness ,Peter Weir,112,"Harrison Ford, Viggo Mortensen, Lukas Haas",amish|love|murder|police|train,English,USA,1985,7.4,Crime,Drama,Romance,Thriller,,,,,R
@@ -940,7 +940,7 @@ Much Ado About Nothing ,Kenneth Branagh,111,"Keanu Reeves, Denzel Washington, B
 Begin Again ,John Carney,104,"James Corden, Karen Pittman, Mary Catherine Garrison",manhattan new york city|new york city|record label|singer|song,English,USA,2013,7.4,Drama,Music,,,,,,,R
 Driving Miss Daisy ,Bruce Beresford,99,"Morgan Freeman, Jessica Tandy, Patti LuPone",1950s|african american|jewish|old age|widow,English,USA,1989,7.4,Comedy,Drama,Family,,,,,,PG
 Capote ,Bennett Miller,110,"Philip Seymour Hoffman, Michael J. Burg, Kwesi Ameyaw",book|holcomb kansas|kansas|killer|truman capote,English,Canada,2005,7.4,Biography,Crime,Drama,,,,,,R
-Dark Angel             ,,60,"Jensen Ackles, Ashley Scott, John Savage",cat burglar|female lead|future|mixed martial arts|post apocalypse,English,USA,,7.4,Action,Drama,Mystery,Sci-Fi,,,,,TV-14
+Dark Angel ,,60,"Jensen Ackles, Ashley Scott, John Savage",cat burglar|female lead|future|mixed martial arts|post apocalypse,English,USA,,7.4,Action,Drama,Mystery,Sci-Fi,,,,,TV-14
 Stargate: The Ark of Truth ,Robert C. Cooper,97,"Ben Browder, Christopher Judge, Julian Sands",2000s|evil god|space opera|stargate|wormhole,English,USA,2008,7.4,Action,Adventure,Drama,Fantasy,Sci-Fi,,,,
 Layer Cake ,Matthew Vaughn,105,"Tom Hardy, Sally Hawkins, Jamie Foreman",cake|cocaine|drugs|pills|serbian,English,UK,2004,7.4,Crime,Drama,Thriller,,,,,,R
 Caddyshack ,Harold Ramis,98,"Bill Murray, Rodney Dangerfield, Brian Doyle-Murray",caddy|country club|golf course|gopher|nudity,English,USA,1980,7.4,Comedy,Sport,,,,,,,R
@@ -961,7 +961,7 @@ The Misfits ,John Huston,120,"Montgomery Clift, Kevin McCarthy, Thelma Ritter",
 Bella ,Alejandro Monteverde,91,"Armando Riesco, Ramon Rodriguez, Eduardo Verástegui",inter cultural|latino|restaurant|soccer|train,English,USA,2006,7.4,Drama,Romance,,,,,,,PG-13
 Waking Ned Devine ,Kirk Jones,91,"James Nesbitt, David Kelly, Fionnula Flanagan",dead body|death|lottery|small town|village,English,UK,1998,7.4,Comedy,,,,,,,,PG
 A Room with a View ,James Ivory,117,"Julian Sands, Rupert Graves, Denholm Elliott",male nudity|male pubic hair|nude bathing|piano|pubic hair,English,UK,1985,7.4,Drama,Romance,,,,,,,Unrated
-Deadline Gallipoli             ,,197,"Rachel Griffiths, Jessica De Gouw, Luke Ford",gallipoli|tv mini series|world war one,English,Australia,,7.4,Drama,War,,,,,,,
+Deadline Gallipoli ,,197,"Rachel Griffiths, Jessica De Gouw, Luke Ford",gallipoli|tv mini series|world war one,English,Australia,,7.4,Drama,War,,,,,,,
 Frances Ha ,Noah Baumbach,86,"Greta Gerwig, Grace Gummer, Vanessa Ray",best friend|black and white|father daughter relationship|female protagonist|mother daughter relationship,English,USA,2012,7.4,Comedy,Drama,Romance,,,,,,R
 Summer Storm ,Marco Kreuzpaintner,98,"Alicja Bachleda, Kostja Ullmann, Robert Stadlober",friend|friendship|rowing|storm|summer camp,German,Germany,2004,7.4,Comedy,Drama,Romance,Sport,,,,,R
 Point Blank ,John Boorman,92,"Lee Marvin, Angie Dickinson, Carroll O'Connor",criminal|gangster|money|revenge|violence,English,USA,1967,7.4,Crime,Thriller,,,,,,,Approved
@@ -969,7 +969,7 @@ Hustle & Flow ,Craig Brewer,116,"Isaac Hayes, Paula Jai Parker, Elise Neal",bab
 The Black Stallion ,Carroll Ballard,118,"Teri Garr, Kelly Reno, Hoyt Axton",black horse|boy horse relationship|horse|rescued by a horse|training,English,USA,1979,7.4,Adventure,Family,Sport,,,,,,G
 Ida ,Pawel Pawlikowski,82,"Joanna Kulig, Agata Trzebuchowska, Agata Kulesza",convent|jew|jewish|nun|poland,Polish,Poland,2013,7.4,Drama,,,,,,,,PG-13
 Silver Medallist ,Hao Ning,99,"Jack Kao, Bo Huang, Zheng Xu",color in title,Mandarin,China,2009,7.4,Action,Adventure,Comedy,,,,,,
-In the Heat of the Night             ,,60,"Carroll O'Connor, Alan Autry, Crystal R. Fox",detective|mississippi|police|police detective|small town,English,USA,,7.4,Crime,Drama,Mystery,,,,,,
+In the Heat of the Night ,,60,"Carroll O'Connor, Alan Autry, Crystal R. Fox",detective|mississippi|police|police detective|small town,English,USA,,7.4,Crime,Drama,Mystery,,,,,,
 Gentleman's Agreement ,Elia Kazan,118,"Dean Stockwell, Celeste Holm, John Garfield",bigotry|jewish|prejudice|racism|writer,English,USA,1947,7.4,Drama,Romance,,,,,,,Approved
 Me and You and Everyone We Know ,Miranda July,91,"Najarra Townsend, Brad William Henke, Miranda July",fellatio|seven word title|shoe salesman|title directed by female|written by director,English,USA,2005,7.4,Comedy,Drama,,,,,,,R
 It's All Gone Pete Tong ,Michael Dowse,90,"Paul Kaye, Neil Maskell, Kate Magowan",deafness|disappearance|ears|ibiza|musician,English,UK,2004,7.4,Biography,Comedy,Drama,Music,,,,,R
@@ -1029,7 +1029,7 @@ The Terminal ,Steven Spielberg,128,"Tom Hanks, Chi McBride, Barry Shabaka Henle
 The Man from U.N.C.L.E. ,Guy Ritchie,116,"Henry Cavill, Elizabeth Debicki, Christian Berkel",box office flop|cia agent|criminal organization|kgb agent|nuclear bomb,English,USA,2015,7.3,Action,Adventure,Comedy,,,,,,PG-13
 Eyes Wide Shut ,Stanley Kubrick,159,"Tom Cruise, Vinessa Shaw, Sydney Pollack",doctor|orgy|party|pianist|sexual fantasy,English,UK,1999,7.3,Drama,Mystery,Thriller,,,,,,R
 This Is It ,Kenny Ortega,111,"Misha Gabriel Hamilton, Mekia Cox, Judith Hill",2000s|box office hit|comeback|rehearsal|year 2009,English,USA,2009,7.3,Documentary,Music,,,,,,,PG
-Rules of Engagement             ,,22,"Bianca Kajlich, Oliver Hudson, Adhir Kalyan",fiance|fiancee|magazine editor|naivety|womanizer,English,USA,,7.3,Comedy,Romance,,,,,,,TV-PG
+Rules of Engagement ,,22,"Bianca Kajlich, Oliver Hudson, Adhir Kalyan",fiance|fiancee|magazine editor|naivety|womanizer,English,USA,,7.3,Comedy,Romance,,,,,,,TV-PG
 American Sniper ,Clint Eastwood,133,"Bradley Cooper, Leonard Roberts, Keir O'Donnell",assassin|death of child|iraq|sniper|sniper rifle,English,USA,2014,7.3,Action,Biography,Drama,History,Thriller,War,,,R
 Superman ,Richard Donner,188,"Marlon Brando, Margot Kidder, Ned Beatty",1970s|clark kent|planet|superhero|year 1978,English,USA,1978,7.3,Action,Adventure,Drama,Romance,Sci-Fi,,,,PG
 Crimson Tide ,Tony Scott,123,"Denzel Washington, Viggo Mortensen, Ricky Schroder",alabama|mutiny|order|radio|submarine,English,USA,1995,7.3,Action,Drama,Thriller,War,,,,,R
@@ -1087,7 +1087,7 @@ RocknRolla ,Guy Ritchie,114,"Tom Hardy, Gerard Butler, Tom Wilkinson",accountan
 Dumb & Dumber ,Peter Farrelly,113,"Lauren Holly, Mike Starr, Teri Garr",briefcase full of money|character repeating someone else's dialogue|character says i love you|friendship|reference to cinderella,English,USA,1994,7.3,Comedy,,,,,,,,PG-13
 Enter the Void ,Gaspar Noé,161,"Paz de la Huerta, Emily Alyn Lind, Olly Alexander",drug deal|drugs|explicit sex|love|stripper,English,France,2009,7.3,Drama,Fantasy,,,,,,,Not Rated
 Beverly Hills Cop ,Martin Brest,105,"Judge Reinhold, Ronny Cox, James Russo",drug dealer|drugs|murder|police brutality|police shootout,English,USA,1984,7.3,Action,Comedy,Crime,,,,,,R
-Scream: The TV Series             ,,45,"Bex Taylor-Klaus, Bobby Campo, Jason Wiles",generation y|millennial generation|murder|teenage girl|throat slitting,English,USA,,7.3,Crime,Drama,Horror,Mystery,Thriller,,,,TV-14
+Scream: The TV Series ,,45,"Bex Taylor-Klaus, Bobby Campo, Jason Wiles",generation y|millennial generation|murder|teenage girl|throat slitting,English,USA,,7.3,Crime,Drama,Horror,Mystery,Thriller,,,,TV-14
 The Queen ,Stephen Frears,94,"Roger Allam, Sylvia Syms, Alex Jennings",monarchy|prime minister|princess diana|queen|speech,English,UK,2006,7.3,Biography,Drama,,,,,,,PG-13
 Little Women ,Gillian Armstrong,115,"Christian Bale, Kirsten Dunst, Eric Stoltz",civil war|female protagonist|post civil war|reference to friedrich schiller|u.s. civil war,English,USA,1994,7.3,Drama,Family,Romance,,,,,,PG
 The Place Beyond the Pines ,Derek Cianfrance,140,"Ryan Gosling, Ben Mendelsohn, Angelo Anthony Pizza",bank|carnival|motorcycle|police|rookie cop,English,USA,2012,7.3,Crime,Drama,Thriller,,,,,,R
@@ -1148,22 +1148,22 @@ Down for Life ,Alan Jacobs,92,"Snoop Dogg, Laz Alonso, Nicholas Gonzalez",latin
 Four Lions ,Christopher Morris,97,"Kayvan Novak, Riz Ahmed, Alex Macqueen",accidental shooting|bird|crow|exploding animal|muslim,English,UK,2010,7.3,Comedy,Crime,Drama,,,,,,R
 Friday ,F. Gary Gray,97,"Nia Long, John Witherspoon, Tony Cox",bully|drug dealer|first part|neighbor|neighborhood,English,USA,1995,7.3,Comedy,Drama,,,,,,,R
 The Ballad of Cable Hogue ,Sam Peckinpah,121,"Slim Pickens, Jason Robards, L.Q. Jones",desert|partner|prostitute|stagecoach|water,English,USA,1970,7.3,Comedy,Drama,Romance,Western,,,,,R
-The Secret             ,,45,"James Nesbitt, Ash Cook, Genevieve O'Reilly",adultery|baptist church|dentist|double murder|tv mini series,English,UK,,7.3,Drama,Thriller,,,,,,,
+The Secret ,,45,"James Nesbitt, Ash Cook, Genevieve O'Reilly",adultery|baptist church|dentist|double murder|tv mini series,English,UK,,7.3,Drama,Thriller,,,,,,,
 Coming Home ,Yimou Zhang,109,"Li Gong, Daoming Chen, Ni Yan",amnesia|cultural revolution|husband wife relationship|memory|political prisoner,Mandarin,China,2014,7.3,Drama,,,,,,,,PG-13
 Tsotsi ,Gavin Hood,94,"Terry Pheto, Nambitha Mpumlwana, Rapulana Seiphemo",baby|bathing a baby|criminal|slum|vomiting,Zulu,UK,2005,7.3,Crime,Drama,,,,,,,R
 Fish Tank ,Andrea Arnold,123,"Michael Fassbender, Harry Treadaway, Jason Maza",15 year old|dancing|essex|little sister|suburb,English,UK,2009,7.3,Drama,,,,,,,,Not Rated
 Pocketful of Miracles ,Frank Capra,136,"Ann-Margret, Glenn Ford, Thomas Mitchell",1930s|apple|dude|luck|new york city,English,USA,1961,7.3,Comedy,Drama,,,,,,,Approved
 The Brave Little Toaster ,Jerry Rees,90,"Jon Lovitz, Phil Hartman, Mindy Sterling",journey|obsolescence|radio|toaster|vacuum cleaner,English,USA,1987,7.3,Adventure,Animation,Comedy,Family,Fantasy,Musical,,,Not Rated
 Sleeper ,Woody Allen,89,"Woody Allen, John Beck, Mews Small",frozen|future|health food|leader|police,English,USA,1973,7.3,Comedy,Sci-Fi,,,,,,,PG
-Get Real             ,,60,"Anne Hathaway, Jon Tenney, Debrah Farentino",breaking the fourth wall|brother brother relationship|high school friends|imperative in title|skateboard,English,USA,,7.3,Comedy,Drama,Romance,,,,,,
+Get Real ,,60,"Anne Hathaway, Jon Tenney, Debrah Farentino",breaking the fourth wall|brother brother relationship|high school friends|imperative in title|skateboard,English,USA,,7.3,Comedy,Drama,Romance,,,,,,
 Dinner Rush ,Bob Giraldi,99,"Danny Aiello, Manny Perez, Ajay Naidu",detective|food|gangster|police|restaurant,English,USA,2000,7.3,Crime,Drama,Romance,,,,,,R
-Wings             ,,30,"Steven Weber, Tim Daly, Amy Yasbeck",1990s|brother brother relationship|nantucket island|one word title|sister sister relationship,English,USA,,7.3,Comedy,Drama,,,,,,,
+Wings ,,30,"Steven Weber, Tim Daly, Amy Yasbeck",1990s|brother brother relationship|nantucket island|one word title|sister sister relationship,English,USA,,7.3,Comedy,Drama,,,,,,,
 Submarine ,Richard Ayoade,97,"Craig Roberts, Paddy Considine, Sally Hawkins",15 year old|school|teen comedy|teen movie|virginity,English,UK,2010,7.3,Comedy,Drama,Romance,,,,,,R
 Beasts of the Southern Wild ,Benh Zeitlin,93,"Quvenzhané Wallis, Gina Montana, Dwight Henry",auroch|community|hospital|illness|six year old,English,USA,2012,7.3,Drama,Fantasy,,,,,,,PG-13
 Songcatcher ,Maggie Greenwald,109,"Aidan Quinn, David Patrick Kelly, Jane Adams",doctor|mountain|musician|song|university,English,USA,2000,7.3,Drama,Music,,,,,,,PG-13
 The Bubble ,Eytan Fox,90,"Ohad Knoller, Lior Ashkenazi, Yousef 'Joe' Sweid",gay|hairy chest|homosexual|israel|male nudity,Hebrew,Israel,2006,7.3,Comedy,Drama,Romance,,,,,,Unrated
-The Streets of San Francisco             ,,120,"Karl Malden, Michael Douglas",city name in series title|homicide|older man younger man relationship|place in series title|police partner,English,USA,,7.3,Action,Crime,Drama,Mystery,,,,,
-The Girlfriend Experience             ,,27,"Mary Lynn Rajskub, Riley Keough, Paul Sparks",escort|female nudity|friendship|money|sex scene,English,USA,,7.3,Drama,,,,,,,,TV-MA
+The Streets of San Francisco ,,120,"Karl Malden, Michael Douglas",city name in series title|homicide|older man younger man relationship|place in series title|police partner,English,USA,,7.3,Action,Crime,Drama,Mystery,,,,,
+The Girlfriend Experience ,,27,"Mary Lynn Rajskub, Riley Keough, Paul Sparks",escort|female nudity|friendship|money|sex scene,English,USA,,7.3,Drama,,,,,,,,TV-MA
 Dr. No ,Terence Young,110,"Ursula Andress, Jack Lord, Lois Maxwell",british secret service|hand to hand combat|murder|official james bond series|terrorist plot,English,UK,1962,7.3,Action,Adventure,Thriller,,,,,,Approved
 I Origins ,Mike Cahill,106,"Steven Yeun, Cara Seymour, Venida Evans",buddhism|evolution|eye|reincarnation|stuck in elevator,English,USA,2014,7.3,Drama,Romance,Sci-Fi,,,,,,R
 Once in a Lifetime: The Extraordinary Story of the New York Cosmos ,Paul Crowder,97,"Pelé, Marv Albert, Ahmet Ertegun",new york|new york cosmos|professional sports|soccer|soccer team,English,UK,2006,7.3,Documentary,Sport,,,,,,,PG-13
@@ -1194,7 +1194,7 @@ Kung Fu Panda 3 ,Alessandro Carloni,95,"J.K. Simmons, Angelina Jolie Pitt, Wayn
 Rango ,Gore Verbinski,107,"Johnny Depp, Ray Winstone, Stephen Root",chameleon|lizard|sheriff|water|western town,English,USA,2011,7.2,Adventure,Animation,Comedy,Family,Western,,,,PG
 Live Free or Die Hard ,Len Wiseman,129,"Bruce Willis, Jonathan Sadowski, Cyril Raffaelli",fbi|hacker|independence day|police|terrorist,English,USA,2007,7.2,Action,Adventure,Thriller,,,,,,PG-13
 Kingdom of Heaven ,Ridley Scott,194,"Liam Neeson, Orlando Bloom, Philip Glenister",12th century|crusader|jerusalem|knight|medieval times,English,USA,2005,7.2,Action,Adventure,Drama,History,War,,,,R
-"10,000 B.C.             ",Christopher Barnard,22,Mathew Buck,,,,,7.2,Comedy,,,,,,,,
+"10,000 B.C. ",Christopher Barnard,22,Mathew Buck,,,,,7.2,Comedy,,,,,,,,
 True Lies ,James Cameron,141,"Jamie Lee Curtis, Tia Carrere, Tom Arnold",espionage|secret agent|secret mission|spy|spy film,English,USA,1994,7.2,Action,Comedy,Thriller,,,,,,R
 Starship Troopers ,Paul Verhoeven,129,"Jake Busey, Patrick Muldoon, Seth Gilliam",alien|federation|future|military|planet,English,USA,1997,7.2,Action,Sci-Fi,War,,,,,,R
 The Peanuts Movie ,Steve Martino,88,"Francesca Capaldi, Venus Schultheis, Bill Melendez",dog|girl|imagination|peanuts|red hair,English,USA,2015,7.2,Adventure,Animation,Comedy,Family,,,,,G
@@ -1243,7 +1243,7 @@ Shakespeare in Love ,John Madden,123,"Tom Wilkinson, Martin Clunes, Simon Callo
 Silverado ,Lawrence Kasdan,133,"Scott Glenn, Todd Allen, Brad Leland",1880s|kiss|small town|table broken in fight|wild west,English,USA,1985,7.2,Action,Crime,Drama,Western,,,,,PG-13
 Bridge to Terabithia ,Gabor Csupo,96,"Josh Hutcherson, Zooey Deschanel, Bailee Madison",bully|friend|imagination|reality|troll,English,USA,2007,7.2,Adventure,Drama,Family,Fantasy,,,,,PG
 Anchorman: The Legend of Ron Burgundy ,Adam McKay,98,"Darcy Donavan, Will Ferrell, Steve Carell",1970s|anchorman|news anchor|newsroom|tv station,English,USA,2004,7.2,Comedy,,,,,,,,PG-13
-The Powerpuff Girls             ,,30,"Elizabeth Daily, Jennifer Hale, Tom Kane",campy|castle thunder|female hero|female protagonist|monster,English,USA,,7.2,Action,Animation,Comedy,Family,Fantasy,Sci-Fi,,,TV-Y7
+The Powerpuff Girls ,,30,"Elizabeth Daily, Jennifer Hale, Tom Kane",campy|castle thunder|female hero|female protagonist|monster,English,USA,,7.2,Action,Animation,Comedy,Family,Fantasy,Sci-Fi,,,TV-Y7
 Carnage ,Roman Polanski,80,"Kate Winslet, Christoph Waltz, Julie Adams",based on play|meeting|salesman|single set production|whiskey,English,France,2011,7.2,Comedy,Drama,,,,,,,R
 Without Limits ,Robert Towne,117,"Billy Burke, Monica Potter, Billy Crudup",car crash|coach|death|oregon|university of oregon,English,USA,1998,7.2,Biography,Drama,Sport,,,,,,PG-13
 Rocky Balboa ,Sylvester Stallone,139,"Sylvester Stallone, Burt Young, Mike Tyson",boxing|fight|heavyweight champion|restaurant|retired boxer,English,USA,2006,7.2,Drama,Sport,,,,,,,PG
@@ -1256,7 +1256,7 @@ Team America: World Police ,Trey Parker,98,"Jeremy Shada, Maurice LaMarche, Tre
 Let Me In ,Matt Reeves,116,"Chloë Grace Moretz, Dylan Minnette, Kodi Smit-McPhee",blood|boy|night|school|vampire,English,UK,2010,7.2,Drama,Fantasy,Horror,Mystery,,,,,R
 Everybody's Fine ,Kirk Jones,99,"Robert De Niro, James Frain, Brendan Sexton III",bus trip|parental love|retirement|surprise visit|train ride,English,USA,2009,7.2,Adventure,Drama,,,,,,,PG-13
 Chasing Mavericks ,Michael Apted,116,"Gerard Butler, Abigail Spencer, Leven Rambin",box office flop|no opening credits|surfing|two word title|year 1987,English,USA,2012,7.2,Biography,Drama,Sport,,,,,,PG
-The Doombolt Chase             ,,30,"Peter Vaughan, George Coulouris, Ewen Solon",,English,UK,,7.2,Drama,Family,,,,,,,
+The Doombolt Chase ,,30,"Peter Vaughan, George Coulouris, Ewen Solon",,English,UK,,7.2,Drama,Family,,,,,,,
 Hands of Stone ,Jonathan Jakubowicz,105,"Robert De Niro, Jurnee Smollett-Bell, Edgar Ramírez",boxer|boxing|three word title,English,Panama,2016,7.2,Action,Biography,Drama,Sport,,,,,R
 Scream ,Wes Craven,103,"David Arquette, W. Earl Brown, Roger Jackson",mask|mystery killer|slasher|teenage girl|telephone,English,USA,1996,7.2,Horror,Mystery,,,,,,,R
 Catch-22 ,Mike Nichols,122,"Bob Newhart, Bob Balaban, Martin Balsam",catch 22|friend|insanity|kneed in the groin|military,English,USA,1970,7.2,Comedy,Drama,War,,,,,,R
@@ -1371,7 +1371,7 @@ Short Cut to Nirvana: Kumbh Mela ,Maurizio Benazzo,85,"The Dalai Lama, Jasper J
 An American Girl Holiday ,Nadia Tass,86,"Mia Farrow, Jordan Bridges, Bruce Gooch",courtship|friend|girl|servant|sister,English,USA,2004,7.2,Drama,Family,,,,,,,
 An American in Hollywood ,Sai Varadan,89,"J.D. Williams, Hassan Johnson, Samantha Esteban",place name in title,English,USA,2014,7.2,Drama,,,,,,,,R
 Pirates of the Caribbean: At World's End ,Gore Verbinski,169,"Johnny Depp, Orlando Bloom, Jack Davenport",goddess|marriage ceremony|marriage proposal|pirate|singapore,English,USA,2007,7.1,Action,Adventure,Fantasy,,,,,,PG-13
-Star Wars: Episode VII - The Force Awakens             ,Doug Walker,,"Doug Walker, Rob Walker",,,,,7.1,Documentary,,,,,,,,
+Star Wars: Episode VII - The Force Awakens ,Doug Walker,,"Doug Walker, Rob Walker",,,,,7.1,Documentary,,,,,,,,
 Transformers ,Michael Bay,144,"Zack Ward, Michael O'Neill, Kevin Dunn",alien contact|autobot|decepticon|robot vs. robot|teenage hero,English,USA,2007,7.1,Action,Adventure,Sci-Fi,,,,,,PG-13
 Thor: The Dark World ,Alan Taylor,112,"Chris Hemsworth, Natalie Portman, Anthony Hopkins",arrest|portal|thor|warrior|weapon,English,USA,2013,7.1,Action,Adventure,Fantasy,,,,,,PG-13
 Jason Bourne ,Paul Greengrass,123,"Matt Damon, Riz Ahmed, Ato Essandoh",black ops|chase|cia|cia agent|repeated scene,English,UK,2016,7.1,Action,Thriller,,,,,,,PG-13
@@ -1486,7 +1486,7 @@ Harold & Kumar Go to White Castle ,Danny Leiner,88,"Ethan Embry, Fred Willard, 
 Red Riding: In the Year of Our Lord 1974 ,Julian Jarrold,102,"Andrew Garfield, Warren Clarke, John Henshaw",ejected from a moving vehicle|gun held to head|handcuffs|shot multiple times|strangulation,English,UK,2009,7.1,Crime,Drama,Mystery,Thriller,,,,,Not Rated
 Beneath Hill 60 ,Jeremy Sims,122,"Harrison Gilbertson, Gyton Grantley, Steve Le Marquand",blue clay|diversion|ends with biographical notes|ends with historical notes|tunnel,English,Australia,2010,7.1,Drama,History,War,,,,,,R
 Limbo ,John Sayles,126,"Mary Elizabeth Mastrantonio, Casey Siemaszko, Vanessa Martinez",alaska|island|motorboat|singer|wilderness,English,USA,1999,7.1,Adventure,Drama,Thriller,,,,,,R
-The Player             ,,60,"Nick Wechsler, Philip Winchester, Jeff Marlow",bet|friend|pit boss|secret|surveillance,English,USA,,7.1,Action,Crime,Drama,Thriller,,,,,TV-14
+The Player ,,60,"Nick Wechsler, Philip Winchester, Jeff Marlow",bet|friend|pit boss|secret|surveillance,English,USA,,7.1,Action,Crime,Drama,Thriller,,,,,TV-14
 Enough Said ,Nicole Holofcener,93,"Christopher Nicholas Smith, Ben Falcone, Michaela Watkins",dating|divorcee|ex husband|ex wife|party,English,USA,2013,7.1,Comedy,Drama,Romance,,,,,,PG-13
 Easy A ,Will Gluck,92,"Emma Stone, Dan Byrd, Fred Armisen",gay|gay interest|high school|school|student,English,USA,2010,7.1,Comedy,Romance,,,,,,,PG-13
 8 Women ,François Ozon,111,"Catherine Deneuve, Isabelle Huppert, Emmanuelle Béart",cook|industrialist|secret|snowstorm|suspect,French,France,2002,7.1,Comedy,Crime,Musical,Romance,,,,,R
@@ -1529,7 +1529,7 @@ The Ballad of Gregorio Cortez ,Robert M. Young,105,"Barry Corbin, Bruce McGill,
 Niagara ,Henry Hathaway,92,"Joseph Cotten, Jean Peters, Will Wright",hitchcockian|husband murders wife|murder|niagara falls|overhead shot,English,USA,1953,7.1,Crime,Film-Noir,Thriller,,,,,,Approved
 Super Troopers ,Jay Chandrasekhar,100,"Geoffrey Arend, Daniel von Bargen, Jay Chandrasekhar",drugs|highway|police|state trooper|vermont,English,USA,2001,7.1,Comedy,Crime,Mystery,,,,,,R
 The Charge of the Light Brigade ,Michael Curtiz,100,"Errol Flynn, David Niven, Spring Byington",attack|fort|india|lancer|massacre,English,USA,1936,7.1,Action,Adventure,Romance,War,,,,,Approved
-Wolf Creek             ,,,"Richard Cawthorne, John Jarratt, Lucy Fry",based on true story|blood|serial killer|slasher|tv mini series,English,Australia,,7.1,Drama,Horror,Thriller,,,,,,
+Wolf Creek ,,,"Richard Cawthorne, John Jarratt, Lucy Fry",based on true story|blood|serial killer|slasher|tv mini series,English,Australia,,7.1,Drama,Horror,Thriller,,,,,,
 Charly ,Ralph Nelson,103,"Cliff Robertson, Dick Van Patten, Claire Bloom",disability|experiment|genius|intelligence|mouse,English,USA,1968,7.1,Drama,Romance,Sci-Fi,,,,,,PG
 Food Chains ,Sanjay Rawal,83,"Alma Martinez, Robert Kennedy Jr., Eve Ensler",two word title,English,USA,2014,7.1,Documentary,News,,,,,,,
 Hard Candy ,David Slade,104,"Odessa Rae, G.J. Echternkamp, Patrick Wilson",chatting|missing person poster|online dating|photographer|sexual predator,English,USA,2005,7.1,Crime,Drama,Thriller,,,,,,R
@@ -1577,13 +1577,13 @@ The Prince of Egypt ,Brenda Chapman,99,"Martin Short, Aria Noelle Curzon, Eden 
 The Italian Job ,F. Gary Gray,111,"Jason Statham, Charlize Theron, Jimmy Shubert",gold|heist|revenge|traffic jam|venice italy,English,USA,2003,7,Action,Crime,Thriller,,,,,,PG-13
 Jack Reacher ,Christopher McQuarrie,130,"Tom Cruise, Robert Duvall, David Oyelowo",coma|mysterious villain|police chase|shooting range|sniper,English,USA,2012,7,Action,Crime,Mystery,Thriller,,,,,PG-13
 ParaNorman ,Chris Butler,92,"Anna Kendrick, Kodi Smit-McPhee, Elaine Stritch",curse|ghost|outcast|witch|zombie,English,USA,2012,7,Adventure,Animation,Comedy,Family,Fantasy,,,,PG
-Sex and the City             ,,30,"Chris Noth, Kristin Davis, Cynthia Nixon",casual sex|friendship|friendship between women|gay|singles,English,USA,,7,Comedy,Romance,,,,,,,TV-MA
+Sex and the City ,,30,"Chris Noth, Kristin Davis, Cynthia Nixon",casual sex|friendship|friendship between women|gay|singles,English,USA,,7,Comedy,Romance,,,,,,,TV-MA
 Meet the Parents ,Jay Roach,108,"Robert De Niro, Blythe Danner, Teri Polo",cat|cia|jewish|male nurse|nurse,English,USA,2000,7,Comedy,,,,,,,,PG-13
 Black Mass ,Scott Cooper,123,"Johnny Depp, Benedict Cumberbatch, Adam Scott",based on true story|boston massachusetts|fbi agent|gangster|true crime,English,USA,2015,7,Biography,Crime,Drama,,,,,,R
 Ted ,Seth MacFarlane,112,"Mila Kunis, Seth MacFarlane, Tom Skerritt",2010s|car accident|sex scene|teddy bear|testicle,English,USA,2012,7,Comedy,Fantasy,,,,,,,R
 Non-Stop ,Jaume Collet-Serra,106,"Liam Neeson, Nate Parker, Scoot McNairy",air marshal|death|passenger|terrorist|transatlantic flight,English,UK,2014,7,Action,Mystery,Thriller,,,,,,PG-13
 Syriana ,Stephen Gaghan,128,"Matt Damon, Amr Waked, Kayvan Novak",cia|hezbollah|lebanon|oil|prince,English,USA,2005,7,Drama,Thriller,,,,,,,R
-Defiance             ,,43,"Julie Benz, Tony Curran, Grant Bowler",alien|alien invasion|planet invasion|post apocalypse|year 2046,English,USA,,7,Action,Drama,Sci-Fi,,,,,,TV-MA
+Defiance ,,43,"Julie Benz, Tony Curran, Grant Bowler",alien|alien invasion|planet invasion|post apocalypse|year 2046,English,USA,,7,Action,Drama,Sci-Fi,,,,,,TV-MA
 Out of Sight ,Steven Soderbergh,123,"Don Cheadle, Albert Brooks, Keith Hudson",heist|neo noir|one last job|opposites attract|u.s. marshal,English,USA,1998,7,Crime,Drama,Romance,Thriller,,,,,R
 Curse of the Golden Flower ,Yimou Zhang,114,"Li Gong, Ye Liu, Man Li",china|chrysanthemum|emperor|empress|prince,Mandarin,China,2006,7,Drama,Romance,,,,,,,R
 Unleashed ,Louis Leterrier,103,"Morgan Freeman, Jet Li, Bob Hoskins",collar|dog|fight|fighting|piano,English,France,2005,7,Action,Crime,Drama,Thriller,,,,,R
@@ -1599,7 +1599,7 @@ Frankenweenie ,Tim Burton,87,"Martin Landau, Catherine O'Hara, Atticus Shaffer"
 Burn After Reading ,Ethan Coen,96,"J.K. Simmons, Brad Pitt, Kevin Sussman",cia|divorce|embassy|gym|memoir,English,USA,2008,7,Comedy,Drama,,,,,,,R
 John Q ,Nick Cassavetes,116,"Denzel Washington, Laura Harring, Anne Heche",health care|heart transplant|hospital|hostage|insurance,English,USA,2002,7,Crime,Drama,Thriller,,,,,,PG-13
 We're the Millers ,Rawson Marshall Thurber,118,"Laura-Leigh, Molly C. Quinn, Thomas Lennon",fake family|male frontal nudity|marijuana|mexico|stripper,English,USA,2013,7,Comedy,Crime,,,,,,,R
-Hit the Floor             ,,60,"Jodi Lyn O'Keefe, Kimberly Elise, Logan Browning",affair|hip hop|sex scene,English,USA,,7,Drama,Romance,,,,,,,
+Hit the Floor ,,60,"Jodi Lyn O'Keefe, Kimberly Elise, Logan Browning",affair|hip hop|sex scene,English,USA,,7,Drama,Romance,,,,,,,
 Scrooged ,Richard Donner,101,"Bill Murray, Alfre Woodard, Robert Mitchum",christmas|compassion|executive|ghost|redemption,English,USA,1988,7,Comedy,Drama,Fantasy,,,,,,PG-13
 The SpongeBob SquarePants Movie ,Stephen Hillenburg,87,"Scarlett Johansson, Bill Fagerbakke, Rodger Bumpass",based on tv series|crown|dream|king neptune|plankton,English,USA,2004,7,Adventure,Animation,Comedy,Family,Fantasy,,,,PG
 The Cabin in the Woods ,Drew Goddard,95,"Chris Hemsworth, Bradley Whitford, Kristen Connolly",cabin in the woods|dark humor|hatchet|killed in an elevator|robot,English,USA,2012,7,Fantasy,Horror,Mystery,Thriller,,,,,R
@@ -1621,7 +1621,7 @@ Underworld ,Len Wiseman,133,"Sophia Myles, Kevin Grevioux, Shane Brolly",blood|
 Wayne's World ,Penelope Spheeris,94,"Tia Carrere, Lara Flynn Boyle, Kurt Fuller",basement|lead actor's first film|long hair|public access|title directed by female,English,USA,1992,7,Comedy,Music,,,,,,,PG-13
 Orphan ,Jaume Collet-Serra,123,"Jimmy Bennett, CCH Pounder, Aryana Engineer",alcoholism|girl|little girl|orphan|troubled marriage,English,USA,2009,7,Horror,Mystery,Thriller,,,,,,R
 The World's End ,Edgar Wright,109,"Michael Smiley, Thomas Law, Jasper Levine",alcoholic|doppelganger|group therapy|self mutilation|twin actresses for twin sisters,English,UK,2013,7,Action,Comedy,Sci-Fi,,,,,,R
-Yu-Gi-Oh! Duel Monsters             ,,24,Pablo Sevilla,anime|based on manga|hero|surrealism|zen,Japanese,Japan,,7,Action,Adventure,Animation,Family,Fantasy,,,,
+Yu-Gi-Oh! Duel Monsters ,,24,Pablo Sevilla,anime|based on manga|hero|surrealism|zen,Japanese,Japan,,7,Action,Adventure,Animation,Family,Fantasy,,,,
 Ladyhawke ,Richard Donner,121,"Matthew Broderick, John Wood, Leo McKern",bishop|escape|hawk|lady|thief,English,USA,1985,7,Adventure,Comedy,Drama,Fantasy,,,,,PG-13
 Sweet Charity ,Bob Fosse,154,"Sammy Davis Jr., Ricardo Montalban, Ben Vereen",charity|dancer|foreign language adaptation|hope|taxi dancer,English,USA,1969,7,Comedy,Drama,Music,Musical,Romance,,,,G
 A Most Violent Year ,J.C. Chandor,125,"David Oyelowo, Ashley Williams, Albert Brooks",american dream|immigrant|new york city|oil|violence,English,USA,2014,7,Action,Crime,Drama,Thriller,,,,,R
@@ -1965,7 +1965,7 @@ Cirque du Soleil: Worlds Away ,Andrew Adamson,91,"Dallas Barnett, Erica Linz, I
 Me and Orson Welles ,Richard Linklater,107,"Zoe Kazan, Aidan McArdle, James Tupper",high school|mercury theatre|opening night|school|theatre,English,UK,2008,6.8,Drama,,,,,,,,PG-13
 Bad Boys ,Michael Bay,119,"Will Smith, Tchéky Karyo, Theresa Randle",drugs|heroin|murder|police|witness,English,USA,1995,6.8,Action,Comedy,Crime,Drama,Thriller,,,,R
 The Naked Gun 2½: The Smell of Fear ,David Zucker,85,"George Kennedy, Priscilla Presley, O.J. Simpson",american president|evil industrialist|ex girlfriend|political leader|president,English,USA,1991,6.8,Comedy,Crime,,,,,,,PG-13
-Rogue             ,,50,"Cole Hauser, Sarah Carter, Derek Luke",cheating wife|extramarital affair|female lead|undercover|unfaithfulness,English,USA,,6.8,Action,Crime,Drama,Thriller,,,,,
+Rogue ,,50,"Cole Hauser, Sarah Carter, Derek Luke",cheating wife|extramarital affair|female lead|undercover|unfaithfulness,English,USA,,6.8,Action,Crime,Drama,Thriller,,,,,
 1408 ,Mikael Håfström,114,"Drew Powell, Kim Thomson, Alexandra Silber",book|debunking|evil|hotel|paranormal phenomena,English,USA,2007,6.8,Fantasy,Horror,,,,,,,PG-13
 Out of the Furnace ,Scott Cooper,116,"Christian Bale, Sam Shepard, Dendrie Taylor",ambiguous ending|brother brother relationship|drug dealer|fight club|revenge,English,USA,2013,6.8,Crime,Drama,Thriller,,,,,,R
 The Transporter ,Louis Leterrier,92,"Jason Statham, Qi Shu, Matt Schulze",bar|gunfight|human trafficking|mixed martial arts|tire iron,English,France,2002,6.8,Action,Crime,Thriller,,,,,,PG-13
@@ -2123,7 +2123,7 @@ Sinbad: Legend of the Seven Seas ,Patrick Gilmore,85,"Brad Pitt, Adriano Gianni
 Event Horizon ,Paul W.S. Anderson,130,"Sean Pertwee, Joely Richardson, Kathleen Quinlan",solar system|space|spaceship|starship|year 2047,English,UK,1997,6.7,Horror,Sci-Fi,Thriller,,,,,,R
 The Great Raid ,John Dahl,132,"James Franco, Clayne Crawford, Paolo Montalban",american|lieutenant colonel|mission|rescue|soldier,Filipino,USA,2005,6.7,Action,Drama,War,,,,,,R
 Just Like Heaven ,Mark Waters,95,"Jon Heder, Ivana Milicevic, Willie Garson",apartment|architect|coma|doctor|spirit,English,USA,2005,6.7,Comedy,Fantasy,Romance,,,,,,PG-13
-Anger Management             ,,22,"Barry Corbin, Noureen DeWulf, Brian Austin Green",anger management|argument|irony|sarcasm|therapist,English,USA,,6.7,Comedy,Romance,,,,,,,
+Anger Management ,,22,"Barry Corbin, Noureen DeWulf, Brian Austin Green",anger management|argument|irony|sarcasm|therapist,English,USA,,6.7,Comedy,Romance,,,,,,,
 City of Angels ,Brad Silberling,114,"Nicolas Cage, Andre Braugher, Colm Feore",angel|doctor|fall|heart surgeon|hospital,English,Germany,1998,6.7,Drama,Fantasy,Romance,,,,,,PG-13
 The Pirates! Band of Misfits ,Peter Lord,88,"Salma Hayek, Russell Tovey, Brian Blessed",charles darwin|cutlass|pirate|queen victoria|scientist,English,UK,2012,6.7,Adventure,Animation,Comedy,Family,,,,,PG
 Blade II ,Guillermo del Toro,117,"Norman Reedus, Thomas Kretschmann, Tony Curran",blade the character|cult film|mutation|vampire|warrior,English,USA,2002,6.7,Action,Horror,Sci-Fi,Thriller,,,,,R
@@ -2178,7 +2178,7 @@ The Beaver ,Jodie Foster,91,"Jennifer Lawrence, Cherry Jones, Riley Thomas Stew
 Bad Moms ,Jon Lucas,100,"Mila Kunis, Jay Hernandez, Jada Pinkett Smith",lesbian kiss|mom|pta|reference to mad max|scene during end credits,English,USA,2016,6.7,Comedy,,,,,,,,R
 Selena ,Gregory Nava,127,"Jon Seda, Constance Marie, Jacob Vargas",latin music|marriage|on tour|singer|tejano,English,USA,1997,6.7,Biography,Drama,Music,,,,,,PG
 Paint Your Wagon ,Joshua Logan,158,"Clint Eastwood, Lee Marvin, Ray Walston",california|farmer|gold|mining|prospector,English,USA,1969,6.7,Comedy,Drama,Musical,Romance,Western,,,,PG-13
-Fired Up             ,,30,"Leah Remini, Mark Feuerstein, Sharon Lawrence",sitcom,English,USA,,6.7,Comedy,,,,,,,,
+Fired Up ,,30,"Leah Remini, Mark Feuerstein, Sharon Lawrence",sitcom,English,USA,,6.7,Comedy,,,,,,,,
 Ghost Town ,David Koepp,102,"Aasif Mandvi, Dequina Moore, Jordan Carlos",bouquet of roses|bright light|cardiopulmonary resuscitation|ghost|white rose,English,USA,2008,6.7,Comedy,Drama,Fantasy,Romance,,,,,PG-13
 Inherent Vice ,Paul Thomas Anderson,148,"Martin Dew, Katherine Waterston, Serena Scott Thomas",1960s|based on novel|ex boyfriend ex girlfriend relationship|southern california|voice over narration,English,USA,2014,6.7,Comedy,Crime,Drama,Mystery,Romance,,,,R
 The Oogieloves in the Big Balloon Adventure ,Matthew Diamond,88,"Chazz Palminteri, Garrett Clayton, Toni Braxton",balloon|birthday|box office flop|critically bashed,English,USA,2012,6.7,Adventure,Family,Fantasy,Musical,,,,,G
@@ -2190,7 +2190,7 @@ Small Time Crooks ,Woody Allen,94,"Woody Allen, Jon Lovitz, Michael Rapaport",a
 Center Stage ,Nicholas Hytner,115,"Amanda Schull, Susan May Pratt, Ethan Stiefel",ballet|dance|dancer|dancing|love,English,USA,2000,6.7,Drama,Music,Romance,,,,,,PG-13
 Dragonslayer ,Matthew Robbins,108,"Ian McDiarmid, Ralph Richardson, Albert Salmi",apprentice|dragon|king|kingdom|wizard,English,USA,1981,6.7,Action,Adventure,Fantasy,,,,,,PG
 Midnight Special ,Jeff Nichols,112,"Kirsten Dunst, Sam Shepard, Paul Sparks",cult|father son relationship|gas station|on the run|supernatural ability,English,Greece,2016,6.7,Adventure,Drama,Sci-Fi,Thriller,,,,,PG-13
-Unforgettable             ,,60,"Poppy Montgomery, Dylan Walsh, Dallas Roberts",hyperthymesia|new york city|police,,USA,,6.7,Drama,Mystery,,,,,,,
+Unforgettable ,,60,"Poppy Montgomery, Dylan Walsh, Dallas Roberts",hyperthymesia|new york city|police,,USA,,6.7,Drama,Mystery,,,,,,,
 Renaissance ,Christian Volckman,105,"Romola Garai, Catherine McCormack, Kevork Malikyan",future|kidnapping|missing file|paris france|year 2054,English,France,2006,6.7,Action,Animation,Sci-Fi,Thriller,,,,,R
 The Best Man Holiday ,Malcolm D. Lee,123,"Harold Perrineau, Sanaa Lathan, Eddie Cibrian",childbirth|christmas|gay slur|infidelity|punched in the nose,English,USA,2013,6.7,Comedy,Drama,,,,,,,R
 Smokin' Aces ,Joe Carnahan,109,"Ryan Reynolds, Common, Alex Rocco",casino|fbi|mafia|mob hit|sniper,English,UK,2006,6.7,Action,Crime,Drama,Thriller,,,,,R
@@ -2275,7 +2275,7 @@ Blue Car ,Karen Moncrieff,88,"Frances Fisher, Agnes Bruckner, A.J. Buckley",con
 Loving Annabelle ,Katherine Brooks,76,"Ilene Graff, Kevin McCarthy, Laura Breckenridge",older woman younger woman relationship|sex with student|teacher|teacher student relationship|title directed by female,English,USA,2006,6.7,Drama,Romance,,,,,,,Not Rated
 Elza ,Mariette Monpierre,78,"Stana Roumillac, Christophe Cherki, Teddy Doloir",foreign|french,French,France,2011,6.7,Drama,,,,,,,,
 Celeste & Jesse Forever ,Lee Toland Krieger,92,"Ari Graynor, Janel Parrish, Rob Huebel",best friends|friendship|masturbation|reference to matthias steiner|single,English,USA,2012,6.7,Comedy,Drama,Romance,,,,,,R
-Revolution             ,,43,"Billy Burke, Tracy Spiridakos, David Lyons",2020s|near future|one word series title|post apocalypse|year 2027,English,USA,,6.7,Action,Adventure,Drama,Sci-Fi,,,,,TV-14
+Revolution ,,43,"Billy Burke, Tracy Spiridakos, David Lyons",2020s|near future|one word series title|post apocalypse|year 2027,English,USA,,6.7,Action,Adventure,Drama,Sci-Fi,,,,,TV-14
 Tumbleweeds ,Gavin O'Connor,102,"Kimberly J. Brown, Janet McTeer, Lois Smith",boss|fight|reference to william shakespeare|white trash|written and directed by cast member,English,USA,1999,6.7,Comedy,Drama,,,,,,,PG-13
 Old Joy ,Kelly Reichardt,76,"Daniel London, Lucy, Will Oldham",cell phone|male frontal nudity|oregon|sexual ambiguity|title directed by female,English,USA,2006,6.7,Drama,,,,,,,,Unrated
 American Desi ,Piyush Dinker Pandya,100,"Purva Bedi, Rizwan Manji, Anil Kumar",college|desi|heritage|india|indian american,English,USA,2001,6.7,Comedy,Drama,Romance,,,,,,Unrated
@@ -2326,7 +2326,7 @@ Contagion ,Steven Soderbergh,106,"Matt Damon, Monique Gabriela Curnen, Griffin 
 Joy ,David O. Russell,124,"Jennifer Lawrence, Robert De Niro, Bradley Cooper",based on real person|female inventor|mop|sales pitch|woman holding a shotgun,English,USA,2015,6.6,Biography,Comedy,Drama,,,,,,PG-13
 Edge of Darkness ,Martin Campbell,117,"Bojana Novakovic, Ray Winstone, Denis O'Hare",activist|detective|father daughter relationship|investigation|vigilantism,English,UK,2010,6.6,Crime,Drama,Mystery,Thriller,,,,,R
 Flyboys ,Tony Bill,140,"James Franco, Tyler Labine, Philip Winchester",american|france|military|pilot|training,English,UK,2006,6.6,Action,Adventure,Drama,History,Romance,War,,,PG-13
-"Sabrina, the Teenage Witch             ",,22,"Nate Richert, Soleil Moon Frye, Caroline Rhea",female protagonist|hereditary gift of witchcraft|magic|supernatural|witch,English,USA,,6.6,Comedy,Family,Fantasy,,,,,,TV-G
+"Sabrina, the Teenage Witch ",,22,"Nate Richert, Soleil Moon Frye, Caroline Rhea",female protagonist|hereditary gift of witchcraft|magic|supernatural|witch,English,USA,,6.6,Comedy,Family,Fantasy,,,,,,TV-G
 Pocahontas ,Mike Gabriel,84,"Christian Bale, Frank Welker, Irene Bedard",actor playing multiple roles|love|one word title|unsubtitled foreign language|virginia,English,USA,1995,6.6,Adventure,Animation,Drama,Family,History,Musical,Romance,,G
 Hitch ,Andy Tennant,118,"Will Smith, Michael Rapaport, Kevin Sussman",advice|friendship|gossip|newspaper|quitting a job,English,USA,2005,6.6,Comedy,Romance,,,,,,,PG-13
 Shanghai Noon ,Tom Dey,110,"Xander Berkeley, Jason Connery, Kate Luyben",19th century|chinese|princess|rescue|travel,English,USA,2000,6.6,Action,Adventure,Comedy,Western,,,,,PG-13
@@ -2390,12 +2390,12 @@ The Greatest Story Ever Told ,George Stevens,225,"Martin Landau, Carroll Baker,
 The Man Who Knew Too Little ,Jon Amiel,94,"Bill Murray, Peter Gallagher, Joanne Whalley",assassin|bomb|dominatrix|mistaken identity|spy,English,USA,1997,6.6,Action,Comedy,Crime,Thriller,,,,,PG
 The Weather Man ,Gore Verbinski,102,"Nicolas Cage, Hope Davis, Michael Rispoli",corndog|failure|funeral in the rain|new york city|weatherman,English,USA,2005,6.6,Comedy,Drama,,,,,,,R
 Burnt ,John Wells,101,"Bradley Cooper, Omar Sy, Riccardo Scamarcio",chef|gay kiss|michelin star|restaurant|violent behavior,English,USA,2015,6.6,Comedy,Drama,,,,,,,R
-"Gone, Baby, Gone             ",,43,"Nicole 'Snooki' Polizzi, Jenni 'Jwoww' Farley, Paul 'Pauly D' DelVecchio",lifestyle,English,,,6.6,Comedy,Drama,Reality-TV,Romance,,,,,TV-14
+"Gone, Baby, Gone ",,43,"Nicole 'Snooki' Polizzi, Jenni 'Jwoww' Farley, Paul 'Pauly D' DelVecchio",lifestyle,English,,,6.6,Comedy,Drama,Reality-TV,Romance,,,,,TV-14
 Star Trek III: The Search for Spock ,Leonard Nimoy,105,"Leonard Nimoy, Nichelle Nichols, Walter Koenig",dying planet|planet|regaining one's memory|sacrifice|stabbed to death,English,USA,1984,6.6,Action,Adventure,Sci-Fi,,,,,,PG
 Diary of a Wimpy Kid: Rodrick Rules ,David Bowers,99,"Zachary Gordon, Rachael Harris, Fran Kranz",brother|middle school|no opening credits|photograph|school,English,USA,2011,6.6,Comedy,Family,,,,,,,PG
 Escobar: Paradise Lost ,Andrea Di Stefano,120,"Josh Hutcherson, Brady Corbet, Carlos Bardem",colombia|dream|love|surfer|village,English,France,2014,6.6,Crime,Drama,Romance,Thriller,,,,,R
 Dragon Hunters ,Guillaume Ivernel,80,"Rob Paulsen, Jess Harnell, Mary Mouser",cgi film|computer animation|dragon|hunter,French,France,2008,6.6,Adventure,Animation,Family,Fantasy,,,,,PG
-The Messengers             ,,60,"Joel Courtney, Jessika Van, Riley Smith",,English,USA,,6.6,Drama,Fantasy,Mystery,Thriller,,,,,
+The Messengers ,,60,"Joel Courtney, Jessika Van, Riley Smith",,English,USA,,6.6,Drama,Fantasy,Mystery,Thriller,,,,,
 Arn: The Knight Templar ,Peter Flinth,270,"Gustaf Skarsgård, Michael Nyqvist, Vincent Perez",first part|holy land|knight templar|monastery|sword and shield,Swedish,Sweden,2007,6.6,Action,Adventure,Drama,Romance,War,,,,
 Hollywood Ending ,Woody Allen,112,"Woody Allen, Debra Messing, Treat Williams",blind|director|psychosomatic blindness|self deprecating|studio,English,USA,2002,6.6,Comedy,Romance,,,,,,,PG-13
 The Immigrant ,James Gray,120,"Jeremy Renner, Dagmara Dominczyk, Angela Sarafyan",immigrant|immigration|magician|money|prostitution,English,USA,2013,6.6,Drama,Romance,,,,,,,R
@@ -2408,7 +2408,7 @@ De-Lovely ,Irwin Winkler,125,"Kevin McNally, Keith Allen, Sandra Nelson",cole p
 Dark Blue ,Ron Shelton,118,"Khandi Alexander, Dash Mihok, Michael Michele",corrupt|criminal|investigation|lapd|police,English,USA,2002,6.6,Crime,Drama,Romance,Thriller,,,,,R
 Promised Land ,Gus Van Sant,106,"Matt Damon, Hal Holbrook, Terry Kinney",corporate greed|corporation|natural gas|salesman|small town,English,USA,2012,6.6,Drama,,,,,,,,R
 Pandaemonium ,Julien Temple,124,"Samantha Morton, Dexter Fletcher, Linus Roache",betrayal|french revolution|friendship|poet|revolution,English,UK,2000,6.6,Biography,Drama,,,,,,,PG-13
-Ghost Hunters             ,,60,"Amy Bruni, Steve Gonsalves, Jason Hawes",ghost|paranormal|paranormal research|shaky cam,English,USA,,6.6,Documentary,,,,,,,,
+Ghost Hunters ,,60,"Amy Bruni, Steve Gonsalves, Jason Hawes",ghost|paranormal|paranormal research|shaky cam,English,USA,,6.6,Documentary,,,,,,,,
 Jonah: A VeggieTales Movie ,Mike Nawrocki,82,"Phil Vischer, Mike Nawrocki, Shelby Vischer",anthropomorphism|pirate|pirate ship|tomato|whale,English,USA,2002,6.6,Adventure,Animation,Comedy,Drama,Family,Musical,,,G
 A Walk on the Moon ,Tony Goldwyn,107,"Viggo Mortensen, Julie Kavner, Tovah Feldshuh",adulterous wife|cheating wife|summer|unfaithfulness|woodstock,English,USA,1999,6.6,Drama,,,,,,,,R
 Attack the Block ,Joe Cornish,88,"John Boyega, Luke Treadaway, Jodie Whittaker",alien|alien invasion|apartment|creature|gang,English,UK,2011,6.6,Action,Comedy,Sci-Fi,Thriller,,,,,R
@@ -3336,7 +3336,7 @@ Not Easily Broken ,Bill Duke,99,"Eddie Cibrian, Jenifer Lewis, Wood Harris",afr
 Albino Alligator ,Kevin Spacey,97,"Viggo Mortensen, Joe Mantegna, Faye Dunaway",bar|box office flop|hostage|new orleans louisiana|police,English,USA,1996,6.1,Crime,Drama,Thriller,,,,,,R
 Dead Like Me: Life After Death ,Stephen Herek,87,"Henry Ian Cusick, Callum Blue, Shenae Grimes-Beech",african american policeman|police|policeman|policewoman|vomiting,English,USA,2009,6.1,Comedy,Drama,Fantasy,,,,,,R
 The Sweeney ,Nick Love,112,"Hayley Atwell, Ray Winstone, Alan Ford",bank|criminal|detective|flying squad|policewoman,English,UK,2012,6.1,Action,Crime,Drama,,,,,,R
-Sonny with a Chance             ,,23,"Doug Brochu, Tiffany Thornton, Brandon Mychal Smith",cafeteria|female protagonist|rival|teenage girl|teenager,English,USA,,6.1,Comedy,Family,Romance,,,,,,TV-G
+Sonny with a Chance ,,23,"Doug Brochu, Tiffany Thornton, Brandon Mychal Smith",cafeteria|female protagonist|rival|teenage girl|teenager,English,USA,,6.1,Comedy,Family,Romance,,,,,,TV-G
 Futuro Beach ,Karim Aïnouz,106,"Wagner Moura, Clemens Schick, Jesuíta Barbosa",gay|male frontal nudity|male nudity|male rear nudity|nudity,Portuguese,Brazil,2014,6.1,Drama,,,,,,,,Unrated
 She's the One ,Edward Burns,96,"John Mahoney, Frank Vincent, Michael McGlone",claim in title|infidelity|irish american|love|sex,English,USA,1996,6.1,Comedy,Drama,Romance,,,,,,R
 The Betrayed ,Amanda Gusack,98,"Alice Krige, Christian Campbell, Blaine Anderson",blood splatter|ski mask|stolen money|vomiting|warehouse,English,USA,2008,6.1,Crime,Drama,Mystery,Thriller,,,,,
@@ -3634,7 +3634,7 @@ The Last Five Years ,Richard LaGravenese,94,"Anna Kendrick, Jeremy Jordan, Char
 Return of the Living Dead III ,Brian Yuzna,97,"Melinda Clarke, Kent McCord, Sarah Douglas",female nudity|living dead|self mutilation|sequel|zombie,English,USA,1993,5.9,Horror,Romance,Sci-Fi,,,,,,R
 From a Whisper to a Scream ,Jeff Burr,92,"Terry Kiser, Clu Gulager, Susan Tyrrell",bathtub|cult film|neck breaking|tennessee|wraparound story,English,USA,1987,5.9,Action,Drama,Horror,Thriller,,,,,R
 Cry_Wolf ,Jeff Wadlow,90,"Julian Morris, Gary Cole, Lindy Booth",e mail|game|school|serial killer|student,English,USA,2005,5.9,Drama,Horror,Mystery,Thriller,,,,,PG-13
-Jesse             ,,30,"Eric Lloyd, David DeLuise, Bruno Campos",1990s|brother sister relationship|female protagonist|single mother|sitcom,English,USA,,5.9,Comedy,,,,,,,,
+Jesse ,,30,"Eric Lloyd, David DeLuise, Bruno Campos",1990s|brother sister relationship|female protagonist|single mother|sitcom,English,USA,,5.9,Comedy,,,,,,,,
 Circumstance ,Maryam Keshavarz,107,"Sarah Kazemy, Reza Sixo Safai, Sina Amedson",closeted lesbian|iranian|islamophobia|propaganda|teenager,Persian,France,2011,5.9,Drama,,,,,,,,R
 Kingdom of the Spiders ,John 'Bud' Cardos,97,"Woody Strode, Hoke Howell, Tiffany Bolling",death|farm|hotel|spider|tarantula,English,USA,1977,5.9,Horror,Sci-Fi,,,,,,,PG
 Straight Out of Brooklyn ,Matty Rich,91,"Lawrence Gilliard Jr., George T. Odom, Matty Rich",domestic violence|housing project|new york city|poverty|racism,English,USA,1991,5.9,Crime,Drama,,,,,,,R
@@ -3684,7 +3684,7 @@ Life or Something Like It ,Stephen Herek,103,"Angelina Jolie Pitt, Stockard Cha
 Duplex ,Danny DeVito,89,"Justin Theroux, Amber Valletta, Harvey Fierstein",christmas|duplex|television|tenant|writer,English,USA,2003,5.8,Comedy,,,,,,,,PG-13
 Just Visiting ,Jean-Marie Poiré,84,"Bridgette Wilson-Sampras, Matt Ross, John Aylward",alternate history|alternate timeline|flatulence|future time travel|time travel comedy,English,France,2001,5.8,Comedy,Fantasy,Sci-Fi,,,,,,PG-13
 The Gunman ,Pierre Morel,115,"Ray Winstone, Mark Rylance, Jasmine Trinca",assassination|blood vomiting|death|hit squad|mercenary,English,USA,2015,5.8,Action,Crime,Drama,Mystery,Thriller,,,,R
-Rush Hour             ,,43,"Jon Foo, Aimee Garcia, Wendie Malick",,English,USA,,5.8,Action,Comedy,Crime,,,,,,TV-14
+Rush Hour ,,43,"Jon Foo, Aimee Garcia, Wendie Malick",,English,USA,,5.8,Action,Comedy,Crime,,,,,,TV-14
 Species ,Roger Donaldson,108,"Natasha Henstridge, Marg Helgenberger, Jordan Lund",alien|interspecies sex|scientist|sexual attraction|train,English,USA,1995,5.8,Action,Horror,Sci-Fi,Thriller,,,,,R
 The Nut Job ,Peter Lepeniotis,85,"Liam Neeson, Brendan Fraser, Sarah Gadon",bank robbery|heist|raccoon|rat|squirrel,English,Canada,2014,5.8,Adventure,Animation,Comedy,Family,,,,,PG
 Splice ,Vincenzo Natali,104,"Sarah Polley, David Hewlett, Delphine Chanéac",dna|experiment|genetics|interspecies sex|scientist,English,Canada,2009,5.8,Drama,Horror,Sci-Fi,,,,,,R
@@ -4439,7 +4439,7 @@ Doug's 1st Movie ,Maurice Joyce,77,"Frank Welker, Constance Shulman, Alice Play
 Survival of the Dead ,George A. Romero,90,"Julian Richings, Shawn Roberts, Kathleen Munroe",delaware|feud|island|undead|zombie,English,USA,2009,5,Horror,,,,,,,,R
 The Velocity of Gary ,Dan Ireland,100,"Salma Hayek, Danny Arroyo, Olivia d'Abo",dying|hospital|parenthesis in title|punctuation in title|tears,English,USA,1998,5,Comedy,Drama,Romance,,,,,,R
 Compadres ,Enrique Begne,101,"Kevin Pollak, Héctor Jiménez, Erick Elias",,English,Mexico,2016,5,Action,Comedy,,,,,,,R
-Creature             ,,173,"Craig T. Nelson, Colm Feore, Megalyn Echikunwoke",author cameo|family relationships|island|monster|two part tv movie,English,USA,,5,Horror,Sci-Fi,Thriller,,,,,,
+Creature ,,173,"Craig T. Nelson, Colm Feore, Megalyn Echikunwoke",author cameo|family relationships|island|monster|two part tv movie,English,USA,,5,Horror,Sci-Fi,Thriller,,,,,,
 Brave New Girl ,Bobby Roth,120,"Virginia Madsen, Aaron Ashmore, Lindsey Haun",based on a book|based on a novel|made for tv movie|music school|support,English,USA,2004,5,Drama,Family,Music,,,,,,PG-13
 Stung ,Benni Diez,87,"Clifton Collins Jr., Cecilia Pillado, David Masterson",catering|monster|one word title|party|wasp,English,Germany,2015,5,Comedy,Horror,,,,,,,Not Rated
 The Rise of the Krays ,Zackary Adler,110,"Simon Merrells, Kevin Leslie, Kris Sommerville",,English,UK,2015,5,Crime,Drama,,,,,,,R
@@ -4820,12 +4820,12 @@ Luminarias ,José Luis Valenzuela,100,"Cheech Marin, Lupe Ontiveros, Robert Bel
 Echo Dr. ,Patrick Ryan Sims,81,"Claire Gordon-Harper, Hugh Mun, Johnathan Hurley",android|artificial intelligence|home invasion|security system|tech noir,English,USA,2013,3.6,Action,Drama,Sci-Fi,Thriller,,,,,
 The Adventures of Sharkboy and Lavagirl 3-D ,Robert Rodriguez,93,"Taylor Lautner, Kristin Davis, Taylor Dooley",boy|bully|dream|dream sequence|planet,English,USA,2005,3.5,Action,Adventure,Family,Fantasy,,,,,PG
 Dance Flick ,Damien Dante Wayans,88,"Damon Wayans Jr., Essence Atkins, Chris Elliott",african american|dance|overalls|parody|rap,English,USA,2009,3.5,Action,Comedy,Music,,,,,,PG-13
-Meet the Browns             ,,30,"Lamman Rucker, David Mann, Denise Boutte",african american|character name in title|family relationships|sitcom,English,USA,,3.5,Comedy,,,,,,,,
+Meet the Browns ,,30,"Lamman Rucker, David Mann, Denise Boutte",african american|character name in title|family relationships|sitcom,English,USA,,3.5,Comedy,,,,,,,,
 Vampires Suck ,Jason Friedberg,82,"Diedrich Bader, Dave Foley, Anneliese van der Pol",cat|friend|love|sheriff|teenager,English,USA,2010,3.5,Comedy,,,,,,,,PG-13
 Scary Movie 5 ,Malcolm D. Lee,88,"Marisa Saks, Snoop Dogg, Molly Shannon",2010s|ape|ballet|psychic|supernatural,English,USA,2013,3.5,Comedy,,,,,,,,PG-13
 Megaforce ,Hal Needham,99,"Barry Bostwick, Michael Beck, Henry Silva",dictator|electronic music score|one word title|secret headquarters|soldier,English,USA,1982,3.5,Action,Sci-Fi,,,,,,,PG
 An Alan Smithee Film: Burn Hollywood Burn ,Arthur Hiller,86,"Eric Idle, Harvey Weinstein, Ryan O'Neal",box office flop|critically bashed|director|hollywood|mockumentary,English,USA,1997,3.5,Comedy,,,,,,,,R
-The Bold and the Beautiful             ,,30,"Ronn Moss, Katherine Kelly Lang, Hunter Tylo",beverly hills california|family relationships|los angeles california|soap opera,English,USA,,3.5,Drama,Romance,,,,,,,TV-14
+The Bold and the Beautiful ,,30,"Ronn Moss, Katherine Kelly Lang, Hunter Tylo",beverly hills california|family relationships|los angeles california|soap opera,English,USA,,3.5,Drama,Romance,,,,,,,TV-14
 You Got Served ,Chris Stokes,95,"Jennifer Freeman, Marques Houston, Steve Harvey",competition|dance contest|friend|money|street dancing,English,USA,2004,3.5,Drama,Music,,,,,,,PG-13
 The Omega Code ,Robert Marcarelli,100,"George Coe, William Hootkins, Ayla Kell",code|evil|false accusation|megalomaniac|torah,English,USA,1999,3.5,Action,Adventure,Fantasy,Sci-Fi,Thriller,,,,PG-13
 Fifty Shades of Black ,Michael Tiddes,92,"Fred Willard, Mike Epps, Russell Peters",color in title|parody|reference to cuba gooding jr|reference to netflix|written by star,English,USA,2016,3.5,Comedy,,,,,,,,R
@@ -4882,7 +4882,7 @@ The Dead Undead ,Matthew R. Anderson,89,"Johnny Pacar, Vernon Wells, Matthew R.
 The Ridges ,Brandon Landers,143,"Robbie Barnes, Alana Kaniewski, Brandon Landers",avatar|college|death|tron|university,English,USA,2011,3,Drama,Horror,Thriller,,,,,,
 BloodRayne ,Uwe Boll,92,"Meat Loaf, Udo Kier, Michael Paré",escape|half human|king|vampire|vampire hunter,English,USA,2005,2.9,Action,Adventure,Fantasy,Horror,,,,,R
 The True Story of Puss'N Boots ,Jérôme Deschamps,80,"Yolande Moreau, André Wilms, Jérôme Deschamps",cartoon cat|cat|character name in title|puss in boots|surrealism,English,France,2009,2.9,Adventure,Animation,Comedy,,,,,,G
-The Bachelor             ,,60,Chris Harrison,bachelor|seeking love|single guy|tv host|women rivals for man,English,USA,,2.9,Game-Show,Reality-TV,Romance,,,,,,
+The Bachelor ,,60,Chris Harrison,bachelor|seeking love|single guy|tv host|women rivals for man,English,USA,,2.9,Game-Show,Reality-TV,Romance,,,,,,
 Daddy Day Camp ,Fred Savage,89,"Lochlyn Munro, Brian Doyle-Murray, Tamala Jones",competition|estranged father|skunk|summer camp|wall,English,USA,2007,2.9,Comedy,Family,,,,,,,PG
 Jaws: The Revenge ,Joseph Sargent,92,"Judith Barsi, Mario Van Peebles, Lynn Whitfield",banana boat|boat|christmas|sea|shark,English,USA,1987,2.8,Adventure,Horror,Thriller,,,,,,PG-13
 Doogal ,Dave Borthwick,77,"Jimmy Fallon, Kylie Minogue, Jon Stewart",diamond|lava|magic|mountain|sorcerer,English,USA,2006,2.8,Adventure,Animation,Comedy,Family,Fantasy,,,,G
