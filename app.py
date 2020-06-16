@@ -2,7 +2,7 @@ import os
 import numpy as np
 import pandas as pd
 from sqlalchemy.ext.declarative import declarative_base
-Base = declarative_base()
+
 
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
@@ -16,12 +16,22 @@ from flask_cors import CORS
 #################################################
 SQLITE = "sqlite:///" + os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'movie_db.sqlite')
 print(SQLITE)
+SQLITE_ZIPCODE = "sqlite:///" + os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'zipcode_db.sqlite')
+
+Base = declarative_base()
+
 engine = create_engine(SQLITE)
 Base.metadata.create_all(engine)
 
 # Save reference to the table
-from sqlalchemy.orm import Session
-session = Session(bind=engine)
+session_zipcode = Session(bind=engine)
+ 
+ #zipcode engine 
+Base_zipcode = declarative_base()
+
+engine_zipcode = create_engine(SQLITE_ZIPCODE)
+Base_zipcode.metadata.create_all(engine_zipcode)
+
 
 class Movies(Base):
     __tablename__ = 'sqldata'
@@ -37,10 +47,11 @@ class Movies(Base):
     imdb_score = Column(Integer)
     content_rating = Column(String)
 
-
-# results = session.query(Movies)
-# for 
-
+class Zipcode(Base_zipcode):
+    __tablename__ = 'zipcode'
+    zip = Column(Integer, primary_key = True)
+    latitude = Column(Float)
+    longitude = Column(Float)
 
 #################################################
 # Flask Setup
@@ -56,11 +67,11 @@ CORS(app)
 def welcome():
     """List all available api routes."""
     return (
+        f"<h2>Welcome to the Directory</h2>"
         f"Available Routes:<br/>"
-        f"/movie_data<br/>"
-        f"/piechart_data<br/>"
-        f"/get_barchart_data<br/>"
-        f"/dashboard<br/>"
+        f"<a href = '/zipcodes' target='_blank'>/zipcodes</a><br/>"
+        f"<a href = '/movie_data' target='_blank'>/movie_data</a><br/>"
+       
     )
 
 @app.route("/movie_data")
@@ -93,24 +104,23 @@ def movie_data():
     return jsonify(all_movies)
 
 
-# @app.route('/piechart_data')
-# def get_piechart_data():
-#     session = Session(engine)
-#     """Return a list of content_rating counts """
-#     results = session.query(Movies.country,func.count(Movies.country)).\
-#                             group_by(Movies.country)
-#     session.close()
-#     print(results)
-# #     # Create a dictionary from the row data and append to a list of movies
-#     pie_chart = []
-#     for country, count in results:
-#         ratings_dict = {}
-#         ratings_dict['country'] = country
-#         ratings_dict['count'] = count
-#         pie_chart.append(ratings_dict)
+@app.route('/zipcodes')
+def zipcode():
+    session_zipcode = Session(engine_zipcode)
 
-#     return jsonify(pie_chart)
+    results = session_zipcode.query(Zipcode.zip, Zipcode.latitude, Zipcode.longitude).all()
 
+    session_zipcode.close()
+
+    all_zipcodes = []
+    for zip, latitude, longitude  in results:
+        zipcode_dict = {}
+        zipcode_dict['zip'] = zip
+        zipcode_dict['lat'] = latitude
+        zipcode_dict['lon'] = longitude
+        all_zipcodes.append(zipcode_dict)
+        
+    return jsonify(all_zipcodes)
 
 
 if __name__ == '__main__':
