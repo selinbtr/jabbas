@@ -121,9 +121,14 @@ def zipcode():
     return jsonify(all_zipcodes)
 
 
+<<<<<<< HEAD
 
 # if __name__ =='__main__':
 #     app.run(threaded=True, host='0.0.0.0', port=os.environ['PORT'])
+=======
+if __name__ =='__main__':
+    app.run(threaded=True, host='0.0.0.0', port=os.environ['PORT'])
+>>>>>>> 55dee6666ee472eaf42a8fc558a0d1810da53b05
 
 if __name__ == '__main__':
     app.run(debug=True)

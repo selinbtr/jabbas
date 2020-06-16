@@ -1,6 +1,6 @@
 function makeTable(data) {
    
-    var tbody = d3.select("tbody");
+    var tbody = d3.select("tbody");it 
    
     data.forEach(function(movies) {
         

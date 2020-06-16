@@ -1,4 +1,9 @@
-gunicorn
-flask
-flask-cors
-flask-restful
+Flask>=1.1.1
+Jinja2>=2.10.3
+SQLAlchemy>=1.3.11
+gunicorn>=20.0.0
+flask_sqlalchemy>=2.0.0
+numpy
+pandas 
+flask_restful
+flask_CORS
