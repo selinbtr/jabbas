@@ -1,4 +1,4 @@
-fetch('/zipcodes').then(data=>data.json()).then(d=>{
+fetch('https://jabbas.herokuapp.com/movie_data/zipcodes').then(data=>data.json()).then(d=>{
     console.log(d);
     
     var button = d3.select("#button").on("click", getCoordinates);
