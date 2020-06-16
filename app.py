@@ -82,18 +82,17 @@ def movie_data():
     """Return a list of movie data """
     # Query all movies
     results = session.query(Movies.movie_title, Movies.director_name, Movies.duration, Movies.Genre1,
-    Movies.actors, Movies.plot_keywords, Movies.language, Movies.country, Movies.title_year, Movies.imdb_score, Movies.content_rating).all()
+    Movies.actors, Movies.language, Movies.country, Movies.title_year, Movies.imdb_score, Movies.content_rating).all()
     session.close()
 
     # Create a dictionary from the row data and append to a list of movies
     all_movies = []
-    for movie_title, director_name, duration, Genre1, actors, plot_keywords, language, country, title_year, imdb_score, content_rating  in results:
+    for movie_title, director_name, duration, Genre1, actors, language, country, title_year, imdb_score, content_rating  in results:
         movies_dict = {}
         movies_dict["movie"] = movie_title
         movies_dict["director"] = director_name
         movies_dict["genres"] = Genre1
         movies_dict["actors"] = actors
-        movies_dict["keywords"] = plot_keywords
         movies_dict["language"] = language
         movies_dict["country"] = country
         movies_dict["year"] = title_year

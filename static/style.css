@@ -78,8 +78,9 @@ h3 {
     width: 50%;
     margin: auto;
     padding: 3%;
-    border: .5pt solid black;
+    border: 1pt solid black;
     height: 100%;
+    background-color: rgb(245, 198, 43);
 }
 
 #form {
@@ -108,7 +109,7 @@ h3 {
     color: white;
 }
 
-#hike-memo {
+#word-memo {
     text-align: center;
     border: 1pt solid black;
     padding: 2%;
@@ -130,3 +131,8 @@ hr {
 a {
     color: rgb(239, 244, 255);
 }
+
+#genre {
+    font-size: 14pt;
+}
+
