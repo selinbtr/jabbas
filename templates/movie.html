@@ -17,7 +17,7 @@
 <body>
     <nav class="navbar navbar-expand-lg">
         <a class="navbar-brand" href="index.html"><strong>QuarantineSurvivalKit</strong></a>
-        <ul class="nav navbar-nav" id="links">
+        <ul class="nav navbar-nav">
             <li class="active"><a href="index.html">Home</a></li>
             <li><a href="movie.html">Movies</a></li>
             <li><a href="hike.html">Hiking</a></li>
@@ -36,8 +36,8 @@
         <div class="row" id="memo">
             <div class="col-xs-12 col-md-12">
                 <div class="article">
-                    <h3 id="hike-memo"><strong>Congratulations! You are one step closer to not being bored. 
-                        Please interact with our dashboard below to choose your desired movie.</strong>
+                    <h3 id="word-memo">Congratulations! You are one step closer to not being bored. 
+                        Please interact with our dashboard below to choose your desired movie.
                     </h3>
                 </div>
             </div>
@@ -52,12 +52,13 @@
             <div class="col-md-4"></div>
             <div class="col-md-4">
                 <div class="well">
-                    <h5><strong>Select Genre:</strong></h5>
+                    <h5 id="genre"><strong>Select Genre:</strong></h5>
                     <select id="selDataset" onchange="optionChanged(this.value)"></select>
                 </div>
             </div>
             <div class="col-md-4"></div>
         </div>
+        <hr>
     </div>
 
     <br>
@@ -148,13 +149,16 @@
                     <table id="movie-table" class="table table-striped">
                         <thead>
                             <tr>
-                                <th class="table-head">Title</th>
-                                <th class="table-head">Genre</th>
-                                <th class="table-head">Release Year</th>
-                                <th class="table-head">Rating</th>
+                                <th class="table-head">Actors</th>
+                                <th class="table-head">Content Rating</th>
+                                <th class="table-head">Country</th>
                                 <th class="table-head">Director</th>
                                 <th class="table-head">Duration</th>
-                                <th class="table-head">Actors</th>
+                                <th class="table-head">Genre</th>
+                                <th class="table-head">Language</th>
+                                <th class="table-head">Title</th>
+                                <th class="table-head">IMDB Score</th>
+                                <th class="table-head">Release Year</th>
                             </tr>
                         </thead>
                     <tbody></tbody>
@@ -163,8 +167,6 @@
             </div>
         </div>
     </div>
-
-    <script 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
