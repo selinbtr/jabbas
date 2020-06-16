@@ -1,6 +1,6 @@
 function makeTable(data) {
    
-    var tbody = d3.select("tbody");it 
+    var tbody = d3.select("tbody");
    
     data.forEach(function(movies) {
         
@@ -25,7 +25,7 @@ function PressButton()
     {
     d3.event.preventDefault();
 
-    tableData = d3.json("https://jabbas.herokuapp.com/movie_data'").then((data) => {
+    tableData = d3.json("https://jabbas.herokuapp.com/movie_data").then((data) => {
         console.log(`promiseResult ${data}`);
     
         var inputTitle = d3.select("#title").property("value");
