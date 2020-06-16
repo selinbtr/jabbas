@@ -1,19 +1,15 @@
-// fetch("/movie_data").then(data=>data.json()).then(d=>{
+d3.json('https://jabbas.herokuapp.com/movie_data').then((data)=> {
+    console.log(data);
 
-// })
 
-d3.json("http://127.0.0.1:5000/movie_data").then((data) => {
-    console.log(data)
     var selector=d3.select('#selDataset');
 
-    // for (var i=0; i<data.length; i++)
     var genre_list = []
     data.forEach((movie)=> {
         var genre = movie.genres;
         genre_list.push(genre)
     })
        
-     
     var unique_genres = Array.from(new Set(genre_list))
     console.log(unique_genres)
     unique_genres.forEach((genre)=> {
@@ -23,13 +19,14 @@ d3.json("http://127.0.0.1:5000/movie_data").then((data) => {
     })
 
 buildChart(unique_genres[0]);
-
 });
 
 
 
 function buildChart(selection) {
-    d3.json("http://127.0.0.1:5000/movie_data").then((data)=> {
+    d3.json('https://jabbas.herokuapp.com/movie_data').then((data)=> {
+        console.log(data);
+
         var filterSubject = data.filter(data => data.genres==selection)
         console.log(filterSubject)
        
@@ -54,7 +51,6 @@ function buildChart(selection) {
             textposition: "inside",
         };
         var layout = {
-            //title: `${selection} Movies broken out by Country of Origin`,
             title:{
                 text:`${selection} Movies broken out by Country of Origin`,
                 font: {
@@ -141,8 +137,6 @@ function buildChart(selection) {
     });
     
 }
-
-
 
 function optionChanged(selectedRating) {
     console.log(selectedRating);

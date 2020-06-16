@@ -12,7 +12,7 @@ function makeTable(data) {
     });
 };
 
-d3.json("http://127.0.0.1:5000/movie_data").then((data) => {
+d3.json("https://jabbas.herokuapp.com/movie_data").then((data) => {
     
     console.log(data);
     makeTable(data);
@@ -25,7 +25,7 @@ function PressButton()
     {
     d3.event.preventDefault();
 
-    tableData = d3.json("http://127.0.0.1:5000/movie_data").then((data) => {
+    tableData = d3.json("https://jabbas.herokuapp.com/movie_data'").then((data) => {
         console.log(`promiseResult ${data}`);
     
         var inputTitle = d3.select("#title").property("value");
