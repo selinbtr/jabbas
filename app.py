@@ -40,7 +40,6 @@ class Movies(Base):
     duration = Column(Integer)
     Genre1 = Column(String)
     actors = Column(String)
-    plot_keywords= Column(String)
     language = Column(String)
     country= Column(String)
     title_year = Column(Integer)
@@ -122,8 +121,7 @@ def zipcode():
     return jsonify(all_zipcodes)
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
-# if __name__ =='__main__':
-#     app.run(threaded=True, host='0.0.0.0', port=os.environ['PORT'])
+
+if __name__ =='__main__':
+    app.run(threaded=True, host='0.0.0.0', port=os.environ['PORT'])
 
