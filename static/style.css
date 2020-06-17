@@ -154,6 +154,7 @@ p {
     min-height: 100%;
     min-width: 100%;
     display: block;
+    z-index: 0;
 }
 
 html, body {
@@ -316,5 +317,6 @@ footer {
     bottom: 0;
     width: 100%;
     padding-top: 12px; 
-    box-shadow: 0px -1px 3px rgb(163, 162, 162)
+    box-shadow: 0px -1px 3px rgb(163, 162, 162);
+    z-index: 1;
 }
