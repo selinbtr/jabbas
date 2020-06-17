@@ -14,8 +14,8 @@ body {
 }
 
 #header {
-    background-image: url("https://static.vecteezy.com/system/resources/previews/000/154/986/original/grunge-danger-caution-background-vector.jpg");
-    background-size: contain;
+    background-image: url("https://wikitravel.org/upload/shared//f/f1/Mount_Apo_Banner.jpg");
+    background-size: 1500px 200px;
 }
 
 h1 {
@@ -113,7 +113,7 @@ h3 {
 
 #word-memo {
     text-align: center;
-    border: 1pt solid black;
+    border: 1pt solid rgb(145, 7, 7);
     padding: 2%;
     width: 80%;
     margin: auto;
@@ -192,8 +192,8 @@ html, body {
 }
 
 #border {
-    border-top: .5pt solid black;
-    border-bottom: .5pt solid black;
+    border-top: 1.5pt solid black;
+    border-bottom: 1.5pt solid black;
     width: 100%;
     padding-top: 3%;
     font-size: 20px;
@@ -227,8 +227,8 @@ html, body {
 #button-choice {
     margin: 1%;
     text-align: center;
-    background-color: rgb(1, 70, 150);
-    border: 5pt solid rgb(1, 69, 146);
+    background-color: rgb(139, 21, 5);
+    border: 5pt solid rgb(134, 20, 5);
     width: 25%;
     box-shadow: -3px 4px 3px rgb(189, 188, 188);
 }
@@ -289,7 +289,6 @@ th {
     background-color: rgb(245, 198, 43);
     margin-bottom: 0;
     border: 1pt solid black;
-   
     color: black;
     border-bottom-left-radius: 0%;
     border-bottom-right-radius: 0%;
@@ -303,10 +302,10 @@ th {
 }
 
 footer {
-    background-color: rgb(188, 190, 194); 
+    background-color: rgb(26, 26, 26); 
     border-top-left-radius: 4px; 
     border-top-right-radius: 4px; 
-    border-top: 2px solid rgb(168, 169, 170);
+    border-top: 2pt solid rgb(133, 133, 133);;
     color: white; 
     min-height: 55px; 
     font-family: 'Calibri';
@@ -317,6 +316,6 @@ footer {
     bottom: 0;
     width: 100%;
     padding-top: 12px; 
-    box-shadow: 0px -1px 3px rgb(163, 162, 162);
+    box-shadow: 0px -1px 4px rgb(170, 170, 170);
     z-index: 1;
 }
