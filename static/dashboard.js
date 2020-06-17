@@ -90,9 +90,9 @@ function buildChart(selection) {
             data: {
                 labels: titles_list,
                 datasets: [{
-                    label: 'Movie Titles',
+                    label: 'IMDB Score',
                     data: ratings_list,
-                    backgroundColor: '#2980B9' 
+                    backgroundColor: colors 
                 }]
                 },
                 options: {

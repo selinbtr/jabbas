@@ -1,16 +1,16 @@
 body {
-    font-family: calibri;
-    background-color: rgb(250, 250, 250);
+    font-family: 'calibri';
+    background-color: rgb(236, 236, 236);
 }
 
 .jumbotron {
     color: white;
     font-weight: bold;
-    background-color: rgb(15, 15, 104);
+    background-color: black;
     border: 10px black;
     border-style: solid;
     width: 100%;
-    font-size: 4pt;
+    font-size: 60px;
 }
 
 #header {
@@ -19,7 +19,6 @@ body {
 }
 
 h1 {
-    font-size: 20px;
     font-family: fantasy;
 }
 
@@ -45,16 +44,17 @@ h3 {
 .panel-title {
     background-color: rgb(255, 178, 34);
     font-size: 30px;
-    border: 3px solid black;
+    border: 1px solid black;
+    border-top: none;
     padding: 5px
 }
 
 .panel-body {
     background-color: rgb(235, 235, 235);
     border: 2px solid black;
-    border-bottom: 2px solid black;
-    border-left: 2px solid black;
-    border-right: 2px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
     border-top: none;
 }
 
@@ -69,27 +69,17 @@ h3 {
     text-align: center;
 }
 
-#table {
-    text-align: center;
-}
-
-.well {
+#select-text {
     text-align: center;
     width: 50%;
     margin: auto;
-    padding: 3%;
-    border: 1pt solid black;
-    height: 100%;
-    background-color: rgb(245, 198, 43);
-}
-
-#form {
-    text-align: center;
-}
-
-#enter-zip {
+    padding-top: 0;
     padding-bottom: 3%;
-    font-size: 20px;
+    height: 100%;
+}
+
+#form, #table {
+    text-align: center;
 }
 
 .navbar {
@@ -98,15 +88,27 @@ h3 {
     border-bottom: 2pt solid rgb(212, 212, 205);
     border-bottom: 2pt solid rgb(212, 212, 205);
     padding: 0%;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+    z-index: 1;
 }
 
 .nav, .navbar-nav {
     color: white;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+    z-index: 1;
 }
 
 .navbar-brand {
     font-size: 20px;
     color: white;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+    z-index: 1;
 }
 
 #word-memo {
@@ -116,12 +118,14 @@ h3 {
     width: 80%;
     margin: auto;
     background: white;
-    box-shadow: grey;
+    box-shadow: 2px 2px  rgb(189, 189, 189) , -2px -2px rgb(189, 189, 189) ;
+    margin-top: 2%;
+    margin-top: 1%;
+    color: black
 }  
 
 #memo {
     padding-bottom: 1%;
-    
 }
 
 hr {
@@ -129,9 +133,188 @@ hr {
 }
 
 a {
-    color: rgb(239, 244, 255);
+    color: rgb(255, 178, 34);
 }
 
-#genre {
+p {
+    margin-bottom: 0;
+}
+
+#select-genre {
     font-size: 14pt;
+    background-color: rgb(245, 198, 43);
+    border: 1pt solid black;
+    border-radius: 4px;
+    padding: .5em;
+}
+
+#map {
+    width: 100px;
+    height:100px;
+    min-height: 100%;
+    min-width: 100%;
+    display: block;
+}
+
+html, body {
+    height: 100%;
+}
+
+#map-holder {
+    height: 100%;
+}
+
+.fill {
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+
+#map-try {
+    max-width:60em;
+    padding: 0.2em;
+}
+
+#trails {
+    text-align: center;
+    font-size: 15pt;
+    padding: 3%;
+}
+
+#trails-text {
+    background-color: rgb(245, 198, 43);
+    width: 40%;
+    margin: auto;
+    border-radius: 2%;
+    border: .5pt solid black
+}
+
+#border {
+    border-top: .5pt solid black;
+    border-bottom: .5pt solid black;
+    width: 100%;
+    padding-top: 3%;
+    font-size: 20px;
+}
+
+#top-border {
+    border-top: .5pt solid black;
+    width: 100%;
+    padding-top: 3%;
+    font-size: 20px;
+}
+
+#the-box {
+    border-top: .5pt solid black;
+    border-bottom: .5pt solid black;
+    width: 100%;
+    font-size: 20px;
+}
+
+#trails-container {
+    padding: 3.5em;
+}
+
+#choice {
+    font-size: 25pt;
+    text-align: center;
+    padding: 1%;
+    margin-top: .5em;
+}
+
+#button-choice {
+    margin: 1%;
+    text-align: center;
+    background-color: rgb(1, 70, 150);
+    border: 5pt solid rgb(1, 69, 146);
+    width: 25%;
+    box-shadow: -3px 4px 3px rgb(189, 188, 188);
+}
+
+#button-choice:hover {
+    background-color: rgb(7, 7, 66);
+    border: 5pt solid rgb(7, 7, 66);
+}
+
+#choose {
+    margin: 0%;
+    text-align: center;
+}
+
+#button-box {
+    border: .5pt solid black;
+}
+
+.bar {
+    background-color: white;
+    height: 100%;
+}
+
+#chart {
+    padding: 0;
+    border: .5pt solid black;
+}
+
+th, td {
+    text-align: center;
+}
+
+th {
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+    z-index: 1;
+    color:white;
+    background-color:grey; 
+  }
+
+#svg-container {
+    width: 100%
+}
+
+#table-data {
+    overflow-x: scroll;
+    overflow-y: scroll;
+    overflow: scroll;
+    height: 555px;   
+}
+
+#table-header {
+    font-size: 45px;
+}
+
+.well {
+    background-color: rgb(245, 198, 43);
+    margin-bottom: 0;
+    border: 1pt solid black;
+   
+    color: black;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+    vertical-align: middle;
+}
+
+#use-filters {
+    text-align: center;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+footer {
+    background-color: rgb(188, 190, 194); 
+    border-top-left-radius: 4px; 
+    border-top-right-radius: 4px; 
+    border-top: 2px solid rgb(168, 169, 170);
+    color: white; 
+    min-height: 55px; 
+    font-family: 'Calibri';
+    font-size: 16px; 
+    text-align: center; 
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 12px; 
+    box-shadow: 0px -1px 3px rgb(163, 162, 162)
 }
